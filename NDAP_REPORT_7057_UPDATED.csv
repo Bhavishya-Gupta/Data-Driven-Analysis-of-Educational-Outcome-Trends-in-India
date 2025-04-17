@@ -1,0 +1,1451 @@
+ROWID,Country,State,District,Year,Class,Schools_Surveyed,Students_Surveyed,AVG_L813,AVG_M601,AVG_SCI703,AVG_SST605,AVG_M801,AVG_SCI801,AVG_SST704
+1,India,Jammu And Kashmir,Anantnag,"Calendar Year (Jan - Dec), 2017",8,204.0,2076.0,35.0,18.97,29.4,22.74,16.92,23.32,9.02
+2,India,Jammu And Kashmir,Anantnag,"Calendar Year (Jan - Dec), 2021",8,320.0,4964.0,64.87,62.03,51.32,50.4,45.54,58.89,60.96
+3,India,Jammu And Kashmir,Budgam,"Calendar Year (Jan - Dec), 2017",8,204.0,2604.0,48.63,40.0,42.65,45.01,40.18,45.59,16.07
+4,India,Jammu And Kashmir,Budgam,"Calendar Year (Jan - Dec), 2021",8,292.0,5108.0,58.49,59.27,46.52,46.71,42.95,52.28,47.45
+5,India,Jammu And Kashmir,Baramulla,"Calendar Year (Jan - Dec), 2017",8,172.0,2252.0,45.38,41.75,41.63,41.74,47.84,40.69,4.68
+6,India,Jammu And Kashmir,Baramulla,"Calendar Year (Jan - Dec), 2021",8,280.0,5532.0,58.37,55.49,46.47,44.99,38.2,53.29,55.15
+7,India,Jammu And Kashmir,Doda,"Calendar Year (Jan - Dec), 2017",8,204.0,2840.0,43.63,37.86,36.05,36.34,19.27,40.79,11.62
+8,India,Jammu And Kashmir,Doda,"Calendar Year (Jan - Dec), 2021",8,280.0,5164.0,48.39,57.27,42.14,31.03,32.42,42.72,36.02
+9,India,Jammu And Kashmir,Jammu,"Calendar Year (Jan - Dec), 2017",8,204.0,3136.0,40.63,41.71,39.51,35.97,30.05,38.54,9.33
+10,India,Jammu And Kashmir,Jammu,"Calendar Year (Jan - Dec), 2021",8,324.0,6276.0,69.26,60.12,49.86,47.45,43.64,62.24,59.4
+11,India,Jammu And Kashmir,Kathua,"Calendar Year (Jan - Dec), 2017",8,204.0,3100.0,40.26,37.57,33.39,39.1,32.49,39.12,13.6
+12,India,Jammu And Kashmir,Kathua,"Calendar Year (Jan - Dec), 2021",8,292.0,5456.0,54.81,56.93,41.52,42.93,38.72,49.59,44.87
+13,India,Jammu And Kashmir,Kupwara,"Calendar Year (Jan - Dec), 2017",8,180.0,2688.0,53.21,40.38,47.05,46.13,29.44,48.3,14.17
+14,India,Jammu And Kashmir,Kupwara,"Calendar Year (Jan - Dec), 2021",8,296.0,5368.0,53.13,56.74,44.13,38.89,33.21,51.84,45.79
+15,India,Jammu And Kashmir,Poonch,"Calendar Year (Jan - Dec), 2017",8,204.0,3620.0,47.71,44.9,43.41,40.0,33.78,44.17,21.62
+16,India,Jammu And Kashmir,Poonch,"Calendar Year (Jan - Dec), 2021",8,264.0,5044.0,50.14,52.85,37.78,39.26,40.18,43.34,45.77
+17,India,Jammu And Kashmir,Pulwama,"Calendar Year (Jan - Dec), 2017",8,204.0,1928.0,18.88,12.08,16.34,20.54,9.5,21.41,17.77
+18,India,Jammu And Kashmir,Pulwama,"Calendar Year (Jan - Dec), 2021",8,292.0,6536.0,57.84,56.97,45.84,43.79,40.35,52.66,52.41
+19,India,Jammu And Kashmir,Rajouri,"Calendar Year (Jan - Dec), 2017",8,204.0,3368.0,44.09,41.83,41.1,39.79,34.27,36.14,15.73
+20,India,Jammu And Kashmir,Rajouri,"Calendar Year (Jan - Dec), 2021",8,292.0,5484.0,44.12,46.43,31.85,36.63,32.64,39.89,36.49
+21,India,Jammu And Kashmir,Srinagar,"Calendar Year (Jan - Dec), 2017",8,192.0,1764.0,45.58,26.91,34.94,39.46,26.61,42.95,10.55
+22,India,Jammu And Kashmir,Srinagar,"Calendar Year (Jan - Dec), 2021",8,284.0,4632.0,71.6,62.46,56.82,55.62,46.23,60.06,63.82
+23,India,Jammu And Kashmir,Udhampur,"Calendar Year (Jan - Dec), 2017",8,204.0,3572.0,43.55,39.73,33.61,36.17,30.44,38.79,14.67
+24,India,Jammu And Kashmir,Udhampur,"Calendar Year (Jan - Dec), 2021",8,280.0,5460.0,55.11,51.43,43.36,35.22,36.84,51.67,41.71
+25,India,Jammu And Kashmir,Kishtwar,"Calendar Year (Jan - Dec), 2017",8,204.0,2752.0,53.26,38.18,35.13,45.78,40.95,43.88,14.84
+26,India,Jammu And Kashmir,Kishtwar,"Calendar Year (Jan - Dec), 2021",8,296.0,4556.0,48.64,52.98,36.19,40.53,36.39,41.67,35.32
+27,India,Jammu And Kashmir,Ramban,"Calendar Year (Jan - Dec), 2017",8,204.0,3768.0,47.49,46.74,42.91,36.84,31.91,48.04,13.06
+28,India,Jammu And Kashmir,Ramban,"Calendar Year (Jan - Dec), 2021",8,244.0,5064.0,37.77,48.9,33.83,30.11,32.72,36.68,33.12
+29,India,Jammu And Kashmir,Kulgam,"Calendar Year (Jan - Dec), 2017",8,200.0,2276.0,18.25,14.07,11.68,22.5,49.16,8.75,6.35
+30,India,Jammu And Kashmir,Kulgam,"Calendar Year (Jan - Dec), 2021",8,320.0,4912.0,53.23,57.31,39.58,38.73,37.77,46.66,37.45
+31,India,Jammu And Kashmir,Bandipora,"Calendar Year (Jan - Dec), 2017",8,196.0,2608.0,41.75,40.69,34.26,37.88,23.88,38.34,15.52
+32,India,Jammu And Kashmir,Bandipora,"Calendar Year (Jan - Dec), 2021",8,284.0,4580.0,50.22,62.74,42.65,37.67,38.98,50.37,37.08
+33,India,Jammu And Kashmir,Samba,"Calendar Year (Jan - Dec), 2017",8,204.0,2644.0,48.93,40.12,41.62,34.64,27.89,44.77,5.93
+34,India,Jammu And Kashmir,Samba,"Calendar Year (Jan - Dec), 2021",8,284.0,4088.0,60.03,52.09,40.25,38.8,35.77,51.23,37.26
+35,India,Jammu And Kashmir,Shopian,"Calendar Year (Jan - Dec), 2017",8,180.0,1420.0,13.82,33.51,12.2,10.7,27.95,14.27,4.35
+36,India,Jammu And Kashmir,Shopian,"Calendar Year (Jan - Dec), 2021",8,264.0,4600.0,56.67,62.93,48.8,49.31,41.68,56.24,53.69
+37,India,Jammu And Kashmir,Ganderbal,"Calendar Year (Jan - Dec), 2017",8,192.0,2500.0,50.12,48.99,48.43,40.48,45.87,45.62,18.65
+38,India,Jammu And Kashmir,Ganderbal,"Calendar Year (Jan - Dec), 2021",8,276.0,4688.0,50.64,50.27,39.65,32.1,33.62,47.88,42.7
+39,India,Jammu And Kashmir,Reasi,"Calendar Year (Jan - Dec), 2017",8,200.0,3404.0,34.48,29.14,33.28,29.73,27.73,34.11,12.32
+40,India,Jammu And Kashmir,Reasi,"Calendar Year (Jan - Dec), 2021",8,272.0,4908.0,41.99,49.78,33.37,34.46,33.24,38.23,37.47
+41,India,Himachal Pradesh,Bilaspur,"Calendar Year (Jan - Dec), 2017",8,204.0,3872.0,60.89,30.58,30.92,47.42,32.44,65.5,40.29
+42,India,Himachal Pradesh,Bilaspur,"Calendar Year (Jan - Dec), 2021",8,276.0,4840.0,56.07,46.27,34.7,40.39,31.13,48.44,37.13
+43,India,Himachal Pradesh,Chamba,"Calendar Year (Jan - Dec), 2017",8,204.0,4000.0,57.43,34.71,28.93,45.1,24.14,55.96,41.58
+44,India,Himachal Pradesh,Chamba,"Calendar Year (Jan - Dec), 2021",8,276.0,5884.0,50.14,42.91,33.25,39.5,28.15,40.02,33.27
+45,India,Himachal Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2017",8,204.0,3692.0,53.62,29.96,31.59,33.8,30.7,60.02,29.0
+46,India,Himachal Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2021",8,288.0,5460.0,58.85,50.06,39.15,38.49,33.32,51.59,35.95
+47,India,Himachal Pradesh,Kangra,"Calendar Year (Jan - Dec), 2017",8,204.0,3604.0,59.11,36.84,33.86,47.28,32.54,66.08,43.32
+48,India,Himachal Pradesh,Kangra,"Calendar Year (Jan - Dec), 2021",8,308.0,5952.0,60.77,50.22,39.25,40.2,31.1,52.79,42.02
+49,India,Himachal Pradesh,Kinnaur,"Calendar Year (Jan - Dec), 2017",8,204.0,2400.0,62.74,24.24,32.33,45.67,29.7,68.34,39.93
+50,India,Himachal Pradesh,Kinnaur,"Calendar Year (Jan - Dec), 2021",8,220.0,2500.0,55.62,42.65,37.67,41.97,31.88,47.34,35.56
+51,India,Himachal Pradesh,Kullu,"Calendar Year (Jan - Dec), 2017",8,204.0,4612.0,58.28,27.08,28.63,49.26,30.33,67.42,38.65
+52,India,Himachal Pradesh,Kullu,"Calendar Year (Jan - Dec), 2021",8,232.0,4904.0,55.06,43.23,36.37,35.75,30.01,47.83,39.01
+53,India,Himachal Pradesh,Lahul And Spiti,"Calendar Year (Jan - Dec), 2017",8,64.0,480.0,59.67,26.98,30.6,55.0,29.82,64.63,40.35
+54,India,Himachal Pradesh,Lahul And Spiti,"Calendar Year (Jan - Dec), 2021",8,72.0,688.0,62.72,55.48,40.49,26.58,26.66,55.46,31.39
+55,India,Himachal Pradesh,Mandi,"Calendar Year (Jan - Dec), 2017",8,200.0,3928.0,61.64,33.88,40.49,56.21,34.15,69.93,47.76
+56,India,Himachal Pradesh,Mandi,"Calendar Year (Jan - Dec), 2021",8,288.0,5892.0,56.7,43.42,38.39,40.41,32.04,47.62,36.79
+57,India,Himachal Pradesh,Shimla,"Calendar Year (Jan - Dec), 2017",8,204.0,3584.0,62.99,31.89,35.52,56.47,29.66,71.95,47.36
+58,India,Himachal Pradesh,Shimla,"Calendar Year (Jan - Dec), 2021",8,296.0,5572.0,63.61,46.31,42.57,41.6,32.23,52.63,45.52
+59,India,Himachal Pradesh,Sirmaur,"Calendar Year (Jan - Dec), 2017",8,204.0,4964.0,51.8,29.7,30.31,44.08,24.75,56.23,41.64
+60,India,Himachal Pradesh,Sirmaur,"Calendar Year (Jan - Dec), 2021",8,240.0,5244.0,57.18,47.32,37.0,42.53,30.43,47.84,39.09
+61,India,Himachal Pradesh,Solan,"Calendar Year (Jan - Dec), 2017",8,200.0,4460.0,62.97,33.27,37.39,53.18,35.8,69.23,44.48
+62,India,Himachal Pradesh,Solan,"Calendar Year (Jan - Dec), 2021",8,232.0,5196.0,56.53,45.92,36.39,37.76,32.51,49.42,40.19
+63,India,Himachal Pradesh,Una,"Calendar Year (Jan - Dec), 2017",8,204.0,4416.0,56.11,27.98,36.13,47.83,32.55,60.49,38.36
+64,India,Himachal Pradesh,Una,"Calendar Year (Jan - Dec), 2021",8,236.0,4800.0,55.99,47.81,35.73,38.95,29.67,48.06,41.26
+65,India,Punjab,Amritsar,"Calendar Year (Jan - Dec), 2017",8,204.0,4176.0,52.04,41.56,31.7,43.77,22.44,48.05,12.77
+66,India,Punjab,Amritsar,"Calendar Year (Jan - Dec), 2021",8,292.0,7828.0,66.5,62.93,46.32,53.37,46.97,61.9,53.89
+67,India,Punjab,Bathinda,"Calendar Year (Jan - Dec), 2017",8,204.0,5592.0,42.75,23.67,22.53,38.41,20.4,39.04,10.7
+68,India,Punjab,Bathinda,"Calendar Year (Jan - Dec), 2021",8,252.0,6868.0,70.76,69.9,54.54,60.7,54.32,67.12,65.23
+69,India,Punjab,Faridkot,"Calendar Year (Jan - Dec), 2017",8,204.0,3868.0,55.28,26.72,26.76,41.78,24.24,49.87,9.17
+70,India,Punjab,Faridkot,"Calendar Year (Jan - Dec), 2021",8,220.0,5504.0,69.08,64.22,46.77,51.05,47.09,62.33,59.51
+71,India,Punjab,Fatehgarh Sahib,"Calendar Year (Jan - Dec), 2017",8,204.0,4476.0,49.85,26.14,27.41,43.79,18.4,47.28,8.74
+72,India,Punjab,Fatehgarh Sahib,"Calendar Year (Jan - Dec), 2021",8,220.0,4760.0,66.66,56.04,42.45,45.78,39.57,57.1,49.17
+73,India,Punjab,Ferozepur,"Calendar Year (Jan - Dec), 2017",8,204.0,5032.0,52.08,36.64,30.99,42.61,30.55,51.3,15.27
+74,India,Punjab,Ferozepur,"Calendar Year (Jan - Dec), 2021",8,244.0,6284.0,69.49,70.21,48.03,58.9,52.81,61.05,63.24
+75,India,Punjab,Gurdaspur,"Calendar Year (Jan - Dec), 2017",8,204.0,3996.0,58.08,31.04,31.96,53.05,36.33,54.04,6.33
+76,India,Punjab,Gurdaspur,"Calendar Year (Jan - Dec), 2021",8,284.0,6924.0,65.09,65.06,43.19,43.81,39.01,58.49,48.13
+77,India,Punjab,Hoshiarpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4116.0,56.71,32.52,32.8,52.58,27.13,60.46,11.13
+78,India,Punjab,Hoshiarpur,"Calendar Year (Jan - Dec), 2021",8,292.0,6552.0,67.28,64.31,48.99,49.86,46.54,57.31,61.4
+79,India,Punjab,Jalandhar,"Calendar Year (Jan - Dec), 2017",8,204.0,4400.0,56.11,26.31,26.04,45.45,28.99,46.02,9.17
+80,India,Punjab,Jalandhar,"Calendar Year (Jan - Dec), 2021",8,316.0,8332.0,65.1,58.1,45.92,45.29,39.41,56.09,53.31
+81,India,Punjab,Kapurthala,"Calendar Year (Jan - Dec), 2017",8,204.0,4188.0,55.78,31.25,29.59,43.74,25.24,45.65,13.49
+82,India,Punjab,Kapurthala,"Calendar Year (Jan - Dec), 2021",8,284.0,6488.0,64.09,60.71,42.86,49.63,40.06,57.27,52.99
+83,India,Punjab,Ludhiana,"Calendar Year (Jan - Dec), 2017",8,204.0,5556.0,49.17,24.4,27.51,41.04,17.69,47.09,9.94
+84,India,Punjab,Ludhiana,"Calendar Year (Jan - Dec), 2021",8,296.0,7848.0,62.79,64.03,43.83,49.07,47.37,60.61,62.04
+85,India,Punjab,Mansa,"Calendar Year (Jan - Dec), 2017",8,204.0,5704.0,46.5,24.02,22.97,37.8,20.45,44.28,8.68
+86,India,Punjab,Mansa,"Calendar Year (Jan - Dec), 2021",8,204.0,5288.0,66.02,69.34,48.04,48.92,47.44,61.79,55.46
+87,India,Punjab,Moga,"Calendar Year (Jan - Dec), 2017",8,204.0,4416.0,49.51,21.9,22.88,44.02,23.4,47.39,11.88
+88,India,Punjab,Moga,"Calendar Year (Jan - Dec), 2021",8,232.0,6036.0,69.94,63.86,49.03,49.55,45.74,61.57,57.07
+89,India,Punjab,Sri Muktsar Sahib,"Calendar Year (Jan - Dec), 2017",8,204.0,4092.0,51.49,25.38,25.85,48.0,19.39,53.01,12.12
+90,India,Punjab,Sri Muktsar Sahib,"Calendar Year (Jan - Dec), 2021",8,204.0,4816.0,70.93,68.39,49.63,55.19,47.46,64.1,65.86
+91,India,Punjab,Shahid Bhagat Singh Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4672.0,51.15,28.52,28.29,43.32,22.8,50.9,13.99
+92,India,Punjab,Shahid Bhagat Singh Nagar,"Calendar Year (Jan - Dec), 2021",8,264.0,5736.0,64.15,61.35,45.92,45.04,45.03,60.18,51.01
+93,India,Punjab,Patiala,"Calendar Year (Jan - Dec), 2017",8,204.0,3936.0,51.91,26.1,28.14,41.46,19.55,48.94,9.47
+94,India,Punjab,Patiala,"Calendar Year (Jan - Dec), 2021",8,284.0,7012.0,68.81,69.46,52.46,56.74,49.35,63.95,62.51
+95,India,Punjab,Rupnagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4340.0,49.54,25.23,23.84,38.62,20.45,49.84,9.67
+96,India,Punjab,Rupnagar,"Calendar Year (Jan - Dec), 2021",8,272.0,5904.0,63.81,59.74,41.14,50.22,42.25,57.42,57.08
+97,India,Punjab,Sangrur,"Calendar Year (Jan - Dec), 2017",8,151.00078843912615,3964.5108964703913,45.41,25.55,24.41,40.55,16.87,39.87,9.12
+98,India,Punjab,Sangrur,"Calendar Year (Jan - Dec), 2021",8,204.29518435881772,5151.791605570185,65.63,52.9,42.46,51.46,41.81,57.49,55.38
+99,India,Punjab,Barnala,"Calendar Year (Jan - Dec), 2017",8,144.0,3320.0,50.43,26.98,24.52,40.24,23.25,43.55,8.5
+100,India,Punjab,Barnala,"Calendar Year (Jan - Dec), 2021",8,208.0,4928.0,71.83,68.67,51.84,58.19,50.43,64.27,56.61
+101,India,Punjab,S.A.S Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5016.0,46.45,22.92,29.35,37.64,18.31,43.0,15.4
+102,India,Punjab,S.A.S Nagar,"Calendar Year (Jan - Dec), 2021",8,252.0,6320.0,66.85,62.24,46.37,46.03,42.13,61.24,55.29
+103,India,Punjab,Tarn Taran,"Calendar Year (Jan - Dec), 2017",8,204.0,4624.0,46.82,25.92,28.03,34.6,23.25,42.82,12.99
+104,India,Punjab,Tarn Taran,"Calendar Year (Jan - Dec), 2021",8,244.0,6148.0,67.1,66.29,48.58,55.0,51.72,62.85,58.88
+105,India,Punjab,Fazilka,"Calendar Year (Jan - Dec), 2017",8,204.0,4844.0,53.63,29.47,30.69,45.83,28.01,57.54,9.39
+106,India,Punjab,Fazilka,"Calendar Year (Jan - Dec), 2021",8,232.0,5536.0,66.79,60.47,42.06,48.64,42.25,56.56,55.4
+107,India,Punjab,Pathankot,"Calendar Year (Jan - Dec), 2017",8,192.0,3960.0,52.48,25.38,24.83,36.77,28.54,46.91,14.38
+108,India,Punjab,Pathankot,"Calendar Year (Jan - Dec), 2021",8,264.0,6284.0,66.39,60.44,46.93,45.49,42.67,59.31,46.91
+109,India,Punjab,Malerkotla,"Calendar Year (Jan - Dec), 2017",8,52.99921156087384,1391.489103529609,45.41,25.55,24.41,40.55,16.87,39.87,9.12
+110,India,Punjab,Malerkotla,"Calendar Year (Jan - Dec), 2021",8,71.70481564118225,1808.208394429813,65.63,52.9,42.46,51.46,41.81,57.49,55.38
+111,India,Chandigarh,Chandigarh,"Calendar Year (Jan - Dec), 2017",8,428.0,11552.0,61.1,42.98,45.67,56.72,39.66,60.43,41.0
+112,India,Chandigarh,Chandigarh,"Calendar Year (Jan - Dec), 2021",8,232.0,6852.0,64.35,66.7,49.61,52.14,45.66,59.6,58.8
+113,India,Uttarakhand,Almora,"Calendar Year (Jan - Dec), 2017",8,204.0,4588.0,55.7,31.38,37.23,57.02,28.75,53.79,42.86
+114,India,Uttarakhand,Almora,"Calendar Year (Jan - Dec), 2021",8,372.0,7124.0,56.12,49.5,37.35,39.35,35.19,47.25,37.14
+115,India,Uttarakhand,Bageshwar,"Calendar Year (Jan - Dec), 2017",8,204.0,4296.0,60.68,35.81,45.88,64.9,35.89,58.97,57.01
+116,India,Uttarakhand,Bageshwar,"Calendar Year (Jan - Dec), 2021",8,316.0,5928.0,53.24,50.45,38.57,40.17,33.24,44.2,41.49
+117,India,Uttarakhand,Chamoli,"Calendar Year (Jan - Dec), 2017",8,204.0,3612.0,57.69,34.61,46.36,62.02,36.68,61.74,52.62
+118,India,Uttarakhand,Chamoli,"Calendar Year (Jan - Dec), 2021",8,352.0,6380.0,51.51,43.29,34.79,43.33,31.93,41.83,35.33
+119,India,Uttarakhand,Champawat,"Calendar Year (Jan - Dec), 2017",8,200.0,4480.0,51.85,30.39,36.48,46.79,26.35,50.89,47.11
+120,India,Uttarakhand,Champawat,"Calendar Year (Jan - Dec), 2021",8,260.0,5660.0,52.55,50.28,37.03,39.48,32.98,42.47,39.02
+121,India,Uttarakhand,Dehradun,"Calendar Year (Jan - Dec), 2017",8,204.0,4672.0,58.73,41.32,45.01,60.45,32.6,61.64,50.34
+122,India,Uttarakhand,Dehradun,"Calendar Year (Jan - Dec), 2021",8,332.0,8580.0,58.72,46.89,38.53,38.14,36.1,49.75,39.9
+123,India,Uttarakhand,Haridwar,"Calendar Year (Jan - Dec), 2017",8,204.0,5148.0,58.82,39.38,51.06,60.37,34.62,62.68,48.22
+124,India,Uttarakhand,Haridwar,"Calendar Year (Jan - Dec), 2021",8,300.0,8092.0,53.02,47.96,37.6,37.97,36.98,45.83,43.91
+125,India,Uttarakhand,Nainital,"Calendar Year (Jan - Dec), 2017",8,204.0,4612.0,57.92,30.89,43.36,57.59,31.04,56.77,48.32
+126,India,Uttarakhand,Nainital,"Calendar Year (Jan - Dec), 2021",8,304.0,7428.0,61.65,49.94,42.88,38.29,37.95,54.75,46.65
+127,India,Uttarakhand,Pauri Garhwal,"Calendar Year (Jan - Dec), 2017",8,204.0,3556.0,66.99,47.42,49.93,70.87,42.34,67.23,52.25
+128,India,Uttarakhand,Pauri Garhwal,"Calendar Year (Jan - Dec), 2021",8,432.0,7656.0,61.63,55.35,43.16,49.36,36.5,51.43,48.91
+129,India,Uttarakhand,Pithoragarh,"Calendar Year (Jan - Dec), 2017",8,204.0,3788.0,62.91,44.33,48.0,66.0,31.85,63.35,52.23
+130,India,Uttarakhand,Pithoragarh,"Calendar Year (Jan - Dec), 2021",8,296.0,5164.0,53.53,52.05,37.68,38.83,37.92,45.11,42.77
+131,India,Uttarakhand,Rudra Prayag,"Calendar Year (Jan - Dec), 2017",8,204.0,4396.0,63.06,37.77,50.88,68.97,34.3,67.11,63.7
+132,India,Uttarakhand,Rudra Prayag,"Calendar Year (Jan - Dec), 2021",8,344.0,6212.0,54.55,43.39,37.19,45.06,33.2,44.47,38.61
+133,India,Uttarakhand,Tehri Garhwal,"Calendar Year (Jan - Dec), 2017",8,204.0,4084.0,65.41,53.07,57.47,69.54,46.9,69.13,56.2
+134,India,Uttarakhand,Tehri Garhwal,"Calendar Year (Jan - Dec), 2021",8,364.0,7044.0,52.9,44.06,36.01,42.15,28.19,43.69,41.14
+135,India,Uttarakhand,Udam Singh Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4808.0,56.54,39.07,40.37,57.99,29.52,57.33,49.42
+136,India,Uttarakhand,Udam Singh Nagar,"Calendar Year (Jan - Dec), 2021",8,292.0,7520.0,49.27,43.74,34.33,33.67,30.2,42.63,34.32
+137,India,Uttarakhand,Uttar Kashi,"Calendar Year (Jan - Dec), 2017",8,204.0,3952.0,55.24,31.68,37.64,57.39,30.02,54.45,46.17
+138,India,Uttarakhand,Uttar Kashi,"Calendar Year (Jan - Dec), 2021",8,252.0,5228.0,57.58,49.33,39.6,46.06,31.82,45.67,40.53
+139,India,Haryana,Ambala,"Calendar Year (Jan - Dec), 2017",8,200.0,4048.0,56.94,23.64,30.99,39.43,28.43,54.5,40.62
+140,India,Haryana,Ambala,"Calendar Year (Jan - Dec), 2021",8,272.0,6704.0,59.7,51.38,40.39,44.25,33.96,50.12,45.39
+141,India,Haryana,Bhiwani,"Calendar Year (Jan - Dec), 2017",8,141.30942062902085,2834.500731440948,54.19,27.57,34.27,44.09,30.31,53.34,37.2
+142,India,Haryana,Bhiwani,"Calendar Year (Jan - Dec), 2021",8,204.0,4896.0,62.4,55.17,40.91,49.55,41.76,55.89,42.46
+143,India,Haryana,Faridabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4796.0,57.33,32.6,35.85,43.54,30.82,54.06,45.25
+144,India,Haryana,Faridabad,"Calendar Year (Jan - Dec), 2021",8,212.0,5816.0,60.66,59.73,41.69,45.17,37.52,53.5,46.53
+145,India,Haryana,Fatehabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4508.0,59.81,34.33,32.92,47.29,29.68,60.25,35.79
+146,India,Haryana,Fatehabad,"Calendar Year (Jan - Dec), 2021",8,196.0,5240.0,61.77,59.58,39.12,45.6,37.71,52.52,42.35
+147,India,Haryana,Gurugram,"Calendar Year (Jan - Dec), 2017",8,196.0,3724.0,60.97,32.0,32.01,51.02,35.53,52.31,45.61
+148,India,Haryana,Gurugram,"Calendar Year (Jan - Dec), 2021",8,208.0,5812.0,67.79,62.33,48.87,47.86,42.4,57.97,51.44
+149,India,Haryana,Hisar,"Calendar Year (Jan - Dec), 2017",8,204.0,4796.0,58.54,30.22,35.93,49.54,38.83,56.07,47.33
+150,India,Haryana,Hisar,"Calendar Year (Jan - Dec), 2021",8,200.0,5296.0,62.82,55.03,40.8,43.43,37.43,53.64,46.22
+151,India,Haryana,Jhajjar,"Calendar Year (Jan - Dec), 2017",8,204.0,4028.0,60.45,38.31,42.02,58.19,31.12,58.91,49.8
+152,India,Haryana,Jhajjar,"Calendar Year (Jan - Dec), 2021",8,216.0,5416.0,66.73,63.34,49.01,52.25,45.69,62.6,53.0
+153,India,Haryana,Jind,"Calendar Year (Jan - Dec), 2017",8,201.38392926742975,4529.16405626945,54.02,28.29,31.71,36.27,27.18,50.07,31.11
+154,India,Haryana,Jind,"Calendar Year (Jan - Dec), 2021",8,200.0,5264.0,60.74,58.75,41.97,45.11,37.52,49.77,48.61
+155,India,Haryana,Kaithal,"Calendar Year (Jan - Dec), 2017",8,206.6160707325702,5086.835943730549,57.38638804925358,28.12266492152833,28.82593070634123,38.85877209635582,25.851162612136743,47.392638744453286,33.71845857617602
+156,India,Haryana,Kaithal,"Calendar Year (Jan - Dec), 2021",8,192.0,4888.0,53.77,50.96,34.9,40.57,34.18,44.4,40.95
+157,India,Haryana,Karnal,"Calendar Year (Jan - Dec), 2017",8,203.96544265553464,4631.215345002139,50.67,32.38,31.07,35.58,26.51,52.34,35.05
+158,India,Haryana,Karnal,"Calendar Year (Jan - Dec), 2021",8,204.0,5236.0,59.88,55.92,39.46,39.33,36.51,48.97,47.93
+159,India,Haryana,Kurukshetra,"Calendar Year (Jan - Dec), 2017",8,204.0,4112.0,56.86,33.33,29.09,40.66,25.93,54.21,38.11
+160,India,Haryana,Kurukshetra,"Calendar Year (Jan - Dec), 2021",8,204.0,5104.0,59.19,49.88,37.89,40.25,34.21,52.33,39.44
+161,India,Haryana,Mahendragarh,"Calendar Year (Jan - Dec), 2017",8,176.0,3684.0,61.19,29.24,32.8,52.88,31.29,51.84,40.38
+162,India,Haryana,Mahendragarh,"Calendar Year (Jan - Dec), 2021",8,232.0,5580.0,69.22,63.0,49.46,57.26,55.54,60.32,50.63
+163,India,Haryana,Panchkula,"Calendar Year (Jan - Dec), 2017",8,204.0,4680.0,60.09,31.39,33.41,46.24,30.47,56.55,38.7
+164,India,Haryana,Panchkula,"Calendar Year (Jan - Dec), 2021",8,212.0,5584.0,66.41,58.58,46.68,41.98,38.89,56.15,52.9
+165,India,Haryana,Panipat,"Calendar Year (Jan - Dec), 2017",8,204.03455734446536,4760.784654997861,59.6481007587344,38.81863796060685,41.097878687094216,53.696167677980775,32.81866545519088,61.88798020555831,43.80814728803044
+166,India,Haryana,Panipat,"Calendar Year (Jan - Dec), 2021",8,196.0,5320.0,60.04,57.71,41.46,41.8,38.84,53.52,48.76
+167,India,Haryana,Rewari,"Calendar Year (Jan - Dec), 2017",8,204.0,4152.0,60.66,39.1,35.16,55.3,31.57,53.11,49.53
+168,India,Haryana,Rewari,"Calendar Year (Jan - Dec), 2021",8,216.0,5488.0,66.57,59.49,48.7,59.28,43.4,61.35,51.16
+169,India,Haryana,Rohtak,"Calendar Year (Jan - Dec), 2017",8,204.0,3956.0,55.8,28.11,32.34,43.68,27.04,53.17,33.26
+170,India,Haryana,Rohtak,"Calendar Year (Jan - Dec), 2021",8,200.0,5108.0,62.72,58.04,43.62,46.73,39.83,55.57,47.68
+171,India,Haryana,Sirsa,"Calendar Year (Jan - Dec), 2017",8,204.0,4840.0,59.15,39.5,37.79,46.03,34.92,63.73,35.9
+172,India,Haryana,Sirsa,"Calendar Year (Jan - Dec), 2021",8,204.0,5316.0,59.83,56.94,37.61,49.16,37.46,49.13,40.82
+173,India,Haryana,Sonipat,"Calendar Year (Jan - Dec), 2017",8,172.0,4068.0,51.91,34.77,33.75,44.54,28.15,51.3,37.4
+174,India,Haryana,Sonipat,"Calendar Year (Jan - Dec), 2021",8,208.0,5364.0,64.89,59.79,46.17,47.98,40.69,58.67,53.53
+175,India,Haryana,Yamunanagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4344.0,54.05,27.98,30.71,36.37,26.21,53.92,38.06
+176,India,Haryana,Yamunanagar,"Calendar Year (Jan - Dec), 2021",8,200.0,5060.0,63.57,62.75,44.14,52.36,40.93,57.27,50.18
+177,India,Haryana,Nuh,"Calendar Year (Jan - Dec), 2017",8,204.0,4932.0,40.35,31.76,30.27,36.09,28.76,41.57,34.57
+178,India,Haryana,Nuh,"Calendar Year (Jan - Dec), 2021",8,192.0,5356.0,50.62,55.29,41.01,41.53,37.17,50.66,45.25
+179,India,Haryana,Palwal,"Calendar Year (Jan - Dec), 2017",8,204.0,4612.0,53.48,34.43,34.14,44.49,41.52,43.6,33.74
+180,India,Haryana,Palwal,"Calendar Year (Jan - Dec), 2021",8,204.0,5292.0,55.22,55.43,39.73,39.77,35.37,48.66,45.89
+181,India,Haryana,Charki Dadri,"Calendar Year (Jan - Dec), 2017",8,62.69057937097914,1257.499268559052,54.19,27.57,34.27,44.09,30.31,53.34,37.2
+182,India,Haryana,Charki Dadri,"Calendar Year (Jan - Dec), 2021",8,208.0,5168.0,63.53,59.74,40.43,48.89,43.52,55.7,44.75
+183,India,Delhi,Central,"Calendar Year (Jan - Dec), 2017",8,264.9491818214991,5505.65844573492,54.747073542582264,27.845662981958856,30.467842864793,38.50321176644385,27.88641275344388,39.61790471387155,24.356578749953837
+184,India,Delhi,Central,"Calendar Year (Jan - Dec), 2021",8,248.0,6656.0,56.8,48.64,40.79,37.21,35.84,45.49,43.8
+185,India,Delhi,East,"Calendar Year (Jan - Dec), 2017",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+186,India,Delhi,East,"Calendar Year (Jan - Dec), 2021",8,248.0,6844.0,58.72,53.18,42.91,41.86,37.57,53.57,41.53
+187,India,Rajasthan,Alwar,"Calendar Year (Jan - Dec), 2017",8,204.0,4612.0,67.46,52.64,57.99,65.65,44.27,73.09,44.96
+188,India,Rajasthan,Alwar,"Calendar Year (Jan - Dec), 2021",8,252.0,5580.0,62.49,65.03,51.08,61.72,43.33,57.12,56.66
+189,India,Delhi,New Delhi,"Calendar Year (Jan - Dec), 2017",8,213.66962978977995,5436.265190322258,55.68030868896706,32.59916007955684,33.45205866865659,42.46565277832106,27.630634950246883,43.4785904537809,26.47764296310115
+190,India,Delhi,New Delhi,"Calendar Year (Jan - Dec), 2021",8,220.0,5780.0,62.43,51.18,45.85,44.04,40.57,52.63,46.48
+191,India,Delhi,North,"Calendar Year (Jan - Dec), 2017",8,178.83727514051918,4197.383814119737,57.4505470998886,27.93716094318604,31.325606134422575,42.70446015595989,27.5107141032306,41.14773108800593,28.726610998886
+192,India,Delhi,North,"Calendar Year (Jan - Dec), 2021",8,248.0,6400.0,58.82,51.45,40.48,36.84,33.37,50.72,44.72
+193,India,Delhi,North East,"Calendar Year (Jan - Dec), 2017",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+194,India,Delhi,North East,"Calendar Year (Jan - Dec), 2021",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+195,India,Delhi,North West,"Calendar Year (Jan - Dec), 2017",8,159.2206181856668,3853.1389600931366,56.25,28.62,29.71,40.83,26.27,40.09,28.74
+196,India,Delhi,South,"Calendar Year (Jan - Dec), 2017",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+197,India,Delhi,South,"Calendar Year (Jan - Dec), 2021",8,200.0,5492.0,60.51,49.09,40.25,38.1,36.17,51.95,44.68
+198,India,Delhi,South West,"Calendar Year (Jan - Dec), 2017",8,187.32329506253492,4183.553589729947,56.03,33.56,32.62,43.99,27.78,41.68,30.11
+199,India,Delhi,West,"Calendar Year (Jan - Dec), 2017",8,204.0,4368.0,55.69,23.84,30.02,42.95,27.93,41.46,27.21
+200,India,Delhi,South East,"Calendar Year (Jan - Dec), 2017",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+201,India,Delhi,South East,"Calendar Year (Jan - Dec), 2021",8,248.0,6236.0,57.11,49.88,42.46,39.57,35.92,51.31,43.35
+202,India,Delhi,Shahdara,"Calendar Year (Jan - Dec), 2017",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+203,India,Delhi,Shahdara,"Calendar Year (Jan - Dec), 2021",8,216.30769230769232,5026.284130284131,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+204,India,Delhi,Unknown Districts Of India,"Calendar Year (Jan - Dec), 2017",8,604.0,12720.0,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+205,India,Delhi,Unknown Districts Of India,"Calendar Year (Jan - Dec), 2021",8,212.0,5260.0,53.74961502505647,43.90917424605601,39.19,41.96,31.369999999999997,47.96393575009653,40.89279926794164
+206,India,Rajasthan,Ajmer,"Calendar Year (Jan - Dec), 2017",8,200.0,4860.0,73.36,59.2,72.66,77.61,55.23,80.3,61.44
+207,India,Rajasthan,Ajmer,"Calendar Year (Jan - Dec), 2021",8,240.0,5540.0,64.91,61.29,48.71,51.83,44.06,60.06,59.47
+208,India,Rajasthan,Banswara,"Calendar Year (Jan - Dec), 2017",8,204.0,5268.0,57.41,45.7,52.49,61.73,23.95,62.63,46.5
+209,India,Rajasthan,Banswara,"Calendar Year (Jan - Dec), 2021",8,216.0,5484.0,49.02,53.45,37.38,53.08,34.99,40.74,48.51
+210,India,Rajasthan,Baran,"Calendar Year (Jan - Dec), 2017",8,204.0,4572.0,63.95,51.07,55.37,64.83,42.86,65.11,52.84
+211,India,Rajasthan,Baran,"Calendar Year (Jan - Dec), 2021",8,252.0,5672.0,58.66,62.45,44.86,56.78,42.93,53.96,58.89
+212,India,Rajasthan,Barmer,"Calendar Year (Jan - Dec), 2017",8,204.0,4864.0,70.42,68.05,65.66,76.23,48.29,76.51,51.38
+213,India,Rajasthan,Barmer,"Calendar Year (Jan - Dec), 2021",8,248.0,5820.0,62.29,57.47,48.2,63.17,41.45,59.17,57.69
+214,India,Rajasthan,Bharatpur,"Calendar Year (Jan - Dec), 2017",8,196.0,4460.0,73.66,55.02,69.04,71.12,48.83,79.65,60.5
+215,India,Rajasthan,Bharatpur,"Calendar Year (Jan - Dec), 2021",8,252.0,6044.0,62.03,69.78,53.71,72.64,48.16,61.31,69.99
+216,India,Rajasthan,Bhilwara,"Calendar Year (Jan - Dec), 2017",8,204.0,4636.0,57.93,46.9,52.56,64.37,37.82,63.13,57.51
+217,India,Rajasthan,Bhilwara,"Calendar Year (Jan - Dec), 2021",8,252.0,5548.0,62.47,54.79,49.02,55.29,43.9,53.52,54.55
+218,India,Rajasthan,Bikaner,"Calendar Year (Jan - Dec), 2017",8,204.0,5132.0,61.93,45.16,58.66,63.37,40.59,69.64,52.26
+219,India,Rajasthan,Bikaner,"Calendar Year (Jan - Dec), 2021",8,236.0,5800.0,62.97,57.05,45.45,54.52,39.69,55.73,57.54
+220,India,Rajasthan,Bundi,"Calendar Year (Jan - Dec), 2017",8,204.0,4492.0,68.58,61.73,65.18,75.24,45.34,74.76,47.45
+221,India,Rajasthan,Bundi,"Calendar Year (Jan - Dec), 2021",8,280.0,5500.0,61.36,65.88,47.31,54.26,44.58,55.34,57.57
+222,India,Rajasthan,Chittorgarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4088.0,63.13,44.25,53.01,67.81,39.0,68.42,51.35
+223,India,Rajasthan,Chittorgarh,"Calendar Year (Jan - Dec), 2021",8,284.0,6028.0,60.81,58.05,45.37,54.81,44.6,55.74,52.07
+224,India,Rajasthan,Churu,"Calendar Year (Jan - Dec), 2017",8,204.0,4600.0,73.48,65.51,68.27,73.65,47.92,80.03,47.92
+225,India,Rajasthan,Churu,"Calendar Year (Jan - Dec), 2021",8,244.0,5884.0,63.34,65.52,49.61,62.1,48.81,59.91,56.12
+226,India,Rajasthan,Dausa,"Calendar Year (Jan - Dec), 2017",8,196.0,4544.0,74.41,64.66,65.16,82.83,50.35,76.41,64.21
+227,India,Rajasthan,Dausa,"Calendar Year (Jan - Dec), 2021",8,240.0,5392.0,63.5,72.74,53.08,68.53,51.99,63.0,66.39
+228,India,Rajasthan,Dholpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5120.0,76.36,70.47,77.03,82.73,67.66,78.2,60.94
+229,India,Rajasthan,Dholpur,"Calendar Year (Jan - Dec), 2021",8,224.0,5516.0,70.72,85.82,65.92,81.03,63.42,75.32,82.77
+230,India,Rajasthan,Dungarpur,"Calendar Year (Jan - Dec), 2017",8,200.0,5160.0,63.95,50.86,58.95,68.84,47.17,63.07,47.93
+231,India,Rajasthan,Dungarpur,"Calendar Year (Jan - Dec), 2021",8,216.0,5248.0,48.2,50.64,37.95,41.18,34.87,46.46,45.55
+232,India,Rajasthan,Ganganagar,"Calendar Year (Jan - Dec), 2017",8,200.0,4372.0,61.92,49.09,50.21,58.46,35.78,73.46,49.54
+233,India,Rajasthan,Ganganagar,"Calendar Year (Jan - Dec), 2021",8,296.0,6136.0,60.97,50.98,42.55,50.03,39.73,51.37,46.09
+234,India,Rajasthan,Hanumangarh,"Calendar Year (Jan - Dec), 2017",8,200.0,4780.0,65.12,43.77,54.84,58.91,32.45,73.6,53.58
+235,India,Rajasthan,Hanumangarh,"Calendar Year (Jan - Dec), 2021",8,236.0,5340.0,55.95,56.1,40.38,47.99,39.24,49.22,46.41
+236,India,Rajasthan,Jaipur,"Calendar Year (Jan - Dec), 2017",8,204.0,4820.0,70.47,55.41,66.72,72.28,47.85,76.57,55.13
+237,India,Rajasthan,Jaipur,"Calendar Year (Jan - Dec), 2021",8,272.0,6748.0,64.71,55.11,49.47,53.65,40.1,59.82,56.96
+238,India,Rajasthan,Jaisalmer,"Calendar Year (Jan - Dec), 2017",8,200.0,4328.0,70.49,56.61,61.95,75.79,42.39,71.47,61.1
+239,India,Rajasthan,Jaisalmer,"Calendar Year (Jan - Dec), 2021",8,244.0,5664.0,56.47,55.37,42.72,50.05,36.55,51.2,45.35
+240,India,Rajasthan,Jalore,"Calendar Year (Jan - Dec), 2017",8,204.0,4848.0,65.78,62.6,60.24,73.02,39.97,72.2,59.71
+241,India,Rajasthan,Jalore,"Calendar Year (Jan - Dec), 2021",8,236.0,5528.0,55.01,57.46,45.9,55.27,38.91,54.4,53.99
+242,India,Rajasthan,Jhalawar,"Calendar Year (Jan - Dec), 2017",8,200.0,4488.0,67.88,65.01,57.98,79.86,44.36,71.66,57.78
+243,India,Rajasthan,Jhalawar,"Calendar Year (Jan - Dec), 2021",8,252.0,5560.0,57.91,60.17,44.27,54.12,40.61,50.44,51.86
+244,India,Rajasthan,Jhunjhunu,"Calendar Year (Jan - Dec), 2017",8,196.0,4072.0,74.35,66.86,73.44,75.25,47.55,79.53,33.86
+245,India,Rajasthan,Jhunjhunu,"Calendar Year (Jan - Dec), 2021",8,276.0,5796.0,65.74,69.68,52.02,63.5,54.65,65.51,66.63
+246,India,Rajasthan,Jodhpur,"Calendar Year (Jan - Dec), 2017",8,200.0,4692.0,68.86,56.12,66.48,63.0,47.09,74.32,43.93
+247,India,Rajasthan,Jodhpur,"Calendar Year (Jan - Dec), 2021",8,248.0,6252.0,57.86,50.24,40.66,48.23,38.9,51.69,51.72
+248,India,Rajasthan,Karauli,"Calendar Year (Jan - Dec), 2017",8,204.0,5440.0,64.69,62.88,58.67,81.84,46.66,68.22,49.93
+249,India,Rajasthan,Karauli,"Calendar Year (Jan - Dec), 2021",8,236.0,5676.0,59.17,65.49,51.69,64.39,43.43,60.5,63.89
+250,India,Rajasthan,Kota,"Calendar Year (Jan - Dec), 2017",8,204.0,4428.0,69.41,57.48,66.55,74.07,47.46,72.71,54.53
+251,India,Rajasthan,Kota,"Calendar Year (Jan - Dec), 2021",8,264.0,6120.0,61.65,56.7,47.77,48.38,39.3,54.0,54.16
+252,India,Rajasthan,Nagaur,"Calendar Year (Jan - Dec), 2017",8,204.0,4468.0,75.88,61.66,73.23,89.44,56.91,81.11,65.6
+253,India,Rajasthan,Nagaur,"Calendar Year (Jan - Dec), 2021",8,256.0,6016.0,66.09,64.27,55.72,65.06,50.91,63.85,64.33
+254,India,Rajasthan,Pali,"Calendar Year (Jan - Dec), 2017",8,204.0,4840.0,57.03,47.89,47.15,59.26,32.15,59.42,47.81
+255,India,Rajasthan,Pali,"Calendar Year (Jan - Dec), 2021",8,252.0,5432.0,59.84,60.05,50.0,58.81,43.92,54.82,59.82
+256,India,Rajasthan,Rajsamand,"Calendar Year (Jan - Dec), 2017",8,204.0,4708.0,64.5,51.2,64.64,70.18,44.87,74.93,49.24
+257,India,Rajasthan,Rajsamand,"Calendar Year (Jan - Dec), 2021",8,260.0,5320.0,60.76,61.63,47.7,56.52,37.93,54.31,60.15
+258,India,Rajasthan,Sawai Madhopur,"Calendar Year (Jan - Dec), 2017",8,204.0,4968.0,69.32,55.39,66.99,76.65,56.04,73.43,51.05
+259,India,Rajasthan,Sawai Madhopur,"Calendar Year (Jan - Dec), 2021",8,252.0,5684.0,49.26,51.02,36.67,43.07,30.59,45.63,43.93
+260,India,Rajasthan,Sikar,"Calendar Year (Jan - Dec), 2017",8,204.0,4584.0,69.85,64.45,62.61,73.82,46.61,76.09,52.17
+261,India,Rajasthan,Sikar,"Calendar Year (Jan - Dec), 2021",8,264.0,6168.0,63.4,58.22,48.82,58.35,46.9,60.23,54.64
+262,India,Rajasthan,Sirohi,"Calendar Year (Jan - Dec), 2017",8,192.0,4916.0,60.11,33.11,51.25,61.19,36.33,59.84,48.23
+263,India,Rajasthan,Sirohi,"Calendar Year (Jan - Dec), 2021",8,216.0,5428.0,57.04,54.91,43.73,48.75,35.24,53.24,43.41
+264,India,Rajasthan,Tonk,"Calendar Year (Jan - Dec), 2017",8,204.0,3928.0,67.96,54.44,57.71,75.56,45.06,70.47,50.82
+265,India,Rajasthan,Tonk,"Calendar Year (Jan - Dec), 2021",8,288.0,5964.0,56.97,60.41,44.85,53.21,40.43,53.55,49.59
+266,India,Rajasthan,Udaipur,"Calendar Year (Jan - Dec), 2017",8,204.0,5276.0,63.72,52.14,56.46,76.5,35.04,66.58,48.87
+267,India,Rajasthan,Udaipur,"Calendar Year (Jan - Dec), 2021",8,224.0,5256.0,55.8,48.05,41.71,52.39,34.07,51.56,48.09
+268,India,Rajasthan,Pratapgarh,"Calendar Year (Jan - Dec), 2017",8,196.0,4908.0,57.07,42.93,51.7,65.28,39.46,57.35,48.56
+269,India,Rajasthan,Pratapgarh,"Calendar Year (Jan - Dec), 2021",8,220.0,4880.0,57.15,57.84,47.14,56.65,45.84,53.0,61.89
+270,India,Uttar Pradesh,Agra,"Calendar Year (Jan - Dec), 2017",8,204.0,3492.0,53.77,38.86,40.5,46.51,34.94,48.41,44.58
+271,India,Uttar Pradesh,Agra,"Calendar Year (Jan - Dec), 2021",8,324.0,7496.0,50.47,47.47,34.18,36.05,30.82,40.34,38.86
+272,India,Uttar Pradesh,Aligarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4036.0,58.32,37.6,42.62,46.09,30.43,46.45,25.56
+273,India,Uttar Pradesh,Aligarh,"Calendar Year (Jan - Dec), 2021",8,308.0,8004.0,50.15,46.61,35.04,38.14,33.12,40.65,40.01
+274,India,Uttar Pradesh,Prayagraj,"Calendar Year (Jan - Dec), 2017",8,204.0,3424.0,56.25,34.41,39.88,46.73,28.61,49.71,37.12
+275,India,Uttar Pradesh,Prayagraj,"Calendar Year (Jan - Dec), 2021",8,328.0,8740.0,48.45,48.95,34.64,34.78,28.13,41.93,40.77
+276,India,Uttar Pradesh,Ambedkar Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5660.0,66.77,53.97,59.02,59.36,44.09,59.65,46.28
+277,India,Uttar Pradesh,Ambedkar Nagar,"Calendar Year (Jan - Dec), 2021",8,276.0,6936.0,45.13,45.03,35.88,36.82,27.52,42.62,40.89
+278,India,Uttar Pradesh,Auraiya,"Calendar Year (Jan - Dec), 2017",8,196.0,4140.0,64.02,61.98,48.68,64.93,49.58,51.89,45.63
+279,India,Uttar Pradesh,Auraiya,"Calendar Year (Jan - Dec), 2021",8,316.0,7044.0,46.27,52.72,32.71,42.57,35.18,38.6,38.12
+280,India,Uttar Pradesh,Azamgarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4160.0,57.19,37.78,41.04,52.69,40.18,52.76,37.8
+281,India,Uttar Pradesh,Azamgarh,"Calendar Year (Jan - Dec), 2021",8,284.0,7280.0,46.62,53.05,36.65,42.93,32.14,41.07,41.89
+282,India,Uttar Pradesh,Baghpat,"Calendar Year (Jan - Dec), 2017",8,204.0,4264.0,54.17,42.7,38.44,37.15,25.94,48.64,37.59
+283,India,Uttar Pradesh,Baghpat,"Calendar Year (Jan - Dec), 2021",8,296.0,7432.0,50.54,52.12,33.79,38.31,34.1,42.03,39.32
+284,India,Uttar Pradesh,Bahraich,"Calendar Year (Jan - Dec), 2017",8,188.0,3852.0,38.01,31.53,21.62,13.5,27.13,25.49,10.99
+285,India,Uttar Pradesh,Bahraich,"Calendar Year (Jan - Dec), 2021",8,292.0,7888.0,46.58,45.37,32.77,34.28,25.23,38.51,40.72
+286,India,Uttar Pradesh,Ballia,"Calendar Year (Jan - Dec), 2017",8,192.0,3596.0,60.45,47.47,48.13,50.5,41.09,51.77,33.66
+287,India,Uttar Pradesh,Ballia,"Calendar Year (Jan - Dec), 2021",8,272.0,6684.0,46.9,55.62,35.02,35.33,33.03,42.03,41.55
+288,India,Uttar Pradesh,Balrampur,"Calendar Year (Jan - Dec), 2017",8,196.0,3740.0,52.83,35.67,43.1,44.71,31.11,50.92,32.0
+289,India,Uttar Pradesh,Balrampur,"Calendar Year (Jan - Dec), 2021",8,296.0,7032.0,45.1,48.4,34.14,36.99,32.4,39.2,41.0
+290,India,Uttar Pradesh,Banda,"Calendar Year (Jan - Dec), 2017",8,204.0,4308.0,34.68,28.54,15.82,18.38,22.52,25.79,14.59
+291,India,Uttar Pradesh,Banda,"Calendar Year (Jan - Dec), 2021",8,272.0,7112.0,44.92,47.85,32.52,32.5,27.5,40.77,33.62
+292,India,Uttar Pradesh,Barabanki,"Calendar Year (Jan - Dec), 2017",8,204.0,4792.0,65.03,53.58,52.24,58.26,43.3,60.21,46.73
+293,India,Uttar Pradesh,Barabanki,"Calendar Year (Jan - Dec), 2021",8,288.0,7872.0,44.8,41.63,32.79,36.85,27.05,37.52,39.77
+294,India,Uttar Pradesh,Bareilly,"Calendar Year (Jan - Dec), 2017",8,204.0,4108.0,53.35,38.03,42.52,40.21,35.17,47.12,33.6
+295,India,Uttar Pradesh,Bareilly,"Calendar Year (Jan - Dec), 2021",8,316.0,8020.0,43.88,43.38,32.23,30.93,28.34,37.19,36.94
+296,India,Uttar Pradesh,Basti,"Calendar Year (Jan - Dec), 2017",8,196.0,4000.0,64.86,58.25,48.64,60.2,36.22,57.03,50.5
+297,India,Uttar Pradesh,Basti,"Calendar Year (Jan - Dec), 2021",8,300.0,7620.0,46.46,46.01,30.82,42.45,33.34,39.39,44.5
+298,India,Uttar Pradesh,Bijnor,"Calendar Year (Jan - Dec), 2017",8,204.0,4376.0,58.99,49.46,50.91,54.2,31.48,54.54,43.89
+299,India,Uttar Pradesh,Bijnor,"Calendar Year (Jan - Dec), 2021",8,300.0,7244.0,42.28,44.06,30.06,32.47,30.44,35.69,37.83
+300,India,Uttar Pradesh,Budaun,"Calendar Year (Jan - Dec), 2017",8,200.0,3416.0,48.72,37.84,33.9,36.89,20.49,39.67,29.02
+301,India,Uttar Pradesh,Budaun,"Calendar Year (Jan - Dec), 2021",8,280.0,7380.0,40.45,41.12,29.41,33.37,27.82,31.53,35.05
+302,India,Uttar Pradesh,Bulandshahr,"Calendar Year (Jan - Dec), 2017",8,192.0,4008.0,38.39,33.93,28.35,32.63,21.49,38.81,28.71
+303,India,Uttar Pradesh,Bulandshahr,"Calendar Year (Jan - Dec), 2021",8,308.0,7568.0,47.14,45.71,32.53,32.85,30.91,37.47,34.9
+304,India,Uttar Pradesh,Chandauli,"Calendar Year (Jan - Dec), 2017",8,196.0,4996.0,56.63,49.03,46.93,53.56,38.58,53.84,44.64
+305,India,Uttar Pradesh,Chandauli,"Calendar Year (Jan - Dec), 2021",8,288.0,7612.0,49.06,48.67,35.63,38.97,34.11,44.93,44.52
+306,India,Uttar Pradesh,Chitrakoot,"Calendar Year (Jan - Dec), 2017",8,200.0,3876.0,54.23,41.98,34.36,36.64,27.95,41.83,26.5
+307,India,Uttar Pradesh,Chitrakoot,"Calendar Year (Jan - Dec), 2021",8,280.0,6984.0,51.93,53.73,37.53,45.19,34.75,45.53,49.58
+308,India,Uttar Pradesh,Deoria,"Calendar Year (Jan - Dec), 2017",8,204.0,4420.0,48.36,30.12,28.63,44.62,31.25,39.6,32.54
+309,India,Uttar Pradesh,Deoria,"Calendar Year (Jan - Dec), 2021",8,308.0,7740.0,48.13,52.14,33.44,42.44,32.34,41.76,41.94
+310,India,Uttar Pradesh,Etah,"Calendar Year (Jan - Dec), 2017",8,176.0,3128.0,23.76,29.8,36.64,15.86,31.369999999999997,17.35,40.89279926794164
+311,India,Uttar Pradesh,Etah,"Calendar Year (Jan - Dec), 2021",8,328.0,6796.0,42.5,44.98,29.86,31.2,28.77,35.25,30.92
+312,India,Uttar Pradesh,Etawah,"Calendar Year (Jan - Dec), 2017",8,200.0,4004.0,60.12,46.63,48.46,55.44,39.84,53.92,48.63
+313,India,Uttar Pradesh,Etawah,"Calendar Year (Jan - Dec), 2021",8,332.0,7108.0,48.73,46.13,32.45,36.02,30.68,42.23,38.54
+314,India,Uttar Pradesh,Ayodhya,"Calendar Year (Jan - Dec), 2017",8,192.0,4452.0,52.83,41.68,41.69,45.82,30.34,51.92,40.17
+315,India,Uttar Pradesh,Ayodhya,"Calendar Year (Jan - Dec), 2021",8,304.0,8028.0,49.97,49.37,35.35,36.92,33.51,40.8,43.78
+316,India,Uttar Pradesh,Farrukhabad,"Calendar Year (Jan - Dec), 2017",8,184.0,4112.0,57.59,49.41,44.34,51.07,39.96,47.51,38.8
+317,India,Uttar Pradesh,Farrukhabad,"Calendar Year (Jan - Dec), 2021",8,296.0,6604.0,44.02,47.08,32.62,34.43,31.35,34.52,36.1
+318,India,Uttar Pradesh,Fatehpur,"Calendar Year (Jan - Dec), 2017",8,192.0,2804.0,63.66,57.93,53.99,49.5,34.26,59.96,43.02
+319,India,Uttar Pradesh,Fatehpur,"Calendar Year (Jan - Dec), 2021",8,296.0,7200.0,48.37,50.37,35.31,43.11,31.32,41.6,44.43
+320,India,Uttar Pradesh,Firozabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4056.0,43.31,30.04,28.18,11.34,28.48,34.9,16.6
+321,India,Uttar Pradesh,Firozabad,"Calendar Year (Jan - Dec), 2021",8,316.0,7288.0,46.06,47.55,32.1,34.96,29.09,35.38,32.12
+322,India,Uttar Pradesh,Gautam Buddha Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4328.0,56.01,37.2,39.08,37.89,28.34,44.84,44.06
+323,India,Uttar Pradesh,Gautam Buddha Nagar,"Calendar Year (Jan - Dec), 2021",8,296.0,7960.0,59.03,52.1,41.65,40.69,36.6,49.35,46.93
+324,India,Uttar Pradesh,Ghaziabad,"Calendar Year (Jan - Dec), 2017",8,200.0,4000.0,55.41,34.63,34.87,46.1,23.46,48.52,41.56
+325,India,Uttar Pradesh,Ghaziabad,"Calendar Year (Jan - Dec), 2021",8,312.0,8308.0,54.52,47.45,35.62,37.36,32.68,43.82,40.82
+326,India,Uttar Pradesh,Ghazipur,"Calendar Year (Jan - Dec), 2017",8,196.0,3564.0,24.67,17.0,16.74,12.23,20.05,23.42,14.19
+327,India,Uttar Pradesh,Ghazipur,"Calendar Year (Jan - Dec), 2021",8,292.0,7548.0,48.38,52.62,33.1,40.18,31.78,40.51,43.63
+328,India,Uttar Pradesh,Gonda,"Calendar Year (Jan - Dec), 2017",8,204.0,4056.0,59.2,45.65,48.4,47.34,36.22,55.71,42.86
+329,India,Uttar Pradesh,Gonda,"Calendar Year (Jan - Dec), 2021",8,292.0,7396.0,41.05,40.19,31.33,32.55,26.41,35.38,38.86
+330,India,Uttar Pradesh,Gorakhpur,"Calendar Year (Jan - Dec), 2017",8,196.0,3632.0,50.92,28.6,36.49,42.29,27.09,44.18,32.73
+331,India,Uttar Pradesh,Gorakhpur,"Calendar Year (Jan - Dec), 2021",8,308.0,7400.0,48.22,43.36,35.62,31.76,26.42,40.88,37.18
+332,India,Uttar Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2017",8,204.0,6828.0,54.64,45.52,47.33,47.45,28.69,50.62,43.95
+333,India,Uttar Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2021",8,292.0,7220.0,51.97,52.83,34.95,38.4,33.53,40.66,43.93
+334,India,Uttar Pradesh,Hardoi,"Calendar Year (Jan - Dec), 2017",8,204.0,3208.0,36.58,32.59,29.08,42.77,25.94,31.82,35.77
+335,India,Uttar Pradesh,Hardoi,"Calendar Year (Jan - Dec), 2021",8,284.0,7472.0,37.76,37.94,29.8,32.88,25.57,32.52,34.57
+336,India,Uttar Pradesh,Jalaun,"Calendar Year (Jan - Dec), 2017",8,204.0,4552.0,63.34,59.38,53.81,63.27,48.47,57.3,48.11
+337,India,Uttar Pradesh,Jalaun,"Calendar Year (Jan - Dec), 2021",8,320.0,6784.0,49.46,50.61,34.35,38.63,32.21,39.31,41.69
+338,India,Uttar Pradesh,Jaunpur,"Calendar Year (Jan - Dec), 2017",8,196.0,4628.0,61.78,53.68,51.89,58.77,42.13,54.32,39.51
+339,India,Uttar Pradesh,Jaunpur,"Calendar Year (Jan - Dec), 2021",8,288.0,8092.0,46.9,51.5,36.28,39.4,32.96,42.41,42.18
+340,India,Uttar Pradesh,Jhansi,"Calendar Year (Jan - Dec), 2017",8,204.0,4528.0,54.63,36.98,41.98,44.17,28.24,51.36,36.87
+341,India,Uttar Pradesh,Jhansi,"Calendar Year (Jan - Dec), 2021",8,312.0,7816.0,53.08,50.4,35.86,38.29,32.6,42.55,37.94
+342,India,Uttar Pradesh,Amroha,"Calendar Year (Jan - Dec), 2017",8,204.0,4000.0,58.18,46.85,43.53,56.1,36.9,51.27,43.19
+343,India,Uttar Pradesh,Amroha,"Calendar Year (Jan - Dec), 2021",8,312.0,7152.0,42.71,41.56,32.29,36.55,29.56,38.83,36.87
+344,India,Uttar Pradesh,Kannauj,"Calendar Year (Jan - Dec), 2017",8,168.0,1492.0,20.02,18.62,31.37,21.45,19.46,24.17,3.24
+345,India,Uttar Pradesh,Kannauj,"Calendar Year (Jan - Dec), 2021",8,292.0,6872.0,40.56,40.08,29.21,31.8,26.98,32.03,35.37
+346,India,Uttar Pradesh,Kanpur Dehat,"Calendar Year (Jan - Dec), 2017",8,204.0,3748.0,59.11,39.41,48.52,45.46,31.03,47.12,34.69
+347,India,Uttar Pradesh,Kanpur Dehat,"Calendar Year (Jan - Dec), 2021",8,316.0,6784.0,49.04,56.04,35.08,43.27,33.94,39.24,43.12
+348,India,Uttar Pradesh,Kanpur Nagar,"Calendar Year (Jan - Dec), 2017",8,192.0,3672.0,20.78,39.84,40.92,42.48,28.17,42.59,33.33
+349,India,Uttar Pradesh,Kanpur Nagar,"Calendar Year (Jan - Dec), 2021",8,348.0,8520.0,51.22,43.31,34.18,36.2,28.33,42.6,38.32
+350,India,Uttar Pradesh,Kaushambi,"Calendar Year (Jan - Dec), 2017",8,204.0,4036.0,57.91,43.2,42.21,50.35,33.79,54.41,49.31
+351,India,Uttar Pradesh,Kaushambi,"Calendar Year (Jan - Dec), 2021",8,296.0,7684.0,44.59,43.14,31.57,38.35,28.08,40.37,37.43
+352,India,Uttar Pradesh,Kheri,"Calendar Year (Jan - Dec), 2017",8,204.0,6096.0,42.8,20.71,24.09,21.59,21.82,40.02,32.67
+353,India,Uttar Pradesh,Kheri,"Calendar Year (Jan - Dec), 2021",8,288.0,7792.0,40.36,39.48,30.24,31.14,26.63,31.45,34.92
+354,India,Uttar Pradesh,Kushi Nagar,"Calendar Year (Jan - Dec), 2017",8,192.0,3208.0,50.9,49.06,44.76,42.52,26.22,50.91,40.84
+355,India,Uttar Pradesh,Kushi Nagar,"Calendar Year (Jan - Dec), 2021",8,308.0,7368.0,41.62,42.41,29.8,34.6,27.15,40.01,41.99
+356,India,Uttar Pradesh,Lalitpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4480.0,58.41,48.31,53.9,48.13,37.39,57.45,41.32
+357,India,Uttar Pradesh,Lalitpur,"Calendar Year (Jan - Dec), 2021",8,236.0,6344.0,49.78,48.93,33.55,41.43,30.88,41.75,34.18
+358,India,Uttar Pradesh,Lucknow,"Calendar Year (Jan - Dec), 2017",8,204.0,4308.0,51.69,30.83,32.38,37.33,19.82,44.56,29.54
+359,India,Uttar Pradesh,Lucknow,"Calendar Year (Jan - Dec), 2021",8,324.0,8396.0,52.97,46.67,39.28,39.39,32.08,45.18,39.98
+360,India,Uttar Pradesh,Hathras,"Calendar Year (Jan - Dec), 2017",8,192.0,3772.0,62.62,46.95,46.76,46.55,33.12,50.13,37.39
+361,India,Uttar Pradesh,Hathras,"Calendar Year (Jan - Dec), 2021",8,296.0,7308.0,46.79,46.69,32.64,34.03,31.29,38.04,35.93
+362,India,Uttar Pradesh,Maharajganj,"Calendar Year (Jan - Dec), 2017",8,204.0,4048.0,37.6,28.88,31.97,14.43,20.59,36.81,24.71
+363,India,Uttar Pradesh,Maharajganj,"Calendar Year (Jan - Dec), 2021",8,300.0,7292.0,42.07,44.3,31.63,32.0,26.83,37.65,38.46
+364,India,Uttar Pradesh,Mahoba,"Calendar Year (Jan - Dec), 2017",8,204.0,4360.0,48.4,42.14,36.3,39.82,27.17,46.83,31.13
+365,India,Uttar Pradesh,Mahoba,"Calendar Year (Jan - Dec), 2021",8,272.0,6796.0,50.61,56.8,34.99,37.79,34.75,41.58,39.82
+366,India,Uttar Pradesh,Mainpuri,"Calendar Year (Jan - Dec), 2017",8,196.0,2020.0,61.48,43.90917424605601,49.11,50.3,34.26,55.05,33.86
+367,India,Uttar Pradesh,Mainpuri,"Calendar Year (Jan - Dec), 2021",8,316.0,7616.0,42.33,40.0,29.55,32.86,27.12,33.67,32.1
+368,India,Uttar Pradesh,Mathura,"Calendar Year (Jan - Dec), 2017",8,204.0,3604.0,61.44,46.62,45.66,52.16,33.94,53.88,49.32
+369,India,Uttar Pradesh,Mathura,"Calendar Year (Jan - Dec), 2021",8,320.0,7840.0,54.25,54.64,37.54,43.15,35.02,45.65,46.06
+370,India,Uttar Pradesh,Mau,"Calendar Year (Jan - Dec), 2017",8,196.0,4780.0,43.42,41.2,32.83,40.67,24.11,38.02,32.72
+371,India,Uttar Pradesh,Mau,"Calendar Year (Jan - Dec), 2021",8,228.0,5832.0,48.48,55.81,39.51,43.2,36.1,48.4,42.64
+372,India,Uttar Pradesh,Meerut,"Calendar Year (Jan - Dec), 2017",8,196.0,4016.0,55.21,42.09,40.6,45.32,26.91,51.24,36.95
+373,India,Uttar Pradesh,Meerut,"Calendar Year (Jan - Dec), 2021",8,324.0,7788.0,50.83,42.55,35.09,33.67,32.07,42.95,42.47
+374,India,Uttar Pradesh,Mirzapur,"Calendar Year (Jan - Dec), 2017",8,204.0,4836.0,30.76,28.85,17.58,50.54,19.43,26.65,34.63
+375,India,Uttar Pradesh,Mirzapur,"Calendar Year (Jan - Dec), 2021",8,284.0,7544.0,47.64,49.07,35.71,37.89,32.23,41.5,40.51
+376,India,Uttar Pradesh,Moradabad,"Calendar Year (Jan - Dec), 2017",8,204.0,1188.0,45.86,41.27,38.27,39.39,25.0,36.44,35.19
+377,India,Uttar Pradesh,Moradabad,"Calendar Year (Jan - Dec), 2021",8,296.0,7608.0,44.13,42.24,34.01,34.5,30.07,35.89,39.25
+378,India,Uttar Pradesh,Muzaffarnagar,"Calendar Year (Jan - Dec), 2017",8,200.0,2552.0,50.0,39.27,36.22,42.79,24.1,50.15,37.13
+379,India,Uttar Pradesh,Muzaffarnagar,"Calendar Year (Jan - Dec), 2021",8,300.0,7792.0,47.28,44.16,33.27,33.56,28.94,40.59,37.67
+380,India,Uttar Pradesh,Pilibhit,"Calendar Year (Jan - Dec), 2017",8,192.0,3272.0,60.73,42.6,49.09,46.21,30.87,57.9,37.47
+381,India,Uttar Pradesh,Pilibhit,"Calendar Year (Jan - Dec), 2021",8,284.0,6924.0,42.13,41.58,31.29,31.86,28.26,32.15,29.21
+382,India,Uttar Pradesh,Pratapgarh,"Calendar Year (Jan - Dec), 2017",8,124.0,1560.0,57.85,46.38,45.1,53.08,28.04,50.0,38.94
+383,India,Uttar Pradesh,Pratapgarh,"Calendar Year (Jan - Dec), 2021",8,260.0,6104.0,40.96,47.48,29.08,30.73,27.38,34.39,38.55
+384,India,Uttar Pradesh,Rae Bareli,"Calendar Year (Jan - Dec), 2017",8,200.0,3800.0,55.78,40.96,44.79,56.53,31.13,54.18,36.89
+385,India,Uttar Pradesh,Rae Bareli,"Calendar Year (Jan - Dec), 2021",8,296.0,8076.0,48.7,53.73,37.38,36.04,32.09,41.79,41.29
+386,India,Uttar Pradesh,Rampur,"Calendar Year (Jan - Dec), 2017",8,196.0,3768.0,48.67,36.7,40.5,38.54,32.39,46.91,26.26
+387,India,Uttar Pradesh,Rampur,"Calendar Year (Jan - Dec), 2021",8,300.0,7068.0,44.01,42.61,31.83,32.48,30.35,34.51,37.23
+388,India,Uttar Pradesh,Saharanpur,"Calendar Year (Jan - Dec), 2017",8,188.0,1736.0,49.75,35.08,39.74,53.23,25.27,47.63,46.77
+389,India,Uttar Pradesh,Saharanpur,"Calendar Year (Jan - Dec), 2021",8,304.0,7196.0,48.33,46.56,31.43,37.9,32.43,38.92,41.36
+390,India,Uttar Pradesh,Sant Kabeer Nagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4512.0,53.84,37.63,32.7,30.59,29.89,38.58,29.0
+391,India,Uttar Pradesh,Sant Kabeer Nagar,"Calendar Year (Jan - Dec), 2021",8,288.0,7396.0,43.81,48.22,32.92,40.79,30.81,40.7,44.95
+392,India,Uttar Pradesh,Bhadohi,"Calendar Year (Jan - Dec), 2017",8,192.0,4476.0,61.19,42.78,51.39,55.59,42.47,59.96,37.39
+393,India,Uttar Pradesh,Bhadohi,"Calendar Year (Jan - Dec), 2021",8,276.0,7304.0,48.29,45.06,32.52,38.09,31.18,40.83,43.21
+394,India,Uttar Pradesh,Shahjahanpur,"Calendar Year (Jan - Dec), 2017",8,204.0,3336.0,53.65,42.91,39.2,44.6,36.81,47.57,33.44
+395,India,Uttar Pradesh,Shahjahanpur,"Calendar Year (Jan - Dec), 2021",8,288.0,7140.0,44.1,46.56,34.92,35.46,30.73,36.38,38.95
+396,India,Uttar Pradesh,Shravasti,"Calendar Year (Jan - Dec), 2017",8,180.0,2780.0,48.37,37.46,27.52,28.78,29.12,46.19,21.76
+397,India,Uttar Pradesh,Shravasti,"Calendar Year (Jan - Dec), 2021",8,276.0,6848.0,45.43,53.72,36.26,41.67,28.63,36.58,39.25
+398,India,Uttar Pradesh,Siddharth Nagar,"Calendar Year (Jan - Dec), 2017",8,200.0,4020.0,55.85,43.62,39.5,47.96,36.99,51.09,34.68
+399,India,Uttar Pradesh,Siddharth Nagar,"Calendar Year (Jan - Dec), 2021",8,292.0,7560.0,52.38,63.68,39.19,50.2,41.84,47.91,47.18
+400,India,Uttar Pradesh,Sitapur,"Calendar Year (Jan - Dec), 2017",8,196.0,3572.0,48.45,36.77,34.88,44.34,23.27,38.54,31.77
+401,India,Uttar Pradesh,Sitapur,"Calendar Year (Jan - Dec), 2021",8,288.0,7928.0,43.5,44.34,32.28,34.77,29.49,35.3,38.28
+402,India,Uttar Pradesh,Sonbhadra,"Calendar Year (Jan - Dec), 2017",8,204.0,3800.0,51.06,31.35,41.75,37.05,30.61,46.61,37.73
+403,India,Uttar Pradesh,Sonbhadra,"Calendar Year (Jan - Dec), 2021",8,256.0,6784.0,48.02,55.98,37.0,42.39,34.02,39.56,48.62
+404,India,Uttar Pradesh,Sultanpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4432.0,57.48,44.33,44.97,49.64,35.33,59.41,46.54
+405,India,Uttar Pradesh,Sultanpur,"Calendar Year (Jan - Dec), 2021",8,284.0,7296.0,45.15,43.85,29.86,35.93,30.9,37.13,42.05
+406,India,Uttar Pradesh,Unnao,"Calendar Year (Jan - Dec), 2017",8,196.0,4456.0,56.55,49.72,51.78,52.69,33.74,51.37,39.13
+407,India,Uttar Pradesh,Unnao,"Calendar Year (Jan - Dec), 2021",8,288.0,7072.0,45.47,47.3,31.51,32.58,29.09,37.66,39.92
+408,India,Uttar Pradesh,Varanasi,"Calendar Year (Jan - Dec), 2017",8,200.0,4644.0,34.49,28.2,30.26,26.61,20.77,39.29,13.79
+409,India,Uttar Pradesh,Varanasi,"Calendar Year (Jan - Dec), 2021",8,312.0,8312.0,55.56,53.54,37.91,37.18,34.69,47.4,47.06
+410,India,Uttar Pradesh,Kasganj,"Calendar Year (Jan - Dec), 2017",8,196.0,3528.0,50.79,39.61,36.57,41.72,27.78,44.5,33.12
+411,India,Uttar Pradesh,Kasganj,"Calendar Year (Jan - Dec), 2021",8,304.0,7224.0,39.29,35.76,27.62,28.48,28.0,30.07,29.45
+412,India,Uttar Pradesh,Amethi,"Calendar Year (Jan - Dec), 2017",8,204.0,3960.0,54.86,44.66,38.64,41.82,31.55,52.01,30.9
+413,India,Uttar Pradesh,Amethi,"Calendar Year (Jan - Dec), 2021",8,276.0,7236.0,47.28,44.64,33.18,38.43,26.43,38.9,45.04
+414,India,Uttar Pradesh,Sambhal,"Calendar Year (Jan - Dec), 2017",8,192.0,692.0,37.92,43.90917424605601,10.98,34.1,31.79,39.31,15.03
+415,India,Uttar Pradesh,Sambhal,"Calendar Year (Jan - Dec), 2021",8,280.0,7632.0,45.56,49.17,30.66,40.48,33.46,35.41,41.24
+416,India,Uttar Pradesh,Shamli,"Calendar Year (Jan - Dec), 2017",8,192.0,2076.0,22.62,30.51,29.84,13.1,22.67,18.81,25.1
+417,India,Uttar Pradesh,Shamli,"Calendar Year (Jan - Dec), 2021",8,296.0,7316.0,50.43,45.46,34.84,37.51,33.81,42.15,38.35
+418,India,Uttar Pradesh,Hapur,"Calendar Year (Jan - Dec), 2017",8,200.0,3992.0,53.08,41.07,41.4,43.19,30.99,53.79,33.63
+419,India,Uttar Pradesh,Hapur,"Calendar Year (Jan - Dec), 2021",8,296.0,7860.0,49.45,43.79,30.81,35.37,29.95,39.13,35.52
+420,India,Bihar,Araria,"Calendar Year (Jan - Dec), 2017",8,204.0,4648.0,59.93,47.78,42.79,43.29,33.85,55.57,30.73
+421,India,Bihar,Araria,"Calendar Year (Jan - Dec), 2021",8,260.0,6568.0,45.12,54.4,32.47,42.81,30.92,40.57,39.94
+422,India,Bihar,Aurangabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4768.0,56.8,40.72,37.72,42.03,28.76,57.35,38.02
+423,India,Bihar,Aurangabad,"Calendar Year (Jan - Dec), 2021",8,220.0,5232.0,46.67,55.83,34.25,47.35,34.74,42.85,45.4
+424,India,Bihar,Banka,"Calendar Year (Jan - Dec), 2017",8,204.0,4600.0,56.94,36.65,35.17,44.09,27.9,45.78,32.58
+425,India,Bihar,Banka,"Calendar Year (Jan - Dec), 2021",8,228.0,4864.0,40.73,49.52,33.38,40.61,29.81,39.23,45.2
+426,India,Bihar,Begusarai,"Calendar Year (Jan - Dec), 2017",8,200.0,5228.0,63.46,57.21,50.72,60.06,37.31,63.88,33.84
+427,India,Bihar,Begusarai,"Calendar Year (Jan - Dec), 2021",8,240.0,5908.0,51.98,56.46,39.37,52.7,33.92,46.66,44.67
+428,India,Bihar,Bhagalpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4836.0,53.84,44.89,38.61,41.77,34.63,49.45,34.63
+429,India,Bihar,Bhagalpur,"Calendar Year (Jan - Dec), 2021",8,276.0,6980.0,51.62,54.67,36.48,42.89,32.82,44.42,39.24
+430,India,Bihar,Bhojpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4428.0,54.35,32.36,34.04,39.39,23.39,40.89,36.25
+431,India,Bihar,Bhojpur,"Calendar Year (Jan - Dec), 2021",8,232.0,5728.0,53.59,58.23,36.98,52.28,39.05,46.78,49.14
+432,India,Bihar,Buxar,"Calendar Year (Jan - Dec), 2017",8,204.0,4852.0,54.66,36.87,37.35,47.9,31.17,43.95,34.5
+433,India,Bihar,Buxar,"Calendar Year (Jan - Dec), 2021",8,272.0,6164.0,51.61,53.44,35.21,44.68,38.56,47.09,49.29
+434,India,Bihar,Darbhanga,"Calendar Year (Jan - Dec), 2017",8,204.0,4552.0,52.47,36.87,37.25,42.44,31.1,42.53,29.04
+435,India,Bihar,Darbhanga,"Calendar Year (Jan - Dec), 2021",8,256.0,5728.0,49.46,63.25,40.71,44.42,37.0,44.02,43.26
+436,India,Bihar,Gaya,"Calendar Year (Jan - Dec), 2017",8,204.0,5156.0,59.37,38.85,31.68,34.6,30.02,47.46,29.24
+437,India,Bihar,Gaya,"Calendar Year (Jan - Dec), 2021",8,228.0,5888.0,49.84,56.32,38.19,43.12,33.91,47.87,46.44
+438,India,Bihar,Gopalganj,"Calendar Year (Jan - Dec), 2017",8,204.0,4944.0,61.97,45.13,44.65,56.88,38.28,53.34,31.25
+439,India,Bihar,Gopalganj,"Calendar Year (Jan - Dec), 2021",8,240.0,5992.0,47.6,55.68,36.51,44.35,33.19,41.56,43.29
+440,India,Bihar,Jamui,"Calendar Year (Jan - Dec), 2017",8,200.0,4432.0,59.74,32.79,38.12,37.18,31.83,43.51,27.12
+441,India,Bihar,Jamui,"Calendar Year (Jan - Dec), 2021",8,200.0,4868.0,42.61,49.47,34.6,40.77,30.45,41.21,39.2
+442,India,Bihar,Jehanabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4768.0,56.82,47.41,37.19,49.41,38.45,50.67,32.04
+443,India,Bihar,Jehanabad,"Calendar Year (Jan - Dec), 2021",8,204.0,5044.0,51.23,62.92,38.72,46.91,36.82,48.96,54.96
+444,India,Bihar,Kaimur (Bhabua),"Calendar Year (Jan - Dec), 2017",8,204.0,2508.0,58.49,45.62,43.83,49.28,13.64,50.9,18.18
+445,India,Bihar,Kaimur (Bhabua),"Calendar Year (Jan - Dec), 2021",8,204.0,5396.0,49.73,56.23,40.35,45.69,31.94,44.57,50.35
+446,India,Bihar,Katihar,"Calendar Year (Jan - Dec), 2017",8,200.0,4448.0,56.85,46.0,37.79,45.5,23.13,52.08,35.23
+447,India,Bihar,Katihar,"Calendar Year (Jan - Dec), 2021",8,200.0,5036.0,48.19,54.55,39.23,52.57,32.35,43.8,52.44
+448,India,Bihar,Khagaria,"Calendar Year (Jan - Dec), 2017",8,204.0,4880.0,57.46,43.4,41.07,46.15,30.62,52.01,29.32
+449,India,Bihar,Khagaria,"Calendar Year (Jan - Dec), 2021",8,216.0,5536.0,42.72,49.83,36.2,46.64,25.73,39.17,39.06
+450,India,Bihar,Kishanganj,"Calendar Year (Jan - Dec), 2017",8,200.0,4352.0,53.73,39.93,41.81,38.33,32.25,49.49,31.7
+451,India,Bihar,Kishanganj,"Calendar Year (Jan - Dec), 2021",8,244.0,5760.0,44.01,55.43,33.72,42.21,35.28,38.8,44.7
+452,India,Bihar,Lakhisarai,"Calendar Year (Jan - Dec), 2017",8,204.0,5172.0,64.27,48.44,43.0,42.61,35.18,59.68,31.64
+453,India,Bihar,Lakhisarai,"Calendar Year (Jan - Dec), 2021",8,192.0,4880.0,48.22,52.47,35.03,40.26,30.74,41.9,44.89
+454,India,Bihar,Madhepura,"Calendar Year (Jan - Dec), 2017",8,200.0,4324.0,57.18,38.04,41.32,44.87,29.94,52.57,28.6
+455,India,Bihar,Madhepura,"Calendar Year (Jan - Dec), 2021",8,192.0,4236.0,43.48,63.98,39.09,45.75,31.54,44.57,44.11
+456,India,Bihar,Madhubani,"Calendar Year (Jan - Dec), 2017",8,200.0,4940.0,56.86,39.28,45.77,48.26,29.01,46.89,32.05
+457,India,Bihar,Madhubani,"Calendar Year (Jan - Dec), 2021",8,264.0,6688.0,45.74,58.33,37.66,45.91,35.42,40.8,45.77
+458,India,Bihar,Munger,"Calendar Year (Jan - Dec), 2017",8,196.0,4440.0,57.93,36.28,39.66,46.67,37.59,46.62,34.53
+459,India,Bihar,Munger,"Calendar Year (Jan - Dec), 2021",8,244.0,5924.0,50.79,53.26,34.84,37.47,33.01,41.93,42.37
+460,India,Bihar,Muzaffarpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5236.0,57.59,32.87,36.96,38.35,32.38,50.17,31.48
+461,India,Bihar,Muzaffarpur,"Calendar Year (Jan - Dec), 2021",8,204.0,5252.0,50.89,57.34,38.28,40.62,31.89,47.19,46.17
+462,India,Bihar,Nalanda,"Calendar Year (Jan - Dec), 2017",8,204.0,4728.0,58.74,35.75,37.92,45.69,31.58,47.42,29.2
+463,India,Bihar,Nalanda,"Calendar Year (Jan - Dec), 2021",8,288.0,6796.0,54.1,61.12,41.22,56.22,38.74,54.22,56.87
+464,India,Bihar,Nawada,"Calendar Year (Jan - Dec), 2017",8,204.0,4184.0,58.23,40.93,41.05,41.49,30.68,54.66,35.98
+465,India,Bihar,Nawada,"Calendar Year (Jan - Dec), 2021",8,192.0,4680.0,46.79,63.19,33.16,44.82,34.5,41.39,41.52
+466,India,Bihar,Pashchim Champaran,"Calendar Year (Jan - Dec), 2017",8,204.0,5000.0,57.1,44.99,43.05,47.2,37.36,51.71,34.3
+467,India,Bihar,Pashchim Champaran,"Calendar Year (Jan - Dec), 2021",8,272.0,7084.0,41.59,49.22,34.06,39.61,30.59,41.86,37.45
+468,India,Bihar,Patna,"Calendar Year (Jan - Dec), 2017",8,204.0,4736.0,62.78,48.34,41.77,53.38,32.46,55.25,42.41
+469,India,Bihar,Patna,"Calendar Year (Jan - Dec), 2021",8,296.0,7564.0,56.74,56.11,41.24,45.22,35.15,51.89,48.91
+470,India,Bihar,Purbi Champaran,"Calendar Year (Jan - Dec), 2017",8,188.0,4320.0,55.67,42.61,43.53,38.98,38.22,44.15,31.7
+471,India,Bihar,Purbi Champaran,"Calendar Year (Jan - Dec), 2021",8,216.0,5160.0,48.17,63.32,37.48,50.47,38.58,46.33,44.96
+472,India,Bihar,Purnia,"Calendar Year (Jan - Dec), 2017",8,204.0,4180.0,52.54,32.81,36.42,49.57,33.96,50.51,34.51
+473,India,Bihar,Purnia,"Calendar Year (Jan - Dec), 2021",8,212.0,5500.0,45.54,58.03,34.25,44.55,35.32,39.08,42.39
+474,India,Bihar,Rohtas,"Calendar Year (Jan - Dec), 2017",8,204.0,4384.0,58.45,37.64,40.78,49.36,37.18,51.01,31.05
+475,India,Bihar,Rohtas,"Calendar Year (Jan - Dec), 2021",8,280.0,6440.0,50.03,52.68,34.7,41.84,31.62,44.42,44.29
+476,India,Bihar,Saharsa,"Calendar Year (Jan - Dec), 2017",8,204.0,4540.0,58.69,45.45,43.68,46.78,27.69,51.9,27.18
+477,India,Bihar,Saharsa,"Calendar Year (Jan - Dec), 2021",8,204.0,5156.0,49.01,56.5,39.68,41.52,40.13,43.6,45.05
+478,India,Bihar,Samastipur,"Calendar Year (Jan - Dec), 2017",8,204.0,5072.0,55.67,44.08,37.64,40.3,30.03,50.12,29.39
+479,India,Bihar,Samastipur,"Calendar Year (Jan - Dec), 2021",8,204.0,5580.0,47.86,59.16,37.82,45.26,32.66,44.53,37.56
+480,India,Bihar,Saran,"Calendar Year (Jan - Dec), 2017",8,200.0,4832.0,58.96,41.56,41.17,37.09,39.24,45.9,33.94
+481,India,Bihar,Saran,"Calendar Year (Jan - Dec), 2021",8,256.0,6480.0,50.94,55.96,38.61,41.63,35.49,47.38,41.93
+482,India,Bihar,Sheikhpura,"Calendar Year (Jan - Dec), 2017",8,204.0,4560.0,56.01,42.96,37.84,39.39,31.15,48.82,31.68
+483,India,Bihar,Sheikhpura,"Calendar Year (Jan - Dec), 2021",8,180.0,4568.0,45.37,49.48,30.47,39.45,28.04,42.49,36.74
+484,India,Bihar,Sheohar,"Calendar Year (Jan - Dec), 2017",8,196.0,4900.0,60.53,54.66,46.13,51.76,42.95,49.53,23.88
+485,India,Bihar,Sheohar,"Calendar Year (Jan - Dec), 2021",8,176.0,4144.0,43.9,50.45,35.87,35.87,29.3,44.41,35.25
+486,India,Bihar,Sitamarhi,"Calendar Year (Jan - Dec), 2017",8,200.0,4688.0,58.47,52.31,41.21,40.53,36.29,48.29,29.81
+487,India,Bihar,Sitamarhi,"Calendar Year (Jan - Dec), 2021",8,264.0,6576.0,49.47,62.11,42.82,46.45,36.74,49.85,44.04
+488,India,Bihar,Siwan,"Calendar Year (Jan - Dec), 2017",8,204.0,5224.0,52.57,34.74,38.71,36.98,28.94,47.52,31.48
+489,India,Bihar,Siwan,"Calendar Year (Jan - Dec), 2021",8,228.0,6096.0,49.62,51.22,39.44,43.74,33.74,45.89,46.79
+490,India,Bihar,Supaul,"Calendar Year (Jan - Dec), 2017",8,204.0,4920.0,60.92,53.64,49.84,55.37,43.61,49.55,30.35
+491,India,Bihar,Supaul,"Calendar Year (Jan - Dec), 2021",8,280.0,6412.0,45.88,59.77,35.68,34.22,33.22,46.65,38.15
+492,India,Bihar,Vaishali,"Calendar Year (Jan - Dec), 2017",8,204.0,5036.0,54.22,34.61,35.95,33.52,25.0,49.9,31.33
+493,India,Bihar,Vaishali,"Calendar Year (Jan - Dec), 2021",8,212.0,5176.0,49.06,53.63,36.65,40.68,31.63,42.26,42.01
+494,India,Bihar,Arwal,"Calendar Year (Jan - Dec), 2017",8,204.0,4464.0,58.25,43.22,42.12,55.2,39.12,60.78,37.72
+495,India,Bihar,Arwal,"Calendar Year (Jan - Dec), 2021",8,164.0,3912.0,52.85,74.54,44.35,62.53,40.07,49.58,64.67
+496,India,Sikkim,East District,"Calendar Year (Jan - Dec), 2017",8,368.0,8140.0,50.84,28.93,37.78,49.39,24.59,56.24,20.99
+497,India,Sikkim,East District,"Calendar Year (Jan - Dec), 2021",8,212.0,4832.0,60.85,45.8,41.63,37.43,26.42,49.95,38.99
+498,India,Sikkim,North District,"Calendar Year (Jan - Dec), 2017",8,108.0,1876.0,52.38,33.77,37.43,54.8,19.33,58.97,17.65
+499,India,Sikkim,North District,"Calendar Year (Jan - Dec), 2021",8,116.0,1628.0,54.38,39.69,31.7,40.13,25.4,41.93,44.0
+500,India,Sikkim,South District,"Calendar Year (Jan - Dec), 2017",8,192.0,4308.0,49.74,29.03,35.57,47.08,23.2,57.9,25.05
+501,India,Sikkim,South District,"Calendar Year (Jan - Dec), 2021",8,184.0,3144.0,52.02,44.07,36.89,36.98,23.27,42.78,35.2
+502,India,Sikkim,West District,"Calendar Year (Jan - Dec), 2017",8,252.0,5608.0,50.7,25.22,36.54,48.36,21.09,55.95,18.72
+503,India,Sikkim,West District,"Calendar Year (Jan - Dec), 2021",8,216.0,3472.0,50.28,37.64,35.22,34.82,24.02,41.65,37.91
+504,India,Arunachal Pradesh,Changlang,"Calendar Year (Jan - Dec), 2017",8,200.0,4816.0,37.31,26.99,33.52,28.57,29.67,36.65,14.5
+505,India,Arunachal Pradesh,Changlang,"Calendar Year (Jan - Dec), 2021",8,188.0,4784.0,45.36,45.16,34.92,29.05,21.47,45.01,34.46
+506,India,Arunachal Pradesh,Dibang Valley,"Calendar Year (Jan - Dec), 2017",8,12.0,236.0,42.26,51.85,45.35,38.98,6.25,50.44,18.75
+507,India,Arunachal Pradesh,Dibang Valley,"Calendar Year (Jan - Dec), 2021",8,12.0,176.0,60.9,70.36,31.02,27.77,38.78,50.19,37.99
+508,India,Arunachal Pradesh,East Kameng,"Calendar Year (Jan - Dec), 2017",8,128.63113483288856,1885.461634261024,47.58,35.59,42.24,39.68,28.26,45.84,30.07
+509,India,Arunachal Pradesh,East Kameng,"Calendar Year (Jan - Dec), 2021",8,128.0,2212.0,48.83,42.2,36.75,33.45,23.0,43.17,31.5
+510,India,Arunachal Pradesh,East Siang,"Calendar Year (Jan - Dec), 2017",8,167.1058609722853,3148.2744207178557,40.64,23.49,35.14,34.08,24.48,42.78,16.74
+511,India,Arunachal Pradesh,East Siang,"Calendar Year (Jan - Dec), 2021",8,192.0,4200.0,64.35,52.15,44.74,43.67,34.94,57.11,47.07
+512,India,Arunachal Pradesh,Kurung Kumey,"Calendar Year (Jan - Dec), 2017",8,92.0,1400.0,49.12,39.13,33.76,66.86,40.0,52.07,25.11
+513,India,Arunachal Pradesh,Kurung Kumey,"Calendar Year (Jan - Dec), 2021",8,68.0,1300.0,47.03,33.07,33.8,33.05,24.67,45.7,36.62
+514,India,Arunachal Pradesh,Lohit,"Calendar Year (Jan - Dec), 2017",8,120.0,2340.0,40.54,24.83,41.37,32.99,22.37,40.17,15.25
+515,India,Arunachal Pradesh,Lohit,"Calendar Year (Jan - Dec), 2021",8,124.0,2680.0,49.25,40.53,38.77,28.79,26.97,50.7,39.11
+516,India,Arunachal Pradesh,Lower Dibang Valley,"Calendar Year (Jan - Dec), 2017",8,120.0,2416.0,38.8,31.46,34.0,34.6,23.51,42.72,16.56
+517,India,Arunachal Pradesh,Lower Dibang Valley,"Calendar Year (Jan - Dec), 2021",8,120.0,2460.0,59.53,40.15,41.23,34.29,30.93,52.44,38.58
+518,India,Arunachal Pradesh,Lower Subansiri,"Calendar Year (Jan - Dec), 2017",8,124.02929061784896,1458.9761291099603,52.3,28.5,42.97,41.39,26.67,52.38,27.5
+519,India,Arunachal Pradesh,Lower Subansiri,"Calendar Year (Jan - Dec), 2021",8,152.0,2648.0,64.87,56.68,46.81,31.95,33.56,57.16,44.95
+520,India,Arunachal Pradesh,Papum Pare,"Calendar Year (Jan - Dec), 2017",8,212.0,3408.0,50.74,31.44,40.08,38.97,26.57,45.58,24.48
+521,India,Arunachal Pradesh,Papum Pare,"Calendar Year (Jan - Dec), 2021",8,388.0,8156.0,60.575,47.295,41.745,36.495,33.385,54.49,39.375
+522,India,Arunachal Pradesh,Tawang,"Calendar Year (Jan - Dec), 2017",8,116.0,1232.0,52.79,27.33,40.83,40.26,17.72,61.35,22.78
+523,India,Arunachal Pradesh,Tawang,"Calendar Year (Jan - Dec), 2021",8,136.0,1724.0,60.3,38.63,40.73,34.48,33.33,52.88,28.89
+524,India,Arunachal Pradesh,Tirap,"Calendar Year (Jan - Dec), 2017",8,148.0,2280.0,49.22,39.34,41.69,43.33,26.17,48.2,16.11
+525,India,Arunachal Pradesh,Tirap,"Calendar Year (Jan - Dec), 2021",8,140.0,2808.0,53.32,47.96,42.1,36.04,27.51,43.95,37.78
+526,India,Arunachal Pradesh,Upper Siang,"Calendar Year (Jan - Dec), 2017",8,88.0,1540.0,46.75,28.42,33.57,43.12,24.62,48.76,18.46
+527,India,Arunachal Pradesh,Upper Siang,"Calendar Year (Jan - Dec), 2021",8,108.0,1868.0,51.64,40.51,37.69,37.0,26.61,47.47,38.03
+528,India,Arunachal Pradesh,Upper Subansiri,"Calendar Year (Jan - Dec), 2017",8,142.42833860607803,1827.32528041415,44.89,34.49,38.43,36.82,29.43,48.26,17.09
+529,India,Arunachal Pradesh,Upper Subansiri,"Calendar Year (Jan - Dec), 2021",8,136.0,2704.0,50.5,45.34,37.92,31.06,28.98,44.64,29.14
+530,India,Arunachal Pradesh,West Kameng,"Calendar Year (Jan - Dec), 2017",8,184.0,3088.0,37.6,25.53,32.12,36.53,24.74,44.78,13.78
+531,India,Arunachal Pradesh,West Kameng,"Calendar Year (Jan - Dec), 2021",8,212.0,3964.0,52.04,47.07,35.59,30.92,28.96,44.84,33.24
+532,India,Arunachal Pradesh,West Siang,"Calendar Year (Jan - Dec), 2017",8,78.80414752880992,1518.2932423884045,49.32,29.47,40.22,43.83,28.21,53.38,20.87
+533,India,Arunachal Pradesh,West Siang,"Calendar Year (Jan - Dec), 2021",8,132.0,2464.0,57.69,45.12,37.77,35.91,23.49,50.59,29.53
+534,India,Arunachal Pradesh,Anjaw,"Calendar Year (Jan - Dec), 2017",8,68.0,824.0,41.78,34.65,39.74,39.81,19.05,44.12,16.19
+535,India,Arunachal Pradesh,Anjaw,"Calendar Year (Jan - Dec), 2021",8,72.0,772.0,47.79,41.18,41.67,26.83,29.85,50.99,43.94
+536,India,Arunachal Pradesh,Longding,"Calendar Year (Jan - Dec), 2017",8,52.0,1284.0,45.21,48.17,49.07,50.16,33.76,51.77,36.31
+537,India,Arunachal Pradesh,Longding,"Calendar Year (Jan - Dec), 2021",8,104.0,2612.0,42.23,38.64,30.68,21.35,27.96,35.91,21.98
+538,India,Arunachal Pradesh,Kra Daadi,"Calendar Year (Jan - Dec), 2017",8,152.0,1160.0,49.7,44.2,45.79,43.79,30.26,47.53,4.61
+539,India,Arunachal Pradesh,Kra Daadi,"Calendar Year (Jan - Dec), 2021",8,120.0,1344.0,54.75,43.85,37.45,40.16,25.42,39.75,42.99
+540,India,Arunachal Pradesh,Namsai,"Calendar Year (Jan - Dec), 2017",8,220.0,3872.0,36.8,29.55,32.06,34.81,23.35,33.33,16.77
+541,India,Arunachal Pradesh,Namsai,"Calendar Year (Jan - Dec), 2021",8,160.0,3324.0,52.92,42.96,39.05,42.6,30.49,47.68,40.12
+542,India,Arunachal Pradesh,Siang,"Calendar Year (Jan - Dec), 2017",8,64.0,1404.0,50.26,30.59,41.46,54.13,30.39,56.44,19.34
+543,India,Arunachal Pradesh,Siang,"Calendar Year (Jan - Dec), 2021",8,104.0,1752.0,52.58,46.26,35.54,30.56,28.92,50.11,40.64
+544,India,Nagaland,Wokha,"Calendar Year (Jan - Dec), 2021",8,172.0,2848.0,54.72,45.13,36.9,34.26,28.15,44.4,31.96
+545,India,Nagaland,Zunheboto,"Calendar Year (Jan - Dec), 2017",8,100.0,1152.0,16.81,18.52,17.02,18.75,69.93,16.85,5.23
+546,India,Nagaland,Zunheboto,"Calendar Year (Jan - Dec), 2021",8,188.0,2816.0,55.75,50.27,40.99,35.21,31.56,43.29,40.85
+547,India,Arunachal Pradesh,Kamle,"Calendar Year (Jan - Dec), 2017",8,43.34224614756182,526.2374170505229,50.01249524929871,30.34914351642385,41.56847887069044,39.979217717853594,27.522026060989955,51.10813501040629,24.286379965613968
+548,India,Arunachal Pradesh,Kamle,"Calendar Year (Jan - Dec), 2021",8,52.0,976.0,61.51,78.7,48.91,44.04,36.51,44.59,56.05
+549,India,Arunachal Pradesh,Lower Siang,"Calendar Year (Jan - Dec), 2017",8,61.86523284217601,1177.9019867740997,45.45107785565448,26.80454442129191,37.955699943171055,39.484148512975935,26.547433225989767,48.65527940897897,19.02914188293237
+550,India,Arunachal Pradesh,Lower Siang,"Calendar Year (Jan - Dec), 2021",8,88.0,1300.0,46.32,44.84,38.17,29.87,30.86,37.74,29.62
+551,India,Arunachal Pradesh,Pakke Kessang,"Calendar Year (Jan - Dec), 2017",8,23.368865167111448,342.5383657389757,47.58,35.59,42.24,39.68,28.26,45.84,30.07
+552,India,Arunachal Pradesh,Pakke Kessang,"Calendar Year (Jan - Dec), 2021",8,40.0,728.0,52.31,55.07,40.6,36.35,25.11,47.78,31.47
+553,India,Arunachal Pradesh,Leparada,"Calendar Year (Jan - Dec), 2017",8,69.47843261277916,1144.22324058893,47.29136781334335,31.76881119120008,39.400304376046186,40.61990708161104,28.768675229733883,51.03539575718239,19.139022648857306
+554,India,Arunachal Pradesh,Leparada,"Calendar Year (Jan - Dec), 2021",8,72.0,1048.0,52.44,28.26,37.82,35.66,30.19,49.15,36.87
+555,India,Arunachal Pradesh,Shi Yomi,"Calendar Year (Jan - Dec), 2017",8,32.946450672460735,634.7682829560769,49.32,29.47,40.22,43.83,28.21,53.38,20.87
+556,India,Arunachal Pradesh,Shi Yomi,"Calendar Year (Jan - Dec), 2021",8,28.0,684.0,42.85,47.92,30.41,47.33,34.52,47.01,33.2
+557,India,Nagaland,Dimapur,"Calendar Year (Jan - Dec), 2017",8,188.06403271788287,3888.7000910488528,45.95734809296829,29.498491151341213,39.93202940144607,33.64589959825585,18.425861877039384,48.865748713389976,19.64673700926148
+558,India,Nagaland,Dimapur,"Calendar Year (Jan - Dec), 2021",8,200.21771124080183,4584.934788124841,61.26254995423335,45.499471902969425,40.21170499898442,36.99110900376421,24.630920397681855,49.30129006560326,41.32151639290208
+559,India,Nagaland,Kohima,"Calendar Year (Jan - Dec), 2017",8,59.93596728211711,655.2999089511471,55.69,27.5,42.62,41.46,26.19,56.48,28.57
+560,India,Nagaland,Kohima,"Calendar Year (Jan - Dec), 2021",8,203.78228875919817,4619.06521187516,64.64,44.8,42.47,38.46,25.85,51.01,43.33
+561,India,Nagaland,Mokokchung,"Calendar Year (Jan - Dec), 2017",8,216.0,2604.0,55.73,40.62,50.72,40.71,26.99,56.26,19.63
+562,India,Nagaland,Mokokchung,"Calendar Year (Jan - Dec), 2021",8,216.0,3408.0,61.01,53.13,44.56,32.91,30.53,52.53,45.69
+563,India,Nagaland,Mon,"Calendar Year (Jan - Dec), 2017",8,76.0,992.0,41.91,40.8,39.14,27.02,39.02,39.36,17.07
+564,India,Nagaland,Mon,"Calendar Year (Jan - Dec), 2021",8,196.0,4404.0,44.27,37.46,34.82,30.67,27.09,34.07,34.83
+565,India,Nagaland,Phek,"Calendar Year (Jan - Dec), 2017",8,180.0,2536.0,53.72,38.87,41.18,40.69,27.93,56.47,15.62
+566,India,Nagaland,Phek,"Calendar Year (Jan - Dec), 2021",8,192.0,3308.0,56.77,50.59,41.69,33.36,28.39,48.49,37.98
+567,India,Nagaland,Tuensang,"Calendar Year (Jan - Dec), 2017",8,91.79596736454454,1273.6690471830557,21.2,16.67,19.88,23.42,50.0,18.63,6.41
+568,India,Nagaland,Tuensang,"Calendar Year (Jan - Dec), 2021",8,129.08807910639075,2857.149484221449,47.13,40.31,36.17,28.24,25.6,44.58,36.26
+569,India,Nagaland,Wokha,"Calendar Year (Jan - Dec), 2017",8,84.0,1000.0,57.92,32.76,43.72,48.4,27.61,59.13,13.43
+570,India,Nagaland,Peren,"Calendar Year (Jan - Dec), 2017",8,88.0,1436.0,49.97,28.98,38.5,28.97,18.58,47.96,16.94
+571,India,Nagaland,Peren,"Calendar Year (Jan - Dec), 2021",8,164.0,3220.0,56.57,41.14,35.85,31.5,26.62,44.74,28.02
+572,India,Nagaland,Kiphire,"Calendar Year (Jan - Dec), 2017",8,52.0,624.0,49.49,37.33,49.35,62.18,20.99,52.61,11.11
+573,India,Nagaland,Kiphire,"Calendar Year (Jan - Dec), 2021",8,140.0,2396.0,46.26,40.84,35.71,36.91,24.96,42.9,27.33
+574,India,Nagaland,Longleng,"Calendar Year (Jan - Dec), 2017",8,52.0,744.0,35.13,32.97,33.21,25.81,29.47,35.05,14.74
+575,India,Nagaland,Longleng,"Calendar Year (Jan - Dec), 2021",8,92.0,1436.0,46.47,42.7,34.2,31.17,23.47,40.1,39.32
+576,India,Nagaland,Noklak,"Calendar Year (Jan - Dec), 2017",8,36.20403263545545,502.3309528169444,21.2,16.67,19.88,23.42,50.0,18.63,6.41
+577,India,Nagaland,Noklak,"Calendar Year (Jan - Dec), 2021",8,50.91192089360922,1126.8505157785507,47.13,40.31,36.17,28.24,25.6,44.58,36.26
+578,India,Manipur,Bishnupur,"Calendar Year (Jan - Dec), 2017",8,172.0,1824.0,50.79,33.64,43.83,50.88,25.1,50.67,48.12
+579,India,Manipur,Bishnupur,"Calendar Year (Jan - Dec), 2021",8,228.0,4084.0,53.1,53.74,38.51,38.71,33.53,44.27,35.84
+580,India,Manipur,Chandel,"Calendar Year (Jan - Dec), 2017",8,30.59871551233857,383.6608175777836,49.49,34.62,49.79,52.76,10.59,44.83,20.0
+581,India,Manipur,Chandel,"Calendar Year (Jan - Dec), 2021",8,112.0,1796.0,58.75,57.98,45.21,36.8,31.74,42.54,37.37
+582,India,Manipur,Churachandpur,"Calendar Year (Jan - Dec), 2017",8,105.73084849877618,1565.4986922883313,58.88,41.15,43.21,51.42,36.91,57.19,26.18
+583,India,Manipur,Churachandpur,"Calendar Year (Jan - Dec), 2021",8,220.0,3604.0,64.53,46.03,41.89,43.44,29.72,51.93,53.26
+584,India,Manipur,Imphal East,"Calendar Year (Jan - Dec), 2017",8,183.52625118712703,2623.3458257924635,48.24,31.73,43.07,51.99,28.46,49.27,22.07
+585,India,Manipur,Imphal East,"Calendar Year (Jan - Dec), 2021",8,276.0,5060.0,64.24,57.96,47.66,36.8,40.56,52.47,49.25
+586,India,Manipur,Imphal West,"Calendar Year (Jan - Dec), 2017",8,176.0,2572.0,48.92,34.82,43.62,41.52,30.3,48.78,18.18
+587,India,Manipur,Imphal West,"Calendar Year (Jan - Dec), 2021",8,276.0,4520.0,66.9,61.95,50.39,44.28,41.17,58.03,53.66
+588,India,Manipur,Senapati,"Calendar Year (Jan - Dec), 2017",8,119.12978870829053,1377.1403574678388,54.91,49.29,48.6,54.84,22.48,56.06,19.8
+589,India,Manipur,Senapati,"Calendar Year (Jan - Dec), 2021",8,200.0,3692.0,58.53,53.42,39.22,37.23,26.93,48.34,46.58
+590,India,Manipur,Tamenglong,"Calendar Year (Jan - Dec), 2017",8,53.59672266466929,661.026246197588,58.74,33.59,44.62,50.58,13.28,49.52,21.88
+591,India,Manipur,Tamenglong,"Calendar Year (Jan - Dec), 2021",8,108.0,2160.0,53.24,40.75,37.13,36.03,29.03,43.47,34.42
+592,India,Manipur,Thoubal,"Calendar Year (Jan - Dec), 2017",8,163.51161369193153,2240.6200813722494,47.2,35.44,49.96,50.4,30.75,52.09,21.72
+593,India,Manipur,Thoubal,"Calendar Year (Jan - Dec), 2021",8,224.0,4344.0,49.29,58.8,41.21,42.88,40.91,47.38,37.85
+594,India,Manipur,Ukhrul,"Calendar Year (Jan - Dec), 2017",8,72.56597864768683,618.2621380782919,56.81,36.0,46.65,55.4,16.81,64.65,34.51
+595,India,Manipur,Ukhrul,"Calendar Year (Jan - Dec), 2021",8,188.0,3740.0,55.8,50.45,36.53,38.18,28.86,46.27,43.35
+596,India,Manipur,Kakching,"Calendar Year (Jan - Dec), 2017",8,92.48838630806847,1267.3799186277506,47.2,35.44,49.96,50.4,30.75,52.09,21.72
+597,India,Manipur,Kakching,"Calendar Year (Jan - Dec), 2021",8,164.0,2968.0,53.91,61.08,38.88,37.21,45.91,47.01,44.38
+598,India,Manipur,Kangpokpi,"Calendar Year (Jan - Dec), 2017",8,81.31297832810273,941.1886066406064,54.87680637656448,49.20261169002583,48.572479649535474,54.82581681757253,22.509759800321497,56.02620918993596,19.8112967803896
+599,India,Manipur,Kangpokpi,"Calendar Year (Jan - Dec), 2021",8,212.0,4136.0,57.49,54.94,40.82,34.4,28.32,46.01,48.39
+600,India,Manipur,Jiribam,"Calendar Year (Jan - Dec), 2017",8,20.030981776479653,286.3252100990915,48.24,31.73,43.07,51.99,28.46,49.27,22.07
+601,India,Manipur,Jiribam,"Calendar Year (Jan - Dec), 2021",8,112.0,1612.0,38.89,36.59,41.55,40.1,28.95,33.6,35.75
+602,India,Manipur,Noney,"Calendar Year (Jan - Dec), 2017",8,30.403277335330717,374.97375380241215,58.74,33.59,44.62,50.58,13.28,49.52,21.88
+603,India,Manipur,Noney,"Calendar Year (Jan - Dec), 2021",8,108.0,1484.0,48.32,50.56,37.76,28.28,28.93,40.56,42.7
+604,India,Manipur,Pherzawl,"Calendar Year (Jan - Dec), 2017",8,18.269151501223813,270.50130771166874,58.88,41.15,43.21,51.42,36.91,57.19,26.18
+605,India,Manipur,Pherzawl,"Calendar Year (Jan - Dec), 2021",8,60.0,744.0,49.25,53.0,36.18,55.98,32.54,42.32,47.42
+606,India,Manipur,Tengnoupal,"Calendar Year (Jan - Dec), 2017",8,21.401284487661428,268.3391824222164,49.49,34.62,49.79,52.76,10.59,44.83,20.0
+607,India,Manipur,Tengnoupal,"Calendar Year (Jan - Dec), 2021",8,108.0,1632.0,51.52,48.53,38.33,39.0,33.66,41.19,41.92
+608,India,Manipur,Kamjong,"Calendar Year (Jan - Dec), 2017",8,27.434021352313167,233.73786192170817,56.81,36.0,46.65,55.4,16.81,64.65,34.51
+609,India,Manipur,Kamjong,"Calendar Year (Jan - Dec), 2021",8,64.0,844.0,57.28,63.92,41.24,34.95,31.56,41.26,49.88
+610,India,Mizoram,Aizawl,"Calendar Year (Jan - Dec), 2017",8,189.23543157772144,2683.35841977209,47.47,40.51,38.61,33.57,33.99,48.76,15.73
+611,India,Mizoram,Aizawl,"Calendar Year (Jan - Dec), 2021",8,333.05435957678975,4995.815393651847,59.28,43.99,40.83,28.99,28.97,45.07,36.72
+612,India,Mizoram,Champhai,"Calendar Year (Jan - Dec), 2017",8,124.36124084048724,1994.3858253307767,40.25,32.41,40.12,33.72,28.77,51.32,12.53
+613,India,Mizoram,Champhai,"Calendar Year (Jan - Dec), 2021",8,158.9060299628448,2475.709887102292,43.06,43.32,36.05,33.63,28.03,38.41,23.09
+614,India,Mizoram,Kolasib,"Calendar Year (Jan - Dec), 2017",8,176.0,2624.0,52.23,32.33,39.72,36.43,33.23,52.96,19.38
+615,India,Mizoram,Kolasib,"Calendar Year (Jan - Dec), 2021",8,168.0,2828.0,45.97,44.16,34.2,43.03,29.31,38.4,32.32
+616,India,Mizoram,Lawngtlai,"Calendar Year (Jan - Dec), 2017",8,188.0,2360.0,37.41,27.87,35.69,30.68,24.75,36.51,7.59
+617,India,Mizoram,Lawngtlai,"Calendar Year (Jan - Dec), 2021",8,184.0,3272.0,39.71,43.56,35.01,36.74,26.17,32.67,28.74
+618,India,Mizoram,Lunglei,"Calendar Year (Jan - Dec), 2017",8,156.5893672395694,2309.693166783649,49.36,35.61,39.85,35.88,33.05,49.65,17.93
+619,India,Mizoram,Lunglei,"Calendar Year (Jan - Dec), 2021",8,257.720000248458,2616.3473442944724,46.4,46.51,37.12,33.19,22.81,41.66,30.56
+620,India,Mizoram,Mamit,"Calendar Year (Jan - Dec), 2017",8,176.0,2296.0,42.09,32.87,37.79,32.93,22.57,43.8,15.97
+621,India,Mizoram,Mamit,"Calendar Year (Jan - Dec), 2021",8,232.0,2888.0,44.99,53.16,39.05,29.58,27.69,40.41,38.8
+622,India,Mizoram,Saiha,"Calendar Year (Jan - Dec), 2017",8,164.0,1796.0,41.57,42.67,39.76,32.52,31.7,41.27,14.73
+623,India,Mizoram,Saiha,"Calendar Year (Jan - Dec), 2021",8,124.0,1696.0,45.39,51.79,40.07,25.28,28.98,43.81,30.8
+624,India,Mizoram,Serchhip,"Calendar Year (Jan - Dec), 2017",8,199.06800629561116,2657.6293715802267,44.993432320748845,34.09838544366604,40.2859048832146,27.422921634551297,28.789416739487834,47.55335574744139,18.99034569071493
+625,India,Mizoram,Serchhip,"Calendar Year (Jan - Dec), 2021",8,252.47716447515768,3003.7227334883114,50.242364737769755,53.03203163647674,42.59436601152302,39.236933957373694,31.53151161929588,44.58541063732097,31.455691011152744
+626,India,Mizoram,Hnahthial,"Calendar Year (Jan - Dec), 2017",8,33.97474424353854,501.12747759219343,49.36,35.61,39.85,35.88,33.05,49.65,17.93
+627,India,Mizoram,Hnahthial,"Calendar Year (Jan - Dec), 2021",8,55.91676656749051,567.6613517357897,46.4,46.51,37.12,33.19,22.81,41.66,30.56
+628,India,Mizoram,Saitual,"Calendar Year (Jan - Dec), 2017",8,41.1773491747708,640.3724715549153,44.19008573775542,36.83031779443474,39.29596544819797,33.63814226306602,31.618649245302393,49.92296128966013,14.276298387924838
+629,India,Tripura,West Tripura,"Calendar Year (Jan - Dec), 2021",8,272.0,7424.0,59.87,54.85,44.85,38.79,33.83,53.78,56.92
+630,India,Tripura,Khowai,"Calendar Year (Jan - Dec), 2017",8,192.0,3712.0,53.04,34.9,44.95,19.18,25.57,54.12,38.88
+631,India,Mizoram,Saitual,"Calendar Year (Jan - Dec), 2021",8,57.806415829172565,889.6242231801754,51.911549953794015,43.68563122497176,38.65853321696273,31.097867337508983,28.54297515145292,42.04448351986857,30.52813969606736
+632,India,Mizoram,Khawzawl,"Calendar Year (Jan - Dec), 2017",8,59.59386062830138,949.4332673861485,40.356785714285714,32.448027210884355,40.123979591836736,33.57231292517007,28.768673469387757,51.232891156462586,12.678350340136054
+633,India,Mizoram,Khawzawl,"Calendar Year (Jan - Dec), 2021",8,76.11926334008666,1175.1190665471124,43.226037414965994,43.54506802721088,36.20210884353741,33.760884353741496,28.1137925170068,38.552602040816325,23.28190476190476
+634,India,Tripura,Dhalai,"Calendar Year (Jan - Dec), 2017",8,200.0,3580.0,49.05,32.47,33.16,21.12,25.4,44.2,41.57
+635,India,Tripura,Dhalai,"Calendar Year (Jan - Dec), 2021",8,168.0,3380.0,40.62,41.82,34.15,36.02,28.33,35.29,41.55
+636,India,Tripura,North Tripura,"Calendar Year (Jan - Dec), 2017",8,200.0,3568.0,53.18,35.59,36.44,18.61,24.88,51.16,44.24
+637,India,Tripura,North Tripura,"Calendar Year (Jan - Dec), 2021",8,188.0,4640.0,50.58,44.99,32.95,39.07,26.81,41.16,43.26
+638,India,Tripura,South Tripura,"Calendar Year (Jan - Dec), 2017",8,204.0,4276.0,54.02,32.53,36.53,21.05,29.76,53.43,50.28
+639,India,Tripura,South Tripura,"Calendar Year (Jan - Dec), 2021",8,164.0,3976.0,56.03,60.34,41.96,38.83,34.1,50.07,61.49
+640,India,Tripura,West Tripura,"Calendar Year (Jan - Dec), 2017",8,204.0,4156.0,54.06,30.25,33.99,19.54,25.49,50.02,44.9
+641,India,Tripura,Khowai,"Calendar Year (Jan - Dec), 2021",8,176.0,3556.0,51.58,54.96,38.16,41.18,27.97,42.43,53.34
+642,India,Tripura,Sepahijala,"Calendar Year (Jan - Dec), 2017",8,204.0,4156.0,54.82,29.58,34.74,20.5,24.27,52.47,51.46
+643,India,Tripura,Sepahijala,"Calendar Year (Jan - Dec), 2021",8,204.0,4624.0,51.08,50.58,38.03,45.6,27.53,47.12,56.39
+644,India,Tripura,Gomati,"Calendar Year (Jan - Dec), 2017",8,196.0,3812.0,53.73,32.98,35.55,23.71,29.38,50.87,43.96
+645,India,Tripura,Gomati,"Calendar Year (Jan - Dec), 2021",8,196.0,4200.0,51.44,44.2,35.72,39.05,27.62,42.97,54.01
+646,India,Tripura,Unakoti,"Calendar Year (Jan - Dec), 2017",8,204.0,3932.0,52.8,31.72,35.66,17.4,26.02,48.0,44.47
+647,India,Tripura,Unakoti,"Calendar Year (Jan - Dec), 2021",8,164.0,3808.0,47.85,48.11,35.13,36.99,25.58,40.14,43.13
+648,India,Meghalaya,East Garo Hills,"Calendar Year (Jan - Dec), 2017",8,200.0,1560.0,39.18,26.32,36.21,40.26,22.0,35.58,13.5
+649,India,Meghalaya,East Garo Hills,"Calendar Year (Jan - Dec), 2021",8,272.0,4844.0,31.87,34.31,30.07,25.95,23.09,28.92,25.14
+650,India,Meghalaya,East Khasi Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,4084.0,54.66,37.2,46.42,57.39,24.38,46.02,14.4
+651,India,Meghalaya,East Khasi Hills,"Calendar Year (Jan - Dec), 2021",8,348.0,7660.0,55.18,42.6,40.24,33.06,27.26,45.85,39.78
+652,India,Meghalaya,West Jaintia Hills,"Calendar Year (Jan - Dec), 2017",8,192.0,4140.0,45.64,35.7,41.39,53.72,19.65,40.97,10.51
+653,India,Meghalaya,West Jaintia Hills,"Calendar Year (Jan - Dec), 2021",8,272.0,5788.0,45.65,39.79,34.87,29.78,25.79,38.44,32.24
+654,India,Meghalaya,Ri Bhoi,"Calendar Year (Jan - Dec), 2017",8,200.0,3876.0,49.06,32.46,41.37,47.06,23.68,42.48,10.57
+655,India,Meghalaya,Ri Bhoi,"Calendar Year (Jan - Dec), 2021",8,332.0,6536.0,43.63,38.74,33.98,27.74,25.42,38.24,35.95
+656,India,Meghalaya,South Garo Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,2428.0,39.57,30.46,37.51,42.5,25.9,35.84,20.0
+657,India,Meghalaya,South Garo Hills,"Calendar Year (Jan - Dec), 2021",8,296.0,4248.0,33.13,34.86,29.23,28.17,26.24,33.3,25.71
+658,India,Meghalaya,West Garo Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,3604.0,42.44,32.75,38.93,39.96,24.6,40.4,16.93
+659,India,Meghalaya,West Garo Hills,"Calendar Year (Jan - Dec), 2021",8,340.0,6876.0,36.34,43.25,32.7,28.31,29.29,36.02,27.69
+660,India,Meghalaya,West Khasi Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,3260.0,54.89,34.83,44.21,60.98,17.68,45.65,23.0
+661,India,Meghalaya,West Khasi Hills,"Calendar Year (Jan - Dec), 2021",8,8.0,96.0,27.77,32.68,34.08,21.66,21.24,28.62,39.57
+662,India,Meghalaya,North Garo Hills,"Calendar Year (Jan - Dec), 2017",8,200.0,3236.0,35.54,34.24,36.06,41.41,26.11,34.92,12.07
+663,India,Meghalaya,North Garo Hills,"Calendar Year (Jan - Dec), 2021",8,248.0,5112.0,32.13,36.61,28.84,23.87,23.55,32.15,27.28
+664,India,Meghalaya,East Jaintia Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,3760.0,48.01,41.6,45.2,51.6,23.92,44.19,8.41
+665,India,Meghalaya,East Jaintia Hills,"Calendar Year (Jan - Dec), 2021",8,248.0,4832.0,40.16,42.58,32.14,28.76,30.19,37.66,29.85
+666,India,Meghalaya,South West Khasi Hills,"Calendar Year (Jan - Dec), 2017",8,196.0,2888.0,53.74,39.46,48.63,56.51,23.58,45.21,15.63
+667,India,Meghalaya,South West Khasi Hills,"Calendar Year (Jan - Dec), 2021",8,288.0,4236.0,37.75,39.12,34.08,24.06,24.5,35.81,31.12
+668,India,Meghalaya,South West Garo Hills,"Calendar Year (Jan - Dec), 2017",8,204.0,3364.0,43.27,29.85,39.9,37.69,28.21,37.6,9.79
+669,India,Meghalaya,South West Garo Hills,"Calendar Year (Jan - Dec), 2021",8,292.0,4700.0,33.91,34.8,30.59,27.8,23.36,29.78,24.67
+670,India,Assam,Barpeta,"Calendar Year (Jan - Dec), 2017",8,204.5979732952825,4855.173572367793,54.166003642746595,54.518010928239775,43.627151532595974,61.637883384923185,38.75125265420331,65.78079714572874,45.77189189252954
+671,India,Assam,Barpeta,"Calendar Year (Jan - Dec), 2021",8,284.0,6964.0,49.22,63.48,40.24,49.26,43.64,46.22,57.59
+672,India,Assam,Dibrugarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4948.0,55.48,48.05,43.71,55.13,30.27,54.48,40.26
+673,India,Assam,Dibrugarh,"Calendar Year (Jan - Dec), 2021",8,308.0,7552.0,49.36,44.33,36.98,42.8,29.48,41.14,48.44
+674,India,Assam,Bongaigaon,"Calendar Year (Jan - Dec), 2017",8,182.4432032153696,4468.524037936747,57.66297044919763,61.03823426536366,48.043345239861786,64.17729951455281,40.75598997307782,67.60747016301697,54.2043759141882
+675,India,Assam,Bongaigaon,"Calendar Year (Jan - Dec), 2021",8,300.0,7256.0,43.75,43.69,36.28,40.48,26.13,42.09,49.74
+676,India,Assam,Cachar,"Calendar Year (Jan - Dec), 2017",8,213.43952808121847,5398.219678583462,58.57593624876009,52.265533264825585,44.43469863744661,29.251036119346228,47.6183819364796,62.64242052979948,60.9881561619898
+677,India,Assam,Cachar,"Calendar Year (Jan - Dec), 2021",8,312.0,7764.0,44.1,46.61,35.47,41.46,32.53,40.28,50.46
+678,India,Assam,Darrang,"Calendar Year (Jan - Dec), 2017",8,192.35455744695037,4827.507130583402,50.52087061455145,42.05560395573345,37.67395279020485,50.68166117259241,29.03678478926301,57.50124087591241,35.97789557334589
+679,India,Assam,Darrang,"Calendar Year (Jan - Dec), 2021",8,292.0,7768.0,46.98,54.71,39.53,38.83,30.91,43.91,47.87
+680,India,Assam,Dhemaji,"Calendar Year (Jan - Dec), 2017",8,171.75743119535883,3626.8778494275775,48.1,43.5,41.29,50.77,23.59,55.0,41.56
+681,India,Assam,Dhemaji,"Calendar Year (Jan - Dec), 2021",8,308.0,7092.0,49.51,49.87,41.59,45.17,33.13,45.8,52.05
+682,India,Assam,Dhubri,"Calendar Year (Jan - Dec), 2017",8,153.3763924529231,3461.4946610453826,54.42,45.42,40.27,46.31,42.05,59.21,42.21
+683,India,Assam,Dhubri,"Calendar Year (Jan - Dec), 2021",8,296.0,7680.0,44.49,54.94,38.48,44.71,30.8,40.07,50.95
+684,India,Assam,Goalpara,"Calendar Year (Jan - Dec), 2017",8,196.0,4372.0,45.31,41.68,43.72,43.0,38.1,55.05,39.38
+685,India,Assam,Goalpara,"Calendar Year (Jan - Dec), 2021",8,300.0,7200.0,42.81,51.91,38.34,37.73,33.2,37.66,46.76
+686,India,Assam,Golaghat,"Calendar Year (Jan - Dec), 2017",8,207.73580616388148,4955.906206440777,50.417559273971634,39.47911787129028,39.51940212085538,44.643564062167265,30.527186884363324,51.42238196599957,34.84015101161465
+687,India,Assam,Golaghat,"Calendar Year (Jan - Dec), 2021",8,296.0,6628.0,47.43,41.98,37.99,40.73,27.78,40.87,45.88
+688,India,Assam,Hailakandi,"Calendar Year (Jan - Dec), 2017",8,222.5890818133091,4795.250258525942,59.07731721482264,65.23565769083618,45.546643711000826,27.861605437795372,41.34255628129223,61.42188090578543,57.114442802132615
+689,India,Assam,Hailakandi,"Calendar Year (Jan - Dec), 2021",8,332.0,7084.0,44.55,55.09,35.38,35.01,37.58,37.23,50.53
+690,India,Assam,Jorhat,"Calendar Year (Jan - Dec), 2017",8,172.75273196027305,3861.5316555825743,55.13,37.8,38.93,52.54,27.56,58.65,38.32
+691,India,Assam,Jorhat,"Calendar Year (Jan - Dec), 2021",8,316.0,7060.0,57.95,47.58,41.68,47.68,32.5,45.33,54.86
+692,India,Assam,Kamrup,"Calendar Year (Jan - Dec), 2017",8,204.8040791180244,4608.1377387492585,58.11554076300155,55.22071920797401,41.37332770542894,61.55380670091717,40.687854648554605,68.87042268570274,54.12969061896628
+693,India,Assam,Kamrup,"Calendar Year (Jan - Dec), 2021",8,304.0,7580.0,52.06,57.25,42.24,49.65,32.5,45.11,60.74
+694,India,Assam,Karbi Anglong,"Calendar Year (Jan - Dec), 2017",8,128.67474011339124,2848.174363836997,48.68928262082841,43.41536406708816,42.65904081982313,48.55810650847423,34.74206597873088,57.03680861350347,39.15303494697986
+695,India,Assam,Karbi Anglong,"Calendar Year (Jan - Dec), 2021",8,300.0,7148.0,43.53,45.78,34.91,33.11,30.31,37.5,38.61
+696,India,Assam,Karimganj,"Calendar Year (Jan - Dec), 2017",8,194.56047191878153,4497.780321416538,57.23,52.74,49.16,24.09,31.38,61.8,63.07
+697,India,Assam,Karimganj,"Calendar Year (Jan - Dec), 2021",8,288.0,7100.0,39.9,50.21,32.77,35.13,31.61,39.61,47.29
+698,India,Assam,Kokrajhar,"Calendar Year (Jan - Dec), 2017",8,213.9442331389688,4996.42769299908,57.319449092358575,60.31467773613491,50.04322092813704,57.483266440023584,45.373979021769344,67.98964024228208,46.75337349986408
+699,India,Assam,Kokrajhar,"Calendar Year (Jan - Dec), 2021",8,288.0,6796.0,45.22,48.29,38.38,47.05,34.37,43.22,52.34
+700,India,Assam,Lakhimpur,"Calendar Year (Jan - Dec), 2017",8,200.24256880464117,4297.1221505724225,57.401440586484846,49.99402403997331,50.33167962488592,54.14689250078612,30.60354596317117,62.203371281262704,42.85880480799466
+701,India,Assam,Lakhimpur,"Calendar Year (Jan - Dec), 2021",8,344.0,7112.0,49.19,48.43,39.89,43.99,30.03,45.23,56.14
+702,India,Assam,Marigaon,"Calendar Year (Jan - Dec), 2017",8,204.0,4824.0,56.63,56.34,47.54,67.0,35.69,69.0,50.48
+703,India,Assam,Marigaon,"Calendar Year (Jan - Dec), 2021",8,296.0,7048.0,46.21,51.9,38.0,40.44,33.6,40.64,50.86
+704,India,Assam,Nagaon,"Calendar Year (Jan - Dec), 2017",8,136.72518422193323,3367.192772210748,56.71,53.19,48.45,49.36,34.26,64.32,38.99
+705,India,Assam,Nagaon,"Calendar Year (Jan - Dec), 2021",8,292.0,7424.0,46.07,43.44,36.73,48.02,29.33,39.88,49.14
+706,India,Assam,Nalbari,"Calendar Year (Jan - Dec), 2017",8,202.78415165640928,4715.725565970616,59.22,51.71,39.7,54.97,34.82,69.22,51.03
+707,India,Assam,Nalbari,"Calendar Year (Jan - Dec), 2021",8,280.0,7124.0,54.97,58.96,42.38,51.94,39.88,47.98,64.91
+708,India,Assam,Dima Hasao,"Calendar Year (Jan - Dec), 2017",8,148.43979038028604,2512.0579910509946,60.37,66.04,53.21,55.15,46.02,62.44,46.02
+709,India,Assam,Dima Hasao,"Calendar Year (Jan - Dec), 2021",8,232.0,5008.0,54.29,50.94,39.73,41.36,32.39,44.28,48.89
+710,India,Assam,Sivasagar,"Calendar Year (Jan - Dec), 2017",8,126.5480561226706,2915.56795968898,53.45,39.76,39.64,49.45,23.57,54.94,41.75
+711,India,Assam,Sivasagar,"Calendar Year (Jan - Dec), 2021",8,312.0,6308.0,61.19,59.4,46.25,47.98,37.3,49.47,65.06
+712,India,Assam,Sonitpur,"Calendar Year (Jan - Dec), 2017",8,123.69459126557211,2854.871166409405,44.36,36.81,36.13,38.99,22.58,48.77,30.39
+713,India,Assam,Sonitpur,"Calendar Year (Jan - Dec), 2021",8,284.0,7456.0,46.05,52.32,38.77,39.06,34.52,39.46,48.66
+714,India,Assam,Tinsukia,"Calendar Year (Jan - Dec), 2017",8,204.0,5284.0,52.34,40.03,42.97,52.08,31.63,58.6,36.6
+715,India,Assam,Tinsukia,"Calendar Year (Jan - Dec), 2021",8,284.0,7940.0,49.85,42.14,35.56,38.79,30.04,42.32,49.53
+716,India,Assam,Chirang,"Calendar Year (Jan - Dec), 2017",8,162.36974167603884,4117.0521311695165,50.59650622685279,43.707414858980094,41.13240155060844,50.60813300231981,30.79295582190387,66.55770656464938,47.72111369093647
+717,India,Assam,Chirang,"Calendar Year (Jan - Dec), 2021",8,272.0,6368.0,40.7,40.99,33.43,36.67,30.39,37.51,40.37
+718,India,Assam,South Salmara Mancachar,"Calendar Year (Jan - Dec), 2017",8,40.67937440810811,918.077645955538,54.42,45.42,40.27,46.31,42.05,59.21,42.21
+719,India,Assam,Baksa,"Calendar Year (Jan - Dec), 2017",8,207.87423469338975,4132.225154589832,53.67713227154452,49.48073389445563,41.76356118289101,53.08534004338111,31.231658592278812,66.54920008414793,49.182697145097976
+720,India,Assam,Baksa,"Calendar Year (Jan - Dec), 2021",8,292.0,6464.0,52.34,55.3,43.93,46.86,35.59,46.45,59.01
+721,India,Assam,Udalguri,"Calendar Year (Jan - Dec), 2017",8,179.485824243327,3948.48644984256,51.35462133949192,47.4222752886836,41.459372748267896,52.272495889145496,35.53429043879908,58.68957524249423,43.539152147806
+722,India,Assam,Udalguri,"Calendar Year (Jan - Dec), 2021",8,280.0,6696.0,46.02,51.07,37.92,38.64,30.44,38.25,45.65
+723,India,Assam,Kamrup Metro,"Calendar Year (Jan - Dec), 2017",8,192.69715284189925,4619.9179602643335,57.58613385511716,44.7461436873591,43.05739567576535,59.04470276376269,29.71914959646332,63.361992114688334,41.51571848559077
+724,India,Assam,Kamrup Metro,"Calendar Year (Jan - Dec), 2021",8,316.0,7500.0,65.37,56.89,51.64,48.5,34.73,58.52,49.11
+725,India,Assam,Biswanath,"Calendar Year (Jan - Dec), 2017",8,76.30540873442786,1761.1288335905951,44.36,36.81,36.13,38.99,22.58,48.77,30.39
+726,India,Assam,Biswanath,"Calendar Year (Jan - Dec), 2021",8,268.0,7032.0,46.53,50.52,36.13,39.83,25.56,39.45,53.23
+727,India,Assam,Majuli,"Calendar Year (Jan - Dec), 2017",8,31.24726803972695,698.468344417426,55.13,37.8,38.93,52.54,27.56,58.65,38.32
+728,India,Assam,Majuli,"Calendar Year (Jan - Dec), 2021",8,236.0,3992.0,54.98,50.6,43.84,45.01,33.9,47.9,60.22
+729,India,Assam,South Salmara Mancachar,"Calendar Year (Jan - Dec), 2021",8,272.0,6828.0,43.9,63.97,39.82,44.17,36.28,39.4,53.11
+730,India,Assam,Charaideo,"Calendar Year (Jan - Dec), 2017",8,77.4519438773294,1784.4320403110205,53.45,39.76,39.64,49.45,23.57,54.94,41.75
+731,India,Assam,Charaideo,"Calendar Year (Jan - Dec), 2021",8,228.0,5168.0,54.0,49.44,40.09,47.19,27.08,47.16,59.77
+732,India,Assam,Hojai,"Calendar Year (Jan - Dec), 2017",8,67.27481577806675,1656.8072277892518,56.71,53.19,48.45,49.36,34.26,64.32,38.99
+733,India,Assam,Hojai,"Calendar Year (Jan - Dec), 2021",8,272.0,7276.0,38.94,46.75,35.28,34.93,27.41,37.22,42.47
+734,India,Assam,West Karbi Anglong,"Calendar Year (Jan - Dec), 2017",8,75.14966334244123,1687.86143867123,48.48,43.01,42.47,48.44,34.54,56.94,39.03
+735,India,Assam,West Karbi Anglong,"Calendar Year (Jan - Dec), 2021",8,288.0,6244.0,39.48,49.73,35.61,27.96,28.0,38.96,37.77
+736,India,West Bengal,24 Paraganas North,"Calendar Year (Jan - Dec), 2017",8,200.0,4388.0,56.82,26.73,35.52,29.35,19.38,53.25,50.46
+737,India,West Bengal,24 Paraganas North,"Calendar Year (Jan - Dec), 2021",8,424.0,11184.0,62.155,54.97,44.945,53.415,35.83,51.47,65.59
+738,India,West Bengal,24 Paraganas South,"Calendar Year (Jan - Dec), 2017",8,200.0,4848.0,62.22,45.06,42.9,43.32,25.85,64.71,53.98
+739,India,West Bengal,Bankura,"Calendar Year (Jan - Dec), 2017",8,204.0,4616.0,51.16,32.99,37.74,30.33,23.65,49.65,50.09
+740,India,West Bengal,Bankura,"Calendar Year (Jan - Dec), 2021",8,172.0,4308.0,57.11,52.44,43.0,53.87,33.16,51.32,64.95
+741,India,West Bengal,Purba Bardhaman,"Calendar Year (Jan - Dec), 2017",8,204.0,4688.0,57.72,33.96,42.08,37.37,28.13,59.74,50.26
+742,India,West Bengal,Purba Bardhaman,"Calendar Year (Jan - Dec), 2021",8,180.0,4876.0,59.7,48.62,38.45,57.01,33.83,44.96,70.15
+743,India,West Bengal,Birbhum,"Calendar Year (Jan - Dec), 2017",8,196.0,4148.0,52.05,30.37,37.37,34.04,24.53,51.54,44.72
+744,India,West Bengal,Birbhum,"Calendar Year (Jan - Dec), 2021",8,196.0,5472.0,47.26,46.0,34.91,38.97,29.2,40.67,49.38
+745,India,West Bengal,Coochbehar,"Calendar Year (Jan - Dec), 2017",8,204.0,4604.0,48.79,34.97,34.66,26.15,25.09,51.22,47.86
+746,India,West Bengal,Coochbehar,"Calendar Year (Jan - Dec), 2021",8,192.0,5300.0,48.05,48.49,36.18,41.87,30.27,42.59,53.65
+747,India,West Bengal,Darjeeling,"Calendar Year (Jan - Dec), 2017",8,174.53673903779625,3661.709545527644,52.33,32.99,34.83,38.81,22.16,51.39,43.02
+748,India,West Bengal,Darjeeling,"Calendar Year (Jan - Dec), 2021",8,380.0,9164.0,54.605,40.71,39.03,37.54,28.33,45.985,46.74
+749,India,West Bengal,Dinajpur Dakshin,"Calendar Year (Jan - Dec), 2017",8,204.0,4044.0,50.23,34.45,34.96,24.73,17.5,48.64,43.54
+750,India,West Bengal,Dinajpur Dakshin,"Calendar Year (Jan - Dec), 2021",8,184.0,3608.0,47.53,43.57,33.1,41.67,26.54,40.55,53.29
+751,India,West Bengal,Dinajpur Uttar,"Calendar Year (Jan - Dec), 2017",8,204.0,3892.0,41.85,29.82,27.9,27.03,21.88,39.61,39.58
+752,India,West Bengal,Dinajpur Uttar,"Calendar Year (Jan - Dec), 2021",8,192.0,5400.0,40.52,39.26,31.62,38.79,26.32,33.96,44.91
+753,India,West Bengal,Hooghly,"Calendar Year (Jan - Dec), 2017",8,204.0,4896.0,55.81,29.34,35.06,32.35,22.15,55.56,48.53
+754,India,West Bengal,Hooghly,"Calendar Year (Jan - Dec), 2021",8,200.0,5276.0,64.34,52.93,43.59,52.11,36.44,54.73,70.26
+755,India,West Bengal,Howrah,"Calendar Year (Jan - Dec), 2017",8,204.0,4332.0,55.94,34.26,37.71,33.24,26.7,54.92,48.99
+756,India,West Bengal,Howrah,"Calendar Year (Jan - Dec), 2021",8,196.0,5344.0,62.26,56.46,41.85,52.89,30.98,51.84,66.47
+757,India,West Bengal,Jalpaiguri,"Calendar Year (Jan - Dec), 2017",8,200.0,3776.0,44.26,27.44,29.82,30.51,21.17,46.48,34.77
+758,India,West Bengal,Jalpaiguri,"Calendar Year (Jan - Dec), 2021",8,208.0,5080.0,48.74,39.44,36.11,40.37,25.57,38.77,53.84
+759,India,West Bengal,Kolkata,"Calendar Year (Jan - Dec), 2017",8,196.0,4692.0,67.17,39.86,47.26,47.91,29.53,56.6,46.98
+760,India,West Bengal,Kolkata,"Calendar Year (Jan - Dec), 2021",8,292.0,7700.0,65.95,58.52,48.36,49.86,36.35,53.13,63.4
+761,India,West Bengal,Maldah,"Calendar Year (Jan - Dec), 2017",8,204.0,4448.0,51.76,40.64,38.55,31.38,29.76,48.39,39.75
+762,India,West Bengal,Maldah,"Calendar Year (Jan - Dec), 2021",8,196.0,5508.0,48.52,54.87,35.75,46.03,36.92,41.01,51.54
+763,India,West Bengal,Medinipur East,"Calendar Year (Jan - Dec), 2017",8,204.0,5264.0,63.96,42.32,46.31,45.21,31.29,66.11,50.77
+764,India,West Bengal,Medinipur East,"Calendar Year (Jan - Dec), 2021",8,196.0,5088.0,62.33,57.15,41.7,59.83,36.78,50.1,69.99
+765,India,West Bengal,Medinipur West,"Calendar Year (Jan - Dec), 2017",8,204.0,3384.0,61.39,42.89,43.22,39.95,31.84,65.74,45.75
+766,India,West Bengal,Medinipur West,"Calendar Year (Jan - Dec), 2021",8,212.0,5708.0,61.29,59.17,42.86,52.56,34.04,53.11,67.16
+767,India,West Bengal,Murshidabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4448.0,59.24,40.57,44.22,37.86,23.24,61.64,58.74
+768,India,West Bengal,Murshidabad,"Calendar Year (Jan - Dec), 2021",8,200.0,5664.0,60.65,64.41,45.73,56.15,38.16,52.84,68.16
+769,India,West Bengal,Nadia,"Calendar Year (Jan - Dec), 2017",8,204.0,5352.0,57.34,33.83,38.68,29.0,26.24,58.58,49.18
+770,India,West Bengal,Nadia,"Calendar Year (Jan - Dec), 2021",8,200.0,5648.0,60.07,51.21,41.66,56.42,32.57,49.53,66.53
+771,India,West Bengal,Purulia,"Calendar Year (Jan - Dec), 2017",8,204.0,4400.0,48.06,37.69,32.89,28.09,24.82,45.81,53.9
+772,India,West Bengal,Purulia,"Calendar Year (Jan - Dec), 2021",8,200.0,4988.0,47.39,46.54,35.17,42.58,28.79,38.68,47.24
+773,India,West Bengal,Alipurduar,"Calendar Year (Jan - Dec), 2017",8,200.0,3760.0,49.22,33.19,34.54,27.34,23.83,48.03,38.3
+774,India,West Bengal,Alipurduar,"Calendar Year (Jan - Dec), 2021",8,212.0,5384.0,47.9,43.39,33.23,42.71,26.16,38.96,52.45
+775,India,West Bengal,Kalimpong,"Calendar Year (Jan - Dec), 2017",8,21.46326096220374,450.290454472356,52.33,32.99,34.83,38.81,22.16,51.39,43.02
+776,India,West Bengal,Kalimpong,"Calendar Year (Jan - Dec), 2021",8,180.0,3432.0,48.56,40.54,35.99,31.79,24.82,36.19,36.79
+777,India,West Bengal,Jhargram,"Calendar Year (Jan - Dec), 2017",8,204.0,4656.0,56.79,38.88,39.02,32.82,29.22,56.02,45.39
+778,India,West Bengal,Jhargram,"Calendar Year (Jan - Dec), 2021",8,112.0,2868.0,56.5,51.46,37.15,51.53,31.08,48.53,63.51
+779,India,West Bengal,Paschim Bardhaman,"Calendar Year (Jan - Dec), 2017",8,204.0,4360.0,55.1,41.28,40.55,39.82,33.58,52.94,43.49
+780,India,West Bengal,Paschim Bardhaman,"Calendar Year (Jan - Dec), 2021",8,224.0,6412.0,60.59,55.73,41.35,47.49,32.83,48.72,58.66
+781,India,Jharkhand,Bokaro,"Calendar Year (Jan - Dec), 2017",8,196.0,4864.0,61.74,54.28,47.59,61.6,37.66,63.16,53.29
+782,India,Jharkhand,Bokaro,"Calendar Year (Jan - Dec), 2021",8,216.0,5984.0,56.0,58.96,40.05,41.59,33.52,51.49,46.06
+783,India,Jharkhand,Chatra,"Calendar Year (Jan - Dec), 2017",8,204.0,4544.0,63.46,48.92,56.8,65.14,34.14,68.86,51.55
+784,India,Jharkhand,Chatra,"Calendar Year (Jan - Dec), 2021",8,176.0,4384.0,47.02,53.92,33.51,42.59,37.3,40.31,39.96
+785,India,Jharkhand,Deoghar,"Calendar Year (Jan - Dec), 2017",8,196.0,5304.0,65.88,59.85,51.78,56.71,41.3,64.68,39.18
+786,India,Jharkhand,Deoghar,"Calendar Year (Jan - Dec), 2021",8,208.0,4968.0,54.77,62.27,41.67,51.51,35.09,51.3,46.59
+787,India,Jharkhand,Dhanbad,"Calendar Year (Jan - Dec), 2017",8,196.0,5316.0,67.23,65.86,58.17,72.76,45.48,74.13,52.26
+788,India,Jharkhand,Dhanbad,"Calendar Year (Jan - Dec), 2021",8,268.0,7580.0,53.55,52.54,36.11,37.72,31.52,46.39,45.94
+789,India,Jharkhand,Dumka,"Calendar Year (Jan - Dec), 2017",8,196.0,3944.0,59.52,44.42,51.22,60.34,38.25,56.35,50.6
+790,India,Jharkhand,Dumka,"Calendar Year (Jan - Dec), 2021",8,212.0,5408.0,47.77,50.32,36.44,44.43,31.42,46.8,46.42
+791,India,Jharkhand,East Singhbum,"Calendar Year (Jan - Dec), 2017",8,200.0,4740.0,55.43,37.46,40.31,47.93,39.03,47.89,42.31
+792,India,Jharkhand,East Singhbum,"Calendar Year (Jan - Dec), 2021",8,300.0,8460.0,59.47,52.09,39.87,47.07,34.85,47.94,48.3
+793,India,Jharkhand,Garhwa,"Calendar Year (Jan - Dec), 2017",8,204.0,4892.0,54.56,54.82,37.65,66.48,54.1,63.46,44.26
+794,India,Jharkhand,Garhwa,"Calendar Year (Jan - Dec), 2021",8,188.0,5248.0,46.45,56.97,37.71,51.44,33.88,44.34,54.09
+795,India,Jharkhand,Giridih,"Calendar Year (Jan - Dec), 2017",8,196.0,4596.0,58.22,51.94,50.55,55.0,38.55,56.89,40.1
+796,India,Jharkhand,Giridih,"Calendar Year (Jan - Dec), 2021",8,236.0,6132.0,51.55,58.04,39.26,48.24,37.97,50.29,50.41
+797,India,Jharkhand,Godda,"Calendar Year (Jan - Dec), 2017",8,188.0,4048.0,62.32,61.71,50.26,63.24,32.48,62.38,47.64
+798,India,Jharkhand,Godda,"Calendar Year (Jan - Dec), 2021",8,260.0,6164.0,50.01,52.37,36.25,41.94,31.82,45.22,49.22
+799,India,Jharkhand,Gumla,"Calendar Year (Jan - Dec), 2017",8,196.0,4968.0,58.25,44.43,44.28,57.09,32.26,58.47,53.77
+800,India,Jharkhand,Gumla,"Calendar Year (Jan - Dec), 2021",8,272.0,7372.0,45.11,39.67,27.99,39.29,28.15,41.36,41.87
+801,India,Jharkhand,Hazaribagh,"Calendar Year (Jan - Dec), 2017",8,192.0,5136.0,65.9,59.11,61.23,61.84,36.29,63.17,49.92
+802,India,Jharkhand,Hazaribagh,"Calendar Year (Jan - Dec), 2021",8,280.0,7400.0,56.53,57.98,39.62,47.67,33.89,50.35,50.13
+803,India,Jharkhand,Jamtara,"Calendar Year (Jan - Dec), 2017",8,196.0,4152.0,58.57,50.1,51.71,52.7,39.81,60.51,47.43
+804,India,Jharkhand,Jamtara,"Calendar Year (Jan - Dec), 2021",8,160.0,3956.0,45.34,50.93,33.97,47.13,31.16,43.38,43.21
+805,India,Jharkhand,Koderma,"Calendar Year (Jan - Dec), 2017",8,196.0,4812.0,60.59,47.25,49.22,52.37,40.7,54.47,42.69
+806,India,Jharkhand,Koderma,"Calendar Year (Jan - Dec), 2021",8,184.0,4816.0,52.77,57.63,35.59,48.92,35.12,49.43,51.94
+807,India,Jharkhand,Latehar,"Calendar Year (Jan - Dec), 2017",8,204.0,4540.0,59.52,42.63,45.45,53.3,31.5,53.41,52.39
+808,India,Jharkhand,Latehar,"Calendar Year (Jan - Dec), 2021",8,144.0,3868.0,38.63,39.41,31.06,36.82,27.16,39.24,40.34
+809,India,Jharkhand,Lohardaga,"Calendar Year (Jan - Dec), 2017",8,184.0,4640.0,53.82,48.7,43.93,55.95,39.97,57.65,51.63
+810,India,Jharkhand,Lohardaga,"Calendar Year (Jan - Dec), 2021",8,164.0,4156.0,48.95,49.75,33.01,38.67,28.8,44.62,41.96
+811,India,Jharkhand,Pakur,"Calendar Year (Jan - Dec), 2017",8,196.0,4224.0,66.28,50.19,57.81,54.64,33.4,63.68,45.23
+812,India,Jharkhand,Pakur,"Calendar Year (Jan - Dec), 2021",8,216.0,5576.0,49.11,51.35,34.7,41.54,31.0,46.56,38.37
+813,India,Jharkhand,Palamu,"Calendar Year (Jan - Dec), 2017",8,196.0,4512.0,59.89,55.46,53.83,56.38,42.32,67.14,49.29
+814,India,Jharkhand,Palamu,"Calendar Year (Jan - Dec), 2021",8,224.0,5368.0,45.66,50.11,35.24,36.22,30.73,43.08,35.22
+815,India,Jharkhand,Ranchi,"Calendar Year (Jan - Dec), 2017",8,196.0,4856.0,62.95,44.0,47.19,52.72,35.34,59.36,42.51
+816,India,Jharkhand,Ranchi,"Calendar Year (Jan - Dec), 2021",8,300.0,8300.0,58.61,49.61,38.91,46.49,33.23,50.64,50.51
+817,India,Jharkhand,Sahebganj,"Calendar Year (Jan - Dec), 2017",8,196.0,4424.0,55.0,42.18,41.79,42.41,36.15,53.13,36.87
+818,India,Jharkhand,Sahebganj,"Calendar Year (Jan - Dec), 2021",8,264.0,6104.0,41.68,46.82,28.41,40.61,25.53,39.0,37.66
+819,India,Jharkhand,Saraikela Kharsawan,"Calendar Year (Jan - Dec), 2017",8,192.0,4252.0,63.79,53.64,54.82,57.29,50.76,64.09,50.19
+820,India,Jharkhand,Saraikela Kharsawan,"Calendar Year (Jan - Dec), 2021",8,196.0,4832.0,52.57,57.57,41.82,41.01,35.33,47.39,46.66
+821,India,Jharkhand,Simdega,"Calendar Year (Jan - Dec), 2017",8,196.0,4256.0,54.69,33.59,34.26,45.49,25.93,53.31,42.04
+822,India,Jharkhand,Simdega,"Calendar Year (Jan - Dec), 2021",8,264.0,7016.0,44.77,38.64,32.8,44.4,27.44,43.84,46.08
+823,India,Jharkhand,West Singhbhum,"Calendar Year (Jan - Dec), 2017",8,196.0,5032.0,65.53,52.39,54.67,58.9,51.9,68.66,56.19
+824,India,Jharkhand,West Singhbhum,"Calendar Year (Jan - Dec), 2021",8,272.0,7560.0,45.68,44.68,35.3,38.22,30.22,40.67,36.65
+825,India,Jharkhand,Khunti,"Calendar Year (Jan - Dec), 2017",8,196.0,4592.0,59.46,39.41,41.24,54.88,31.64,57.35,48.95
+826,India,Jharkhand,Khunti,"Calendar Year (Jan - Dec), 2021",8,256.0,6784.0,45.58,39.6,31.91,33.3,24.45,40.82,41.03
+827,India,Jharkhand,Ramgarh,"Calendar Year (Jan - Dec), 2017",8,196.0,5296.0,62.94,57.27,54.39,60.27,47.44,59.87,55.27
+828,India,Jharkhand,Ramgarh,"Calendar Year (Jan - Dec), 2021",8,208.0,5832.0,48.91,43.22,33.4,36.01,29.74,44.05,40.54
+829,India,Odisha,Anugul,"Calendar Year (Jan - Dec), 2017",8,200.0,4940.0,52.02,45.1,50.79,62.27,38.52,53.4,46.07
+830,India,Odisha,Anugul,"Calendar Year (Jan - Dec), 2021",8,288.0,7544.0,61.29,63.88,39.6,46.14,46.0,52.74,59.5
+831,India,Odisha,Balangir,"Calendar Year (Jan - Dec), 2017",8,132.0,2068.0,55.28,54.0,52.67,45.26,46.82,56.24,69.66
+832,India,Odisha,Balangir,"Calendar Year (Jan - Dec), 2021",8,264.0,6880.0,47.57,50.67,30.25,30.71,33.19,41.38,40.48
+833,India,Odisha,Baleshwar,"Calendar Year (Jan - Dec), 2017",8,188.0,5208.0,55.59,41.14,49.05,53.92,43.8,51.15,56.36
+834,India,Odisha,Baleshwar,"Calendar Year (Jan - Dec), 2021",8,288.0,6824.0,54.36,56.32,34.48,35.18,36.46,48.09,51.25
+835,India,Odisha,Bargarh,"Calendar Year (Jan - Dec), 2017",8,200.0,4920.0,50.07,30.72,40.34,42.2,26.54,48.17,57.44
+836,India,Odisha,Bargarh,"Calendar Year (Jan - Dec), 2021",8,248.0,6180.0,53.94,49.36,35.16,36.6,35.36,46.47,49.25
+837,India,Odisha,Bhadrak,"Calendar Year (Jan - Dec), 2017",8,204.0,5272.0,58.49,39.27,45.92,48.86,41.15,50.72,57.79
+838,India,Odisha,Bhadrak,"Calendar Year (Jan - Dec), 2021",8,284.0,7228.0,49.62,50.05,30.08,34.15,27.35,40.99,44.05
+839,India,Odisha,Boudh,"Calendar Year (Jan - Dec), 2017",8,176.0,3656.0,52.95,36.46,45.34,44.75,33.33,47.81,71.05
+840,India,Odisha,Boudh,"Calendar Year (Jan - Dec), 2021",8,180.0,3492.0,45.03,43.97,28.72,30.62,26.0,34.56,40.52
+841,India,Odisha,Cuttack,"Calendar Year (Jan - Dec), 2017",8,204.0,5248.0,62.02,42.16,52.16,54.27,53.13,60.62,60.15
+842,India,Odisha,Cuttack,"Calendar Year (Jan - Dec), 2021",8,296.0,7896.0,61.72,59.01,33.81,37.79,37.53,50.87,57.5
+843,India,Odisha,Deogarh,"Calendar Year (Jan - Dec), 2017",8,188.0,4428.0,51.98,36.78,38.34,41.37,31.89,49.07,57.3
+844,India,Odisha,Deogarh,"Calendar Year (Jan - Dec), 2021",8,220.0,5620.0,50.67,49.89,29.04,30.43,34.66,43.37,40.82
+845,India,Odisha,Dhenkanal,"Calendar Year (Jan - Dec), 2017",8,192.0,5444.0,52.78,32.36,41.05,45.33,34.37,46.57,51.18
+846,India,Odisha,Dhenkanal,"Calendar Year (Jan - Dec), 2021",8,272.0,6844.0,54.92,56.45,33.9,36.5,38.26,46.86,48.83
+847,India,Odisha,Gajapati,"Calendar Year (Jan - Dec), 2017",8,200.0,5812.0,40.57,30.33,33.79,35.17,28.59,37.66,50.34
+848,India,Odisha,Gajapati,"Calendar Year (Jan - Dec), 2021",8,256.0,5944.0,43.7,45.73,30.11,28.88,26.68,33.87,38.13
+849,India,Odisha,Ganjam,"Calendar Year (Jan - Dec), 2017",8,200.0,5212.0,56.15,40.78,50.26,53.18,44.07,54.03,60.94
+850,India,Odisha,Ganjam,"Calendar Year (Jan - Dec), 2021",8,316.0,8308.0,57.86,55.47,37.49,36.64,38.95,49.74,50.09
+851,India,Odisha,Jagatsinghapur,"Calendar Year (Jan - Dec), 2017",8,144.0,3500.0,65.77,57.11,60.03,66.74,47.84,60.68,51.71
+852,India,Odisha,Jagatsinghapur,"Calendar Year (Jan - Dec), 2021",8,288.0,7216.0,59.85,61.05,38.82,36.95,40.49,47.04,46.28
+853,India,Odisha,Jajapur,"Calendar Year (Jan - Dec), 2017",8,192.0,4504.0,60.07,49.91,47.84,49.64,46.54,50.09,59.5
+854,India,Odisha,Jajapur,"Calendar Year (Jan - Dec), 2021",8,280.0,7132.0,52.9,53.88,34.06,34.1,38.75,42.56,49.62
+855,India,Odisha,Jharsuguda,"Calendar Year (Jan - Dec), 2017",8,200.0,4220.0,51.01,31.67,40.8,45.88,34.08,44.83,50.19
+856,India,Odisha,Jharsuguda,"Calendar Year (Jan - Dec), 2021",8,256.0,6284.0,55.29,50.83,38.77,35.43,32.43,48.66,49.81
+857,India,Odisha,Kalahandi,"Calendar Year (Jan - Dec), 2017",8,196.0,4632.0,44.25,34.39,38.02,40.16,27.55,40.25,51.87
+858,India,Odisha,Kalahandi,"Calendar Year (Jan - Dec), 2021",8,256.0,6220.0,52.46,63.29,40.56,29.19,42.87,42.53,44.86
+859,India,Odisha,Kandhamal,"Calendar Year (Jan - Dec), 2017",8,200.0,3920.0,41.09,28.1,33.74,33.88,28.23,39.84,50.6
+860,India,Odisha,Kandhamal,"Calendar Year (Jan - Dec), 2021",8,260.0,5548.0,42.13,35.01,26.82,28.65,28.33,32.17,34.58
+861,India,Odisha,Kendrapara,"Calendar Year (Jan - Dec), 2017",8,204.0,5124.0,49.34,24.81,33.18,30.05,28.77,37.92,48.9
+862,India,Odisha,Kendrapara,"Calendar Year (Jan - Dec), 2021",8,280.0,6680.0,53.35,57.49,32.19,34.09,40.93,43.33,56.14
+863,India,Odisha,Kendujhar,"Calendar Year (Jan - Dec), 2017",8,172.0,4576.0,45.4,33.16,40.77,45.8,36.08,50.61,51.49
+864,India,Odisha,Kendujhar,"Calendar Year (Jan - Dec), 2021",8,292.0,7548.0,51.4,52.11,30.86,34.52,31.85,43.92,43.45
+865,India,Odisha,Khordha,"Calendar Year (Jan - Dec), 2017",8,204.0,5368.0,56.03,31.74,40.35,43.22,32.94,48.92,54.3
+866,India,Odisha,Khordha,"Calendar Year (Jan - Dec), 2021",8,312.0,8556.0,64.81,61.44,44.78,46.15,42.43,54.68,57.37
+867,India,Odisha,Koraput,"Calendar Year (Jan - Dec), 2017",8,200.0,5016.0,41.69,30.82,33.39,36.52,25.89,36.42,51.29
+868,India,Odisha,Koraput,"Calendar Year (Jan - Dec), 2021",8,284.0,7360.0,47.35,50.11,32.9,37.88,37.4,40.16,49.3
+869,India,Odisha,Malkangiri,"Calendar Year (Jan - Dec), 2017",8,204.0,4712.0,52.71,42.59,42.95,42.53,38.63,42.6,46.32
+870,India,Odisha,Malkangiri,"Calendar Year (Jan - Dec), 2021",8,204.0,4648.0,44.58,44.25,27.18,29.52,27.07,33.61,47.94
+871,India,Odisha,Mayurbhanj,"Calendar Year (Jan - Dec), 2017",8,204.0,5748.0,44.04,26.94,30.09,32.15,31.24,37.92,52.16
+872,India,Odisha,Mayurbhanj,"Calendar Year (Jan - Dec), 2021",8,296.0,7312.0,42.26,36.72,27.16,30.19,25.32,35.11,37.79
+873,India,Odisha,Nabarangpur,"Calendar Year (Jan - Dec), 2017",8,200.0,4988.0,56.02,38.14,52.32,48.44,43.18,52.59,54.41
+874,India,Odisha,Nabarangpur,"Calendar Year (Jan - Dec), 2021",8,224.0,5188.0,46.76,54.75,35.18,37.5,33.68,36.77,47.25
+875,India,Odisha,Nayagarh,"Calendar Year (Jan - Dec), 2017",8,188.0,4724.0,57.09,31.41,46.67,49.53,33.11,50.95,53.89
+876,India,Odisha,Nayagarh,"Calendar Year (Jan - Dec), 2021",8,268.0,6440.0,56.79,52.95,34.4,32.37,37.64,50.37,52.86
+877,India,Odisha,Nuapada,"Calendar Year (Jan - Dec), 2017",8,192.0,4476.0,50.42,34.28,44.17,47.72,36.15,46.82,55.04
+878,India,Odisha,Nuapada,"Calendar Year (Jan - Dec), 2021",8,196.0,4364.0,55.88,63.78,43.17,44.24,48.55,54.12,58.88
+879,India,Odisha,Puri,"Calendar Year (Jan - Dec), 2017",8,192.0,4776.0,56.85,33.45,45.45,41.79,41.12,52.75,58.55
+880,India,Odisha,Puri,"Calendar Year (Jan - Dec), 2021",8,300.0,7616.0,57.68,53.77,32.54,36.32,34.7,46.9,50.97
+881,India,Odisha,Rayagada,"Calendar Year (Jan - Dec), 2017",8,200.0,5412.0,37.43,27.17,29.98,35.4,24.36,33.83,40.54
+882,India,Odisha,Rayagada,"Calendar Year (Jan - Dec), 2021",8,244.0,5696.0,37.93,37.29,25.04,30.97,27.86,30.01,33.13
+883,India,Odisha,Sambalpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5176.0,45.87,26.35,30.31,28.13,24.5,39.85,46.98
+884,India,Odisha,Sambalpur,"Calendar Year (Jan - Dec), 2021",8,240.0,5840.0,54.58,51.15,35.6,35.11,35.2,47.01,46.12
+885,India,Odisha,Sonepur,"Calendar Year (Jan - Dec), 2017",8,200.0,5352.0,49.11,31.63,39.7,44.02,31.15,44.8,56.04
+886,India,Odisha,Sonepur,"Calendar Year (Jan - Dec), 2021",8,220.0,5020.0,52.5,53.04,33.25,32.6,32.86,43.82,44.19
+887,India,Odisha,Sundargarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4544.0,49.03,39.86,45.1,41.64,33.92,49.69,51.85
+888,India,Odisha,Sundargarh,"Calendar Year (Jan - Dec), 2021",8,288.0,6920.0,55.61,53.92,38.73,39.68,36.04,48.87,49.07
+889,India,Chhattisgarh,Bastar,"Calendar Year (Jan - Dec), 2017",8,204.0,4472.0,53.79,35.4,42.54,43.74,28.93,45.06,47.02
+890,India,Chhattisgarh,Bastar,"Calendar Year (Jan - Dec), 2021",8,252.0,4976.0,45.06,41.95,34.5,32.62,25.41,39.63,30.79
+891,India,Chhattisgarh,Bilaspur,"Calendar Year (Jan - Dec), 2017",8,169.01915978311064,4745.79287861597,49.63,29.68,37.34,42.67,22.93,43.88,33.9
+892,India,Chhattisgarh,Bilaspur,"Calendar Year (Jan - Dec), 2021",8,228.67298088303204,5789.734747864593,49.46,37.33,32.94,32.54,26.91,42.03,34.15
+893,India,Chhattisgarh,Dantewada,"Calendar Year (Jan - Dec), 2017",8,192.0,3480.0,47.88,31.22,39.53,42.18,27.67,39.08,39.56
+894,India,Chhattisgarh,Dantewada,"Calendar Year (Jan - Dec), 2021",8,196.0,4088.0,48.07,41.73,33.21,31.69,24.56,41.69,35.46
+895,India,Chhattisgarh,Dhamtari,"Calendar Year (Jan - Dec), 2017",8,204.0,5160.0,51.83,27.99,35.28,43.72,27.51,41.77,35.55
+896,India,Chhattisgarh,Dhamtari,"Calendar Year (Jan - Dec), 2021",8,232.0,5304.0,48.71,37.94,30.54,32.79,24.44,40.19,36.92
+897,India,Chhattisgarh,Durg,"Calendar Year (Jan - Dec), 2017",8,204.0,5844.0,56.68,33.29,39.9,54.14,31.74,44.49,31.34
+898,India,Chhattisgarh,Durg,"Calendar Year (Jan - Dec), 2021",8,240.0,5932.0,60.7,48.87,43.47,43.7,32.46,52.55,43.69
+899,India,Chhattisgarh,Janjgir-Champa,"Calendar Year (Jan - Dec), 2017",8,204.0,5228.0,51.8,32.07,34.04,40.7,26.78,43.32,35.29
+900,India,Chhattisgarh,Janjgir-Champa,"Calendar Year (Jan - Dec), 2021",8,220.0,5056.0,44.99,31.92,30.13,31.68,22.69,38.99,32.53
+901,India,Chhattisgarh,Jashpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5104.0,55.31,40.63,45.3,58.07,29.72,52.07,41.04
+902,India,Chhattisgarh,Jashpur,"Calendar Year (Jan - Dec), 2021",8,300.0,7548.0,47.38,35.16,33.41,34.46,23.99,41.16,35.06
+903,India,Chhattisgarh,Kanker,"Calendar Year (Jan - Dec), 2017",8,196.0,4172.0,49.6,33.71,33.67,47.75,27.8,39.32,34.36
+904,India,Chhattisgarh,Kanker,"Calendar Year (Jan - Dec), 2021",8,272.0,5080.0,52.6,35.07,36.29,40.31,24.9,43.24,35.5
+905,India,Chhattisgarh,Kabirdham,"Calendar Year (Jan - Dec), 2017",8,200.0,5364.0,56.88,33.92,41.33,52.35,30.44,46.03,37.75
+906,India,Chhattisgarh,Kabirdham,"Calendar Year (Jan - Dec), 2021",8,204.0,5224.0,42.22,31.83,28.41,30.59,23.81,37.2,27.35
+907,India,Chhattisgarh,Korba,"Calendar Year (Jan - Dec), 2017",8,204.0,5056.0,54.62,44.98,44.16,56.96,32.65,46.31,44.11
+908,India,Chhattisgarh,Korba,"Calendar Year (Jan - Dec), 2021",8,224.0,5724.0,50.29,44.46,33.79,36.15,25.66,41.04,35.27
+909,India,Chhattisgarh,Korea,"Calendar Year (Jan - Dec), 2017",8,204.0,4356.0,50.82,36.87,38.07,45.45,26.99,45.49,35.51
+910,India,Chhattisgarh,Korea,"Calendar Year (Jan - Dec), 2021",8,240.0,5336.0,47.05,39.71,33.06,26.17,28.12,41.32,33.57
+911,India,Chhattisgarh,Mahasamund,"Calendar Year (Jan - Dec), 2017",8,204.0,5408.0,52.5,25.18,39.38,53.11,32.18,43.47,42.71
+912,India,Chhattisgarh,Mahasamund,"Calendar Year (Jan - Dec), 2021",8,220.0,5700.0,57.42,54.12,41.34,46.62,35.64,49.8,51.0
+913,India,Chhattisgarh,Raigarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4428.0,57.56,33.87,36.4,54.74,33.33,42.13,40.58
+914,India,Chhattisgarh,Raigarh,"Calendar Year (Jan - Dec), 2021",8,248.0,5724.0,53.63,47.69,36.51,37.3,27.59,43.98,40.79
+915,India,Chhattisgarh,Raipur,"Calendar Year (Jan - Dec), 2017",8,204.0,5616.0,52.49,27.07,35.57,49.79,25.18,40.92,37.92
+916,India,Chhattisgarh,Raipur,"Calendar Year (Jan - Dec), 2021",8,272.0,6908.0,56.72,41.11,37.83,36.42,28.23,43.99,37.64
+917,India,Chhattisgarh,Rajnandgaon,"Calendar Year (Jan - Dec), 2017",8,204.0,5252.0,54.98,40.72,39.42,50.34,34.0,46.61,37.23
+918,India,Chhattisgarh,Rajnandgaon,"Calendar Year (Jan - Dec), 2021",8,232.0,6084.0,47.85,36.25,33.83,32.24,23.9,41.89,34.63
+919,India,Chhattisgarh,Surguja,"Calendar Year (Jan - Dec), 2017",8,109.41399010726124,2574.446826053206,70.81,70.09,70.14,80.83,41.3,67.47,47.64
+920,India,Chhattisgarh,Surguja,"Calendar Year (Jan - Dec), 2021",8,256.0,5832.0,51.77,43.43,33.95,38.62,28.25,45.07,43.9
+921,India,Chhattisgarh,Bijapur,"Calendar Year (Jan - Dec), 2017",8,176.0,3720.0,47.61,37.42,40.66,51.83,29.81,46.75,31.92
+922,India,Chhattisgarh,Bijapur,"Calendar Year (Jan - Dec), 2021",8,188.0,3336.0,42.56,36.24,31.83,27.33,27.18,33.99,27.24
+923,India,Chhattisgarh,Narayanpur,"Calendar Year (Jan - Dec), 2017",8,196.0,4020.0,51.23,37.45,43.07,50.95,35.79,43.85,39.17
+924,India,Chhattisgarh,Narayanpur,"Calendar Year (Jan - Dec), 2021",8,208.0,3752.0,45.56,33.51,35.09,38.01,23.07,42.41,34.36
+925,India,Chhattisgarh,Sukma,"Calendar Year (Jan - Dec), 2017",8,164.0,3184.0,56.26,43.81,45.86,56.41,43.87,53.12,45.83
+926,India,Chhattisgarh,Sukma,"Calendar Year (Jan - Dec), 2021",8,172.0,3484.0,41.52,33.81,30.03,28.73,24.82,33.64,28.74
+927,India,Chhattisgarh,Kondagaon,"Calendar Year (Jan - Dec), 2017",8,204.0,4480.0,51.23,33.27,45.66,49.73,34.05,44.43,36.02
+928,India,Chhattisgarh,Kondagaon,"Calendar Year (Jan - Dec), 2021",8,248.0,4244.0,44.6,37.67,32.29,30.83,23.24,40.22,26.17
+929,India,Chhattisgarh,Baloda Bazar,"Calendar Year (Jan - Dec), 2017",8,204.0,5220.0,55.9,42.68,41.51,55.17,38.21,46.01,48.07
+930,India,Chhattisgarh,Baloda Bazar,"Calendar Year (Jan - Dec), 2021",8,204.0,5200.0,44.27,34.67,30.86,31.13,21.87,39.23,30.31
+931,India,Chhattisgarh,Gariyaband,"Calendar Year (Jan - Dec), 2017",8,204.0,4544.0,57.95,38.94,39.98,49.91,26.8,47.44,43.26
+932,India,Chhattisgarh,Gariyaband,"Calendar Year (Jan - Dec), 2021",8,204.0,4452.0,46.09,34.36,32.41,31.27,23.07,33.43,31.73
+933,India,Chhattisgarh,Balod,"Calendar Year (Jan - Dec), 2017",8,204.0,5348.0,59.7,31.18,40.07,53.1,33.43,44.22,39.25
+934,India,Chhattisgarh,Balod,"Calendar Year (Jan - Dec), 2021",8,224.0,5328.0,53.67,39.94,35.39,38.88,23.76,43.5,34.78
+935,India,Chhattisgarh,Mungeli,"Calendar Year (Jan - Dec), 2017",8,204.0,5896.0,53.34,33.11,42.67,51.22,29.41,46.69,34.34
+936,India,Chhattisgarh,Mungeli,"Calendar Year (Jan - Dec), 2021",8,188.0,4848.0,42.4,39.66,30.85,31.33,24.35,36.9,32.55
+937,India,Chhattisgarh,Surajpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4600.0,60.35,56.14,57.97,70.52,42.07,58.43,44.31
+938,India,Chhattisgarh,Surajpur,"Calendar Year (Jan - Dec), 2021",8,236.0,5508.0,54.84,52.89,41.96,45.22,30.11,47.68,42.69
+939,India,Chhattisgarh,Balrampur,"Calendar Year (Jan - Dec), 2017",8,94.58600989273873,2225.553173946794,70.81,70.09,70.14,80.83,41.3,67.47,47.64
+940,India,Chhattisgarh,Balrampur,"Calendar Year (Jan - Dec), 2021",8,240.0,5604.0,44.56,47.42,35.49,40.66,27.21,40.98,45.01
+941,India,Chhattisgarh,Bemetara,"Calendar Year (Jan - Dec), 2017",8,204.0,5592.0,56.56,43.91,42.19,52.79,33.05,44.92,39.27
+942,India,Chhattisgarh,Bemetara,"Calendar Year (Jan - Dec), 2021",8,188.0,4872.0,44.32,33.53,32.03,36.42,23.02,37.29,29.81
+943,India,Chhattisgarh,Gaurella Pendra Marwahi,"Calendar Year (Jan - Dec), 2017",8,34.98084021688936,982.2071213840304,49.63,29.68,37.34,42.67,22.93,43.88,33.9
+944,India,Chhattisgarh,Gaurella Pendra Marwahi,"Calendar Year (Jan - Dec), 2021",8,47.32701911696795,1198.265252135406,49.46,37.33,32.94,32.54,26.91,42.03,34.15
+945,India,Madhya Pradesh,Anuppur,"Calendar Year (Jan - Dec), 2017",8,204.0,4796.0,51.48,42.21,38.81,48.46,29.9,52.36,40.7
+946,India,Madhya Pradesh,Anuppur,"Calendar Year (Jan - Dec), 2021",8,224.0,4916.0,44.36,43.57,30.97,28.42,28.02,38.05,35.07
+947,India,Madhya Pradesh,Ashoknagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5332.0,56.96,41.46,41.23,45.31,26.39,46.28,31.79
+948,India,Madhya Pradesh,Ashoknagar,"Calendar Year (Jan - Dec), 2021",8,208.0,4680.0,50.77,50.76,39.14,44.05,28.61,45.27,50.94
+949,India,Madhya Pradesh,Balaghat,"Calendar Year (Jan - Dec), 2017",8,204.0,5260.0,57.79,34.17,44.03,48.9,26.59,52.49,39.73
+950,India,Madhya Pradesh,Balaghat,"Calendar Year (Jan - Dec), 2021",8,244.0,5572.0,51.56,49.12,37.01,40.67,29.46,48.28,40.38
+951,India,Madhya Pradesh,Barwani,"Calendar Year (Jan - Dec), 2017",8,196.0,4024.0,51.78,38.97,41.02,47.71,32.21,46.17,48.31
+952,India,Madhya Pradesh,Barwani,"Calendar Year (Jan - Dec), 2021",8,232.0,5656.0,51.35,52.39,36.58,38.36,28.6,42.27,41.54
+953,India,Madhya Pradesh,Betul,"Calendar Year (Jan - Dec), 2017",8,204.0,4744.0,52.1,36.01,36.4,43.0,22.0,46.52,29.67
+954,India,Madhya Pradesh,Betul,"Calendar Year (Jan - Dec), 2021",8,248.0,5920.0,54.45,41.4,38.72,38.75,31.13,45.47,38.44
+955,India,Madhya Pradesh,Bhind,"Calendar Year (Jan - Dec), 2017",8,204.0,4080.0,54.36,32.49,39.45,35.2,22.79,47.36,44.01
+956,India,Madhya Pradesh,Bhind,"Calendar Year (Jan - Dec), 2021",8,272.0,5072.0,66.8,80.68,56.67,62.82,58.72,66.5,62.27
+957,India,Madhya Pradesh,Bhopal,"Calendar Year (Jan - Dec), 2017",8,204.0,4988.0,57.84,44.55,47.8,55.81,30.08,53.18,44.3
+958,India,Madhya Pradesh,Bhopal,"Calendar Year (Jan - Dec), 2021",8,272.0,6116.0,62.16,50.23,47.46,43.23,39.09,52.74,46.13
+959,India,Madhya Pradesh,Burhanpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5168.0,60.99,40.99,44.67,49.23,36.55,52.82,42.61
+960,India,Madhya Pradesh,Burhanpur,"Calendar Year (Jan - Dec), 2021",8,224.0,5756.0,49.58,44.38,33.94,35.51,30.38,45.09,38.44
+961,India,Madhya Pradesh,Chhatarpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4804.0,58.29,43.7,45.6,40.8,39.93,49.48,43.07
+962,India,Madhya Pradesh,Chhatarpur,"Calendar Year (Jan - Dec), 2021",8,220.0,5336.0,63.45,70.42,49.45,57.09,49.02,55.45,49.79
+963,India,Madhya Pradesh,Chhindwara,"Calendar Year (Jan - Dec), 2017",8,204.0,4916.0,51.29,35.06,35.23,51.42,33.05,47.5,37.44
+964,India,Madhya Pradesh,Chhindwara,"Calendar Year (Jan - Dec), 2021",8,308.0,6788.0,54.11,50.52,41.66,42.85,33.52,46.82,47.77
+965,India,Madhya Pradesh,Damoh,"Calendar Year (Jan - Dec), 2017",8,204.0,4748.0,56.7,37.58,50.53,42.97,33.45,48.48,38.59
+966,India,Madhya Pradesh,Damoh,"Calendar Year (Jan - Dec), 2021",8,224.0,5724.0,66.32,67.04,54.49,54.46,54.25,60.52,53.37
+967,India,Madhya Pradesh,Datia,"Calendar Year (Jan - Dec), 2017",8,204.0,4652.0,53.72,29.39,41.71,44.28,22.28,44.66,35.37
+968,India,Madhya Pradesh,Datia,"Calendar Year (Jan - Dec), 2021",8,204.0,4516.0,55.88,58.92,39.16,43.79,36.1,48.23,44.67
+969,India,Madhya Pradesh,Dewas,"Calendar Year (Jan - Dec), 2017",8,200.0,4584.0,61.15,43.35,47.71,50.17,39.51,50.91,51.68
+970,India,Madhya Pradesh,Dewas,"Calendar Year (Jan - Dec), 2021",8,220.0,5080.0,53.47,50.5,39.13,41.11,31.49,47.23,45.25
+971,India,Madhya Pradesh,Dhar,"Calendar Year (Jan - Dec), 2017",8,204.0,4588.0,47.89,29.74,36.06,39.84,33.39,40.36,48.43
+972,India,Madhya Pradesh,Dhar,"Calendar Year (Jan - Dec), 2021",8,224.0,5304.0,53.01,55.63,39.26,36.27,35.2,45.39,42.75
+973,India,Madhya Pradesh,Dindori,"Calendar Year (Jan - Dec), 2017",8,204.0,5876.0,48.0,32.6,40.35,42.14,29.92,46.73,32.75
+974,India,Madhya Pradesh,Dindori,"Calendar Year (Jan - Dec), 2021",8,216.0,5520.0,48.48,55.61,39.65,40.01,27.96,40.49,41.89
+975,India,Madhya Pradesh,East Nimar,"Calendar Year (Jan - Dec), 2017",8,204.0,4924.0,54.96,28.73,39.87,48.82,22.96,52.15,44.09
+976,India,Madhya Pradesh,East Nimar,"Calendar Year (Jan - Dec), 2021",8,240.0,5660.0,58.0,56.83,44.6,47.98,34.05,45.81,48.31
+977,India,Madhya Pradesh,Guna,"Calendar Year (Jan - Dec), 2017",8,204.0,4520.0,56.79,41.32,43.04,46.81,26.8,45.55,42.91
+978,India,Madhya Pradesh,Guna,"Calendar Year (Jan - Dec), 2021",8,224.0,4640.0,57.44,54.5,41.53,38.51,34.77,47.47,46.77
+979,India,Madhya Pradesh,Gwalior,"Calendar Year (Jan - Dec), 2017",8,204.0,4712.0,53.95,29.38,34.2,40.32,23.32,41.08,30.03
+980,India,Madhya Pradesh,Gwalior,"Calendar Year (Jan - Dec), 2021",8,312.0,6296.0,60.35,56.4,42.85,42.7,37.46,49.97,41.17
+981,India,Madhya Pradesh,Harda,"Calendar Year (Jan - Dec), 2017",8,204.0,4596.0,50.65,26.12,37.44,38.21,22.57,45.57,45.15
+982,India,Madhya Pradesh,Harda,"Calendar Year (Jan - Dec), 2021",8,208.0,5072.0,52.53,43.67,35.85,34.93,30.26,43.45,36.48
+983,India,Madhya Pradesh,Hoshangabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4664.0,59.73,45.34,42.04,50.09,38.23,55.63,43.69
+984,India,Madhya Pradesh,Hoshangabad,"Calendar Year (Jan - Dec), 2021",8,256.0,5784.0,54.76,43.73,36.74,42.81,31.9,46.56,43.72
+985,India,Madhya Pradesh,Indore,"Calendar Year (Jan - Dec), 2017",8,204.0,4568.0,57.71,37.79,46.11,51.14,27.4,51.75,34.9
+986,India,Madhya Pradesh,Indore,"Calendar Year (Jan - Dec), 2021",8,284.0,6504.0,56.55,54.7,43.03,42.87,42.18,52.25,43.39
+987,India,Madhya Pradesh,Jabalpur,"Calendar Year (Jan - Dec), 2017",8,204.0,4988.0,56.96,42.68,43.63,47.87,26.66,52.78,36.83
+988,India,Madhya Pradesh,Jabalpur,"Calendar Year (Jan - Dec), 2021",8,324.0,8156.0,56.46,44.28,42.0,37.75,31.88,45.83,39.7
+989,India,Madhya Pradesh,Jhabua,"Calendar Year (Jan - Dec), 2017",8,204.0,4424.0,44.17,36.94,33.49,42.77,31.49,41.13,37.57
+990,India,Madhya Pradesh,Jhabua,"Calendar Year (Jan - Dec), 2021",8,220.0,5584.0,42.84,37.33,33.19,29.93,24.68,34.97,26.63
+991,India,Madhya Pradesh,Katni,"Calendar Year (Jan - Dec), 2017",8,204.0,4320.0,48.32,32.31,35.62,43.43,27.11,43.32,33.21
+992,India,Madhya Pradesh,Katni,"Calendar Year (Jan - Dec), 2021",8,232.0,5668.0,53.63,52.38,34.09,43.22,32.81,45.05,40.19
+993,India,Madhya Pradesh,Khargone,"Calendar Year (Jan - Dec), 2017",8,204.0,4400.0,53.52,31.41,40.6,43.27,24.91,50.28,38.26
+994,India,Madhya Pradesh,Khargone,"Calendar Year (Jan - Dec), 2021",8,216.0,4928.0,49.17,46.3,35.85,34.97,29.49,41.35,36.39
+995,India,Madhya Pradesh,Mandla,"Calendar Year (Jan - Dec), 2017",8,204.0,4996.0,52.34,32.59,40.11,50.76,23.92,49.02,38.36
+996,India,Madhya Pradesh,Mandla,"Calendar Year (Jan - Dec), 2021",8,224.0,5544.0,49.52,46.66,39.16,36.63,29.52,44.94,39.24
+997,India,Madhya Pradesh,Mandsaur,"Calendar Year (Jan - Dec), 2017",8,204.0,4424.0,52.16,35.61,34.6,41.77,30.91,43.42,37.64
+998,India,Madhya Pradesh,Mandsaur,"Calendar Year (Jan - Dec), 2021",8,248.0,5540.0,53.02,46.54,38.82,40.48,34.73,44.32,43.47
+999,India,Madhya Pradesh,Morena,"Calendar Year (Jan - Dec), 2017",8,204.0,4800.0,53.91,34.0,38.39,44.5,29.83,47.38,34.67
+1000,India,Madhya Pradesh,Morena,"Calendar Year (Jan - Dec), 2021",8,272.0,5828.0,56.5,59.06,41.65,39.09,39.29,46.49,42.92
+1001,India,Madhya Pradesh,Narsinghpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5064.0,70.2,58.51,62.48,74.25,43.96,67.51,49.14
+1002,India,Madhya Pradesh,Narsinghpur,"Calendar Year (Jan - Dec), 2021",8,220.0,5504.0,58.57,64.27,44.94,51.75,45.28,54.78,57.12
+1003,India,Madhya Pradesh,Neemuch,"Calendar Year (Jan - Dec), 2017",8,204.0,3868.0,57.39,39.7,45.83,40.12,31.05,48.09,42.34
+1004,India,Madhya Pradesh,Neemuch,"Calendar Year (Jan - Dec), 2021",8,264.0,5840.0,52.25,39.83,35.24,31.76,33.65,45.8,40.23
+1005,India,Madhya Pradesh,Panna,"Calendar Year (Jan - Dec), 2017",8,204.0,3912.0,43.91,24.17,33.88,35.69,23.09,36.69,32.33
+1006,India,Madhya Pradesh,Panna,"Calendar Year (Jan - Dec), 2021",8,240.0,5376.0,60.79,70.17,50.08,52.35,43.68,53.84,47.53
+1007,India,Madhya Pradesh,Raisen,"Calendar Year (Jan - Dec), 2017",8,204.0,4328.0,52.82,30.3,42.42,45.29,26.17,47.94,40.61
+1008,India,Madhya Pradesh,Raisen,"Calendar Year (Jan - Dec), 2021",8,220.0,5324.0,65.47,71.93,50.53,52.71,46.0,61.15,58.46
+1009,India,Madhya Pradesh,Rajgarh,"Calendar Year (Jan - Dec), 2017",8,204.0,4576.0,57.26,37.7,38.39,54.37,35.92,41.2,30.74
+1010,India,Madhya Pradesh,Rajgarh,"Calendar Year (Jan - Dec), 2021",8,236.0,5304.0,53.65,55.82,39.14,37.69,33.89,45.31,34.22
+1011,India,Madhya Pradesh,Ratlam,"Calendar Year (Jan - Dec), 2017",8,204.0,4736.0,54.63,35.69,39.82,49.41,29.49,45.15,37.29
+1012,India,Madhya Pradesh,Ratlam,"Calendar Year (Jan - Dec), 2021",8,228.0,5280.0,50.94,39.12,36.14,37.91,27.27,42.51,33.11
+1013,India,Madhya Pradesh,Rewa,"Calendar Year (Jan - Dec), 2017",8,204.0,5268.0,51.22,38.69,34.92,45.33,28.57,47.7,43.62
+1014,India,Madhya Pradesh,Rewa,"Calendar Year (Jan - Dec), 2021",8,232.0,4960.0,49.7,45.69,35.61,31.86,30.88,44.87,37.27
+1015,India,Madhya Pradesh,Sagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5164.0,61.47,46.82,53.72,56.0,44.43,52.85,43.96
+1016,India,Madhya Pradesh,Sagar,"Calendar Year (Jan - Dec), 2021",8,248.0,6348.0,57.62,53.59,46.5,49.73,38.62,52.32,45.8
+1017,India,Madhya Pradesh,Satna,"Calendar Year (Jan - Dec), 2017",8,204.0,4540.0,48.95,36.62,38.95,41.15,28.03,44.86,38.24
+1018,India,Madhya Pradesh,Satna,"Calendar Year (Jan - Dec), 2021",8,260.0,5696.0,52.46,48.37,37.82,38.62,33.25,48.09,41.02
+1019,India,Madhya Pradesh,Sehore,"Calendar Year (Jan - Dec), 2017",8,204.0,4000.0,60.9,35.18,45.5,39.1,34.8,52.69,52.62
+1020,India,Madhya Pradesh,Sehore,"Calendar Year (Jan - Dec), 2021",8,244.0,5388.0,52.96,57.75,36.24,39.06,34.17,45.27,42.77
+1021,India,Madhya Pradesh,Seoni,"Calendar Year (Jan - Dec), 2017",8,204.0,4696.0,52.51,34.69,39.1,51.45,28.67,47.45,42.15
+1022,India,Madhya Pradesh,Seoni,"Calendar Year (Jan - Dec), 2021",8,224.0,5380.0,47.23,37.46,34.64,34.98,26.83,41.28,35.36
+1023,India,Madhya Pradesh,Shahdol,"Calendar Year (Jan - Dec), 2017",8,204.0,5260.0,55.93,33.18,43.46,54.83,31.76,49.37,38.75
+1024,India,Madhya Pradesh,Shahdol,"Calendar Year (Jan - Dec), 2021",8,240.0,5860.0,53.76,68.56,41.62,39.05,38.74,48.71,43.62
+1025,India,Madhya Pradesh,Shajapur,"Calendar Year (Jan - Dec), 2017",8,204.0,4536.0,58.91,40.07,45.94,48.85,28.95,45.98,35.26
+1026,India,Madhya Pradesh,Shajapur,"Calendar Year (Jan - Dec), 2021",8,248.0,5456.0,50.6,51.33,35.44,31.54,32.34,40.57,36.33
+1027,India,Madhya Pradesh,Sheopur,"Calendar Year (Jan - Dec), 2017",8,204.0,4672.0,51.92,30.39,36.54,35.87,25.22,42.41,28.67
+1028,India,Madhya Pradesh,Sheopur,"Calendar Year (Jan - Dec), 2021",8,200.0,4748.0,60.46,60.78,38.77,55.84,45.5,51.84,57.95
+1029,India,Madhya Pradesh,Shivpuri,"Calendar Year (Jan - Dec), 2017",8,204.0,5204.0,58.26,52.56,52.52,52.11,41.21,55.9,37.52
+1030,India,Madhya Pradesh,Shivpuri,"Calendar Year (Jan - Dec), 2021",8,220.0,5260.0,53.06,52.87,40.53,52.45,32.43,42.89,43.27
+1031,India,Madhya Pradesh,Sidhi,"Calendar Year (Jan - Dec), 2017",8,204.0,4872.0,50.42,37.61,40.92,51.89,33.76,45.38,38.56
+1032,India,Madhya Pradesh,Sidhi,"Calendar Year (Jan - Dec), 2021",8,228.0,5384.0,63.84,73.56,52.86,63.15,47.59,58.0,62.96
+1033,India,Madhya Pradesh,Tikamgarh,"Calendar Year (Jan - Dec), 2017",8,150.31488482243765,3816.8191342167993,61.45,39.01,46.78,54.83,33.74,53.58,40.22
+1034,India,Madhya Pradesh,Tikamgarh,"Calendar Year (Jan - Dec), 2021",8,212.0,5148.0,60.41,69.79,51.49,54.05,45.32,58.77,53.77
+1035,India,Madhya Pradesh,Ujjain,"Calendar Year (Jan - Dec), 2017",8,204.0,4756.0,51.25,33.11,34.98,38.94,21.21,43.09,36.36
+1036,India,Madhya Pradesh,Ujjain,"Calendar Year (Jan - Dec), 2021",8,244.0,5256.0,54.06,50.26,39.65,35.55,30.29,44.53,36.08
+1037,India,Madhya Pradesh,Umaria,"Calendar Year (Jan - Dec), 2017",8,204.0,4448.0,50.03,38.56,35.45,48.92,22.8,47.34,47.94
+1038,India,Madhya Pradesh,Umaria,"Calendar Year (Jan - Dec), 2021",8,208.0,4812.0,47.68,43.51,36.64,40.96,26.72,43.52,37.71
+1039,India,Madhya Pradesh,Vidisha,"Calendar Year (Jan - Dec), 2017",8,204.0,4176.0,46.26,31.84,36.18,34.1,31.36,39.99,37.48
+1040,India,Madhya Pradesh,Vidisha,"Calendar Year (Jan - Dec), 2021",8,220.0,4696.0,56.82,55.52,42.43,50.55,35.84,48.46,44.65
+1041,India,Madhya Pradesh,Singrauli,"Calendar Year (Jan - Dec), 2017",8,204.0,5632.0,45.83,32.72,37.37,44.53,20.94,43.26,36.89
+1042,India,Madhya Pradesh,Singrauli,"Calendar Year (Jan - Dec), 2021",8,208.0,5412.0,49.05,56.82,35.22,41.01,33.51,44.08,46.17
+1043,India,Madhya Pradesh,Alirajpur,"Calendar Year (Jan - Dec), 2017",8,200.0,4172.0,44.67,30.71,36.94,44.39,34.21,42.54,37.57
+1044,India,Madhya Pradesh,Alirajpur,"Calendar Year (Jan - Dec), 2021",8,224.0,4812.0,43.35,37.03,35.06,38.24,26.58,40.59,39.0
+1045,India,Madhya Pradesh,Agar Malwa,"Calendar Year (Jan - Dec), 2017",8,204.0,4188.0,57.16,28.41,44.26,38.97,29.28,48.97,32.51
+1046,India,Madhya Pradesh,Agar Malwa,"Calendar Year (Jan - Dec), 2021",8,228.0,4908.0,51.13,50.57,36.7,38.72,30.77,41.94,40.98
+1047,India,Madhya Pradesh,Niwari,"Calendar Year (Jan - Dec), 2017",8,53.68511517756236,1363.1808657832012,61.45,39.01,46.78,54.83,33.74,53.58,40.22
+1048,India,Madhya Pradesh,Niwari,"Calendar Year (Jan - Dec), 2021",8,176.0,4416.0,59.85,68.85,48.69,51.98,49.32,50.44,61.67
+1049,India,Gujarat,Ahmadabad,"Calendar Year (Jan - Dec), 2017",8,204.0,5224.0,63.34,41.32,51.61,67.84,29.47,54.72,53.74
+1050,India,Gujarat,Ahmadabad,"Calendar Year (Jan - Dec), 2021",8,300.0,8188.0,59.05,50.21,43.94,34.79,39.72,51.86,38.23
+1051,India,Gujarat,Amreli,"Calendar Year (Jan - Dec), 2017",8,204.0,4608.0,61.44,33.45,47.96,61.02,32.2,56.55,48.31
+1052,India,Gujarat,Amreli,"Calendar Year (Jan - Dec), 2021",8,224.0,4948.0,55.3,41.15,38.88,33.32,35.25,51.9,34.34
+1053,India,Gujarat,Anand,"Calendar Year (Jan - Dec), 2017",8,204.0,5436.0,63.26,34.72,51.28,60.49,39.68,57.24,59.45
+1054,India,Gujarat,Anand,"Calendar Year (Jan - Dec), 2021",8,280.0,7792.0,54.11,45.47,35.62,33.03,35.59,48.01,34.38
+1055,India,Gujarat,Banas Kantha,"Calendar Year (Jan - Dec), 2017",8,204.0,5576.0,67.9,52.29,61.23,68.87,31.18,64.87,69.68
+1056,India,Gujarat,Banas Kantha,"Calendar Year (Jan - Dec), 2021",8,272.0,7656.0,54.81,48.61,36.64,30.1,35.98,50.26,31.47
+1057,India,Gujarat,Bharuch,"Calendar Year (Jan - Dec), 2017",8,204.0,4896.0,56.86,32.62,41.52,56.37,27.1,54.28,57.42
+1058,India,Gujarat,Bharuch,"Calendar Year (Jan - Dec), 2021",8,276.0,7292.0,55.88,39.67,37.1,27.47,34.31,48.52,33.7
+1059,India,Gujarat,Bhavnagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5092.0,72.01,44.18,61.92,73.53,30.77,68.88,62.95
+1060,India,Gujarat,Bhavnagar,"Calendar Year (Jan - Dec), 2021",8,228.0,5764.0,54.47,43.65,37.23,33.21,36.15,49.96,37.05
+1061,India,Gujarat,Dang,"Calendar Year (Jan - Dec), 2017",8,204.0,5216.0,64.99,48.62,58.44,67.02,25.54,61.02,62.69
+1062,India,Gujarat,Dang,"Calendar Year (Jan - Dec), 2021",8,168.0,3804.0,50.47,47.54,34.54,33.25,35.13,45.49,30.57
+1063,India,Gujarat,Dohad,"Calendar Year (Jan - Dec), 2017",8,204.0,5224.0,68.55,55.56,66.27,69.68,44.53,62.95,65.2
+1064,India,Gujarat,Dohad,"Calendar Year (Jan - Dec), 2021",8,276.0,7456.0,55.01,56.44,40.03,33.83,40.9,51.39,43.52
+1065,India,Gujarat,Gandhinagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5276.0,61.31,40.12,51.9,67.85,33.74,58.03,64.3
+1066,India,Gujarat,Gandhinagar,"Calendar Year (Jan - Dec), 2021",8,300.0,7644.0,60.49,48.05,41.63,36.1,42.1,53.9,38.3
+1067,India,Gujarat,Jamnagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4428.0,57.86,35.84,42.46,59.89,29.33,56.55,56.83
+1068,India,Gujarat,Jamnagar,"Calendar Year (Jan - Dec), 2021",8,264.0,6512.0,58.46,42.39,40.63,32.89,39.85,52.08,35.12
+1069,India,Gujarat,Junagadh,"Calendar Year (Jan - Dec), 2017",8,204.0,4288.0,64.22,37.5,56.63,62.97,35.29,62.22,59.01
+1070,India,Gujarat,Junagadh,"Calendar Year (Jan - Dec), 2021",8,232.0,4884.0,60.05,44.09,40.44,33.15,33.05,53.94,37.56
+1071,India,Gujarat,Kachchh,"Calendar Year (Jan - Dec), 2017",8,204.0,4804.0,62.71,35.78,50.62,56.79,20.85,56.25,54.4
+1072,India,Gujarat,Kachchh,"Calendar Year (Jan - Dec), 2021",8,288.0,6756.0,54.05,44.18,34.44,30.74,35.12,48.32,34.78
+1073,India,Gujarat,Kheda,"Calendar Year (Jan - Dec), 2017",8,204.0,5432.0,63.96,44.36,57.97,67.3,36.55,60.46,61.84
+1074,India,Gujarat,Kheda,"Calendar Year (Jan - Dec), 2021",8,276.0,7376.0,55.16,53.0,39.41,32.56,39.77,49.2,42.52
+1075,India,Gujarat,Mahesana,"Calendar Year (Jan - Dec), 2017",8,204.0,5376.0,67.34,44.56,50.32,70.09,36.4,60.42,67.31
+1076,India,Gujarat,Mahesana,"Calendar Year (Jan - Dec), 2021",8,284.0,7816.0,59.8,52.24,43.2,34.7,36.79,54.34,36.21
+1077,India,Gujarat,Narmada,"Calendar Year (Jan - Dec), 2017",8,204.0,5004.0,58.4,36.15,43.32,54.36,24.4,51.81,56.98
+1078,India,Gujarat,Narmada,"Calendar Year (Jan - Dec), 2021",8,200.0,4528.0,65.53,67.47,51.35,41.96,41.09,59.1,55.89
+1079,India,Gujarat,Navsari,"Calendar Year (Jan - Dec), 2017",8,204.0,5132.0,66.76,38.75,54.55,67.58,37.01,61.53,66.72
+1080,India,Gujarat,Navsari,"Calendar Year (Jan - Dec), 2021",8,224.0,5360.0,57.11,42.85,37.92,32.38,35.06,51.68,31.06
+1081,India,Gujarat,Panch Mahals,"Calendar Year (Jan - Dec), 2017",8,204.0,5044.0,70.77,56.04,63.54,68.2,41.67,66.86,62.5
+1082,India,Gujarat,Panch Mahals,"Calendar Year (Jan - Dec), 2021",8,276.0,7568.0,54.82,49.5,38.06,36.19,36.97,48.67,38.86
+1083,India,Gujarat,Patan,"Calendar Year (Jan - Dec), 2017",8,204.0,5240.0,60.64,48.28,54.1,70.99,27.61,58.46,62.99
+1084,India,Gujarat,Patan,"Calendar Year (Jan - Dec), 2021",8,240.0,6144.0,52.67,42.19,33.69,31.99,32.46,47.8,30.41
+1085,India,Gujarat,Porbandar,"Calendar Year (Jan - Dec), 2017",8,204.0,4548.0,62.6,44.13,52.27,60.6,36.35,57.05,48.7
+1086,India,Gujarat,Porbandar,"Calendar Year (Jan - Dec), 2021",8,212.0,4780.0,52.8,36.39,34.65,29.81,34.86,45.33,33.69
+1087,India,Gujarat,Rajkot,"Calendar Year (Jan - Dec), 2017",8,204.0,4572.0,62.96,41.22,49.24,63.87,29.58,54.08,59.15
+1088,India,Gujarat,Rajkot,"Calendar Year (Jan - Dec), 2021",8,248.0,5788.0,59.18,40.39,39.37,27.84,36.19,52.12,33.58
+1089,India,Gujarat,Sabar Kantha,"Calendar Year (Jan - Dec), 2017",8,204.0,4948.0,58.95,32.9,46.3,64.75,26.97,57.36,49.76
+1090,India,Gujarat,Sabar Kantha,"Calendar Year (Jan - Dec), 2021",8,284.0,7200.0,56.0,52.97,38.6,33.63,41.15,52.98,32.84
+1091,India,Gujarat,Surat,"Calendar Year (Jan - Dec), 2017",8,200.0,5320.0,65.49,37.61,51.0,62.33,40.12,54.94,61.68
+1092,India,Gujarat,Surat,"Calendar Year (Jan - Dec), 2021",8,272.0,7308.0,57.42,45.29,37.68,34.59,35.72,50.34,36.85
+1093,India,Gujarat,Surendranagar,"Calendar Year (Jan - Dec), 2017",8,204.0,4844.0,60.73,40.74,50.14,62.76,33.71,58.27,50.89
+1094,India,Gujarat,Surendranagar,"Calendar Year (Jan - Dec), 2021",8,232.0,5348.0,57.43,43.33,39.55,32.22,38.28,50.53,33.67
+1095,India,Gujarat,Vadodara,"Calendar Year (Jan - Dec), 2017",8,204.0,5248.0,58.71,41.94,50.64,62.35,33.59,59.03,61.88
+1096,India,Gujarat,Vadodara,"Calendar Year (Jan - Dec), 2021",8,300.0,8156.0,59.13,45.62,42.46,36.49,36.61,53.61,36.33
+1097,India,Gujarat,Valsad,"Calendar Year (Jan - Dec), 2017",8,204.0,5312.0,66.09,38.68,54.64,73.64,38.58,60.93,68.38
+1098,India,Gujarat,Valsad,"Calendar Year (Jan - Dec), 2021",8,244.0,6768.0,58.63,46.46,40.84,35.63,38.3,51.3,38.62
+1099,India,Gujarat,Tapi,"Calendar Year (Jan - Dec), 2017",8,204.0,4916.0,65.12,37.25,54.96,59.32,32.54,61.17,69.04
+1100,India,Gujarat,Tapi,"Calendar Year (Jan - Dec), 2021",8,204.0,5040.0,54.84,36.84,37.22,35.97,29.97,48.36,36.73
+1101,India,Gujarat,Chhotaudepur,"Calendar Year (Jan - Dec), 2017",8,204.0,4996.0,61.31,45.53,53.7,66.05,30.76,62.73,65.77
+1102,India,Gujarat,Chhotaudepur,"Calendar Year (Jan - Dec), 2021",8,236.0,6092.0,60.34,63.4,44.9,44.08,40.69,57.73,44.31
+1103,India,Gujarat,Mahisagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5052.0,67.04,54.29,57.53,76.09,44.39,60.52,62.88
+1104,India,Gujarat,Mahisagar,"Calendar Year (Jan - Dec), 2021",8,228.0,5376.0,57.9,58.09,43.09,39.05,42.08,57.09,46.1
+1105,India,Gujarat,Arvalli,"Calendar Year (Jan - Dec), 2017",8,204.0,4940.0,61.95,37.0,48.33,63.32,34.09,58.63,64.29
+1106,India,Gujarat,Arvalli,"Calendar Year (Jan - Dec), 2021",8,264.0,6784.0,53.89,49.1,40.99,26.76,35.15,47.91,34.88
+1107,India,Gujarat,Morbi,"Calendar Year (Jan - Dec), 2017",8,204.0,4644.0,61.8,39.26,49.57,64.0,29.01,56.6,53.79
+1108,India,Gujarat,Morbi,"Calendar Year (Jan - Dec), 2021",8,208.0,4984.0,57.05,44.56,37.85,26.06,42.3,52.3,36.14
+1109,India,Gujarat,Devbhumi Dwarka,"Calendar Year (Jan - Dec), 2017",8,204.0,4656.0,64.63,40.98,54.64,69.59,30.35,62.45,61.55
+1110,India,Gujarat,Devbhumi Dwarka,"Calendar Year (Jan - Dec), 2021",8,220.0,5012.0,53.21,43.45,37.32,32.15,37.92,48.89,35.42
+1111,India,Gujarat,Gir Somnath,"Calendar Year (Jan - Dec), 2017",8,204.0,4780.0,62.32,30.67,49.81,71.13,33.28,53.82,55.63
+1112,India,Gujarat,Gir Somnath,"Calendar Year (Jan - Dec), 2021",8,200.0,4608.0,53.92,40.41,33.76,31.39,36.48,48.4,34.56
+1113,India,Gujarat,Botad,"Calendar Year (Jan - Dec), 2017",8,204.0,5500.0,70.28,45.13,61.67,75.93,37.73,68.62,59.68
+1114,India,Gujarat,Botad,"Calendar Year (Jan - Dec), 2021",8,196.0,4700.0,57.2,51.02,42.01,31.83,35.47,52.76,36.53
+1115,India,Maharashtra,Ahmednagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5884.0,66.71,38.29,45.7,47.38,28.14,44.18,59.43
+1116,India,Maharashtra,Ahmednagar,"Calendar Year (Jan - Dec), 2021",8,308.0,8416.0,63.55,44.34,41.83,42.37,31.77,47.69,53.26
+1117,India,Maharashtra,Akola,"Calendar Year (Jan - Dec), 2017",8,204.0,5416.0,58.97,31.7,39.51,34.34,31.67,38.83,43.22
+1118,India,Maharashtra,Akola,"Calendar Year (Jan - Dec), 2021",8,304.0,7252.0,53.96,46.66,38.14,35.52,29.87,41.88,51.27
+1119,India,Maharashtra,Amravati,"Calendar Year (Jan - Dec), 2017",8,204.0,5256.0,56.56,33.17,38.6,52.13,31.89,41.2,36.36
+1120,India,Maharashtra,Amravati,"Calendar Year (Jan - Dec), 2021",8,300.0,7880.0,50.87,45.51,34.47,36.69,29.39,41.43,40.04
+1121,India,Maharashtra,Aurangabad,"Calendar Year (Jan - Dec), 2017",8,204.0,5644.0,63.13,34.51,40.42,48.26,33.52,43.72,46.73
+1122,India,Maharashtra,Aurangabad,"Calendar Year (Jan - Dec), 2021",8,292.0,7824.0,58.05,45.39,39.98,41.08,31.86,45.0,51.17
+1123,India,Maharashtra,Beed,"Calendar Year (Jan - Dec), 2017",8,204.0,5544.0,70.65,41.24,53.54,58.37,39.42,54.8,52.37
+1124,India,Maharashtra,Beed,"Calendar Year (Jan - Dec), 2021",8,292.0,7576.0,55.76,41.9,36.2,37.4,28.51,42.04,51.59
+1125,India,Maharashtra,Bhandara,"Calendar Year (Jan - Dec), 2017",8,204.0,5448.0,56.7,33.38,35.38,42.14,33.85,36.24,33.43
+1126,India,Maharashtra,Bhandara,"Calendar Year (Jan - Dec), 2021",8,268.0,7548.0,49.02,40.72,32.38,35.79,29.6,38.13,36.84
+1127,India,Maharashtra,Buldhana,"Calendar Year (Jan - Dec), 2017",8,204.0,5512.0,63.76,34.68,47.58,48.11,38.79,44.55,49.93
+1128,India,Maharashtra,Buldhana,"Calendar Year (Jan - Dec), 2021",8,300.0,8140.0,53.39,45.79,40.97,37.63,31.68,44.32,47.18
+1129,India,Maharashtra,Chandrapur,"Calendar Year (Jan - Dec), 2017",8,204.0,5308.0,56.81,28.31,34.43,38.88,25.82,31.92,36.87
+1130,India,Maharashtra,Chandrapur,"Calendar Year (Jan - Dec), 2021",8,328.0,8528.0,52.94,40.98,37.64,31.7,28.77,40.45,39.14
+1131,India,Maharashtra,Dhule,"Calendar Year (Jan - Dec), 2017",8,196.0,6028.0,63.07,36.07,49.93,51.89,32.07,43.84,50.2
+1132,India,Maharashtra,Dhule,"Calendar Year (Jan - Dec), 2021",8,264.0,7124.0,56.16,46.79,38.89,40.52,29.82,45.57,49.29
+1133,India,Maharashtra,Gadchiroli,"Calendar Year (Jan - Dec), 2017",8,204.0,5688.0,62.71,44.93,52.44,52.6,41.57,44.9,44.38
+1134,India,Maharashtra,Gadchiroli,"Calendar Year (Jan - Dec), 2021",8,272.0,7120.0,48.69,40.52,33.47,34.5,27.21,35.44,40.79
+1135,India,Maharashtra,Gondia,"Calendar Year (Jan - Dec), 2017",8,204.0,5452.0,58.8,31.92,38.81,44.46,36.91,38.88,29.41
+1136,India,Maharashtra,Gondia,"Calendar Year (Jan - Dec), 2021",8,288.0,7548.0,52.78,45.31,36.99,35.24,26.8,42.92,40.14
+1137,India,Maharashtra,Hingoli,"Calendar Year (Jan - Dec), 2017",8,204.0,5436.0,64.47,33.79,50.59,52.76,35.63,41.3,58.05
+1138,India,Maharashtra,Hingoli,"Calendar Year (Jan - Dec), 2021",8,268.0,6928.0,51.15,42.75,33.97,32.33,25.5,40.03,47.31
+1139,India,Maharashtra,Jalgaon,"Calendar Year (Jan - Dec), 2017",8,200.0,5440.0,56.72,36.85,41.07,44.63,38.86,38.88,47.16
+1140,India,Maharashtra,Jalgaon,"Calendar Year (Jan - Dec), 2021",8,304.0,8080.0,55.13,46.53,42.1,30.24,31.28,45.85,48.36
+1141,India,Maharashtra,Jalna,"Calendar Year (Jan - Dec), 2017",8,204.0,5628.0,53.81,28.98,35.22,37.74,23.8,34.09,44.08
+1142,India,Maharashtra,Jalna,"Calendar Year (Jan - Dec), 2021",8,304.0,8208.0,49.61,40.62,34.97,34.2,26.3,39.11,38.22
+1143,India,Maharashtra,Kolhapur,"Calendar Year (Jan - Dec), 2017",8,204.0,5756.0,67.97,29.76,39.67,41.9,26.67,39.31,60.69
+1144,India,Maharashtra,Kolhapur,"Calendar Year (Jan - Dec), 2021",8,312.0,7376.0,69.93,45.87,45.36,43.54,32.3,54.12,50.35
+1145,India,Maharashtra,Latur,"Calendar Year (Jan - Dec), 2017",8,204.0,5644.0,64.63,32.52,45.22,45.43,25.35,41.41,50.99
+1146,India,Maharashtra,Latur,"Calendar Year (Jan - Dec), 2021",8,296.0,7508.0,57.06,41.33,41.13,42.36,27.74,49.06,49.01
+1147,India,Maharashtra,Mumbai,"Calendar Year (Jan - Dec), 2017",8,404.0,10240.0,60.71337528644796,30.028567571441968,36.64665103958446,44.34678966170298,29.37451838186807,32.17896637856155,37.93744153525784
+1148,India,Maharashtra,Mumbai,"Calendar Year (Jan - Dec), 2021",8,340.0,8776.0,54.8884481567901,40.87428734500387,39.42474444839717,34.65821497169524,26.4672396465305,42.59936021534602,37.40387147864832
+1149,India,Maharashtra,Nagpur,"Calendar Year (Jan - Dec), 2017",8,204.0,5268.0,56.11,29.03,36.61,43.96,33.54,39.23,35.51
+1150,India,Maharashtra,Nagpur,"Calendar Year (Jan - Dec), 2021",8,312.0,8100.0,56.54,42.91,40.29,36.14,31.45,45.98,40.61
+1151,India,Maharashtra,Nanded,"Calendar Year (Jan - Dec), 2017",8,204.0,5288.0,59.5,36.25,44.15,45.92,29.81,37.58,50.67
+1152,India,Maharashtra,Nanded,"Calendar Year (Jan - Dec), 2021",8,300.0,7496.0,55.92,45.52,40.62,38.53,31.02,44.03,48.02
+1153,India,Maharashtra,Nandurbar,"Calendar Year (Jan - Dec), 2017",8,200.0,5408.0,61.35,42.86,54.44,62.5,35.23,49.66,54.44
+1154,India,Maharashtra,Nandurbar,"Calendar Year (Jan - Dec), 2021",8,264.0,7236.0,52.36,53.08,44.57,39.52,28.12,46.54,51.64
+1155,India,Maharashtra,Nashik,"Calendar Year (Jan - Dec), 2017",8,204.0,5692.0,62.01,36.06,42.48,49.33,34.08,40.56,54.84
+1156,India,Maharashtra,Nashik,"Calendar Year (Jan - Dec), 2021",8,312.0,8860.0,59.93,49.8,43.05,42.13,31.97,47.73,48.19
+1157,India,Maharashtra,Osmanabad,"Calendar Year (Jan - Dec), 2017",8,200.0,5164.0,67.17,33.75,44.52,55.93,37.35,40.59,50.0
+1158,India,Maharashtra,Osmanabad,"Calendar Year (Jan - Dec), 2021",8,300.0,7612.0,60.16,45.02,40.22,48.24,31.26,45.82,57.34
+1159,India,Maharashtra,Parbhani,"Calendar Year (Jan - Dec), 2017",8,204.0,5448.0,63.95,26.25,38.1,39.94,27.03,39.03,56.19
+1160,India,Maharashtra,Parbhani,"Calendar Year (Jan - Dec), 2021",8,296.0,7576.0,51.02,40.8,36.22,32.68,24.95,40.05,47.59
+1161,India,Maharashtra,Pune,"Calendar Year (Jan - Dec), 2017",8,204.0,5560.0,66.72,29.46,40.36,43.88,25.68,36.02,51.36
+1162,India,Maharashtra,Pune,"Calendar Year (Jan - Dec), 2021",8,312.0,8660.0,61.63,45.05,42.79,40.81,31.56,48.21,45.74
+1163,India,Maharashtra,Raigad,"Calendar Year (Jan - Dec), 2017",8,204.0,5704.0,61.72,33.81,42.07,49.44,33.93,40.23,53.05
+1164,India,Maharashtra,Raigad,"Calendar Year (Jan - Dec), 2021",8,292.0,7920.0,60.26,49.17,44.01,36.4,30.61,49.48,45.35
+1165,India,Maharashtra,Ratnagiri,"Calendar Year (Jan - Dec), 2017",8,204.0,5672.0,70.15,20.47,42.18,54.23,31.8,38.27,57.12
+1166,India,Maharashtra,Ratnagiri,"Calendar Year (Jan - Dec), 2021",8,308.0,6820.0,60.44,39.22,36.42,43.01,24.89,40.42,46.23
+1167,India,Maharashtra,Sangli,"Calendar Year (Jan - Dec), 2017",8,204.0,5644.0,64.5,33.8,41.22,49.26,22.59,37.63,54.12
+1168,India,Maharashtra,Sangli,"Calendar Year (Jan - Dec), 2021",8,296.0,7488.0,58.81,42.43,38.98,41.15,32.94,43.89,53.54
+1169,India,Maharashtra,Satara,"Calendar Year (Jan - Dec), 2017",8,204.0,5552.0,71.41,26.37,41.74,45.75,27.52,45.43,59.8
+1170,India,Maharashtra,Satara,"Calendar Year (Jan - Dec), 2021",8,320.0,7600.0,65.03,41.59,40.8,42.18,29.68,45.26,51.75
+1171,India,Maharashtra,Sindhudurg,"Calendar Year (Jan - Dec), 2017",8,204.0,5800.0,76.31,31.89,48.26,49.03,32.82,48.19,61.55
+1172,India,Maharashtra,Sindhudurg,"Calendar Year (Jan - Dec), 2021",8,216.0,4988.0,69.46,41.81,42.83,50.03,30.48,48.16,49.13
+1173,India,Maharashtra,Solapur,"Calendar Year (Jan - Dec), 2017",8,204.0,5672.0,61.34,38.9,49.86,50.99,27.62,40.57,52.41
+1174,India,Maharashtra,Solapur,"Calendar Year (Jan - Dec), 2021",8,324.0,8164.0,61.64,48.31,42.44,41.94,31.99,45.41,53.71
+1175,India,Maharashtra,Thane,"Calendar Year (Jan - Dec), 2017",8,204.0,5664.0,63.72,35.28,33.97,48.16,25.07,40.1,47.67
+1176,India,Maharashtra,Thane,"Calendar Year (Jan - Dec), 2021",8,288.0,8028.0,58.26,43.33,41.92,38.61,26.95,44.06,41.92
+1177,India,Maharashtra,Wardha,"Calendar Year (Jan - Dec), 2017",8,204.0,5176.0,58.74,33.33,39.91,43.59,32.38,37.81,46.75
+1178,India,Maharashtra,Wardha,"Calendar Year (Jan - Dec), 2021",8,336.0,8884.0,51.23,38.24,34.66,35.64,28.9,39.56,43.04
+1179,India,Maharashtra,Washim,"Calendar Year (Jan - Dec), 2017",8,204.0,5588.0,59.54,37.34,39.96,34.65,35.04,39.16,56.01
+1180,India,Maharashtra,Washim,"Calendar Year (Jan - Dec), 2021",8,284.0,7504.0,54.14,51.9,42.44,37.69,30.65,43.77,49.74
+1181,India,Maharashtra,Yavatmal,"Calendar Year (Jan - Dec), 2017",8,204.0,5088.0,55.14,28.66,37.07,39.62,33.59,32.22,44.9
+1182,India,Maharashtra,Yavatmal,"Calendar Year (Jan - Dec), 2021",8,304.0,7796.0,51.79,40.22,34.96,33.35,25.43,39.85,41.75
+1183,India,Maharashtra,Palghar,"Calendar Year (Jan - Dec), 2017",8,204.0,5700.0,57.91,28.74,39.92,48.84,19.97,36.32,47.55
+1184,India,Maharashtra,Palghar,"Calendar Year (Jan - Dec), 2021",8,292.0,8220.0,53.07,44.99,38.73,38.03,28.0,39.79,42.91
+1185,India,Andhra Pradesh,Anantapur,"Calendar Year (Jan - Dec), 2017",8,204.0,5156.0,57.32,40.82,48.86,57.25,37.88,53.88,50.0
+1186,India,Andhra Pradesh,Anantapur,"Calendar Year (Jan - Dec), 2021",8,264.0,7000.0,47.09,45.6,35.82,29.01,37.47,38.38,31.18
+1187,India,Andhra Pradesh,Chittoor,"Calendar Year (Jan - Dec), 2017",8,204.0,4872.0,53.0,42.7,42.97,47.54,25.55,47.81,46.39
+1188,India,Andhra Pradesh,Y.S.R.,"Calendar Year (Jan - Dec), 2017",8,204.0,5092.0,61.28,54.42,47.67,49.02,40.53,58.76,46.64
+1189,India,Andhra Pradesh,East Godavari,"Calendar Year (Jan - Dec), 2017",8,204.0,5332.0,66.65,59.7,63.3,57.61,47.11,71.15,52.89
+1190,India,Andhra Pradesh,East Godavari,"Calendar Year (Jan - Dec), 2021",8,216.0,5736.0,48.83,43.5,37.78,34.84,40.52,44.3,31.29
+1191,India,Andhra Pradesh,Guntur,"Calendar Year (Jan - Dec), 2017",8,204.0,4632.0,58.57,49.4,49.05,54.06,42.11,55.43,50.43
+1192,India,Andhra Pradesh,Guntur,"Calendar Year (Jan - Dec), 2021",8,300.0,8372.0,50.57,49.37,37.04,34.77,36.4,43.27,33.2
+1193,India,Andhra Pradesh,Krishna,"Calendar Year (Jan - Dec), 2017",8,200.0,4632.0,58.77,45.58,49.03,53.97,41.75,50.47,46.84
+1194,India,Andhra Pradesh,Krishna,"Calendar Year (Jan - Dec), 2021",8,300.0,8128.0,50.34,42.51,34.53,31.12,30.44,44.71,27.86
+1195,India,Andhra Pradesh,Kurnool,"Calendar Year (Jan - Dec), 2017",8,204.0,4616.0,54.29,45.39,43.15,56.15,29.36,50.48,44.91
+1196,India,Andhra Pradesh,Kurnool,"Calendar Year (Jan - Dec), 2021",8,276.0,7460.0,45.51,40.36,35.85,33.39,32.06,38.74,31.59
+1197,India,Andhra Pradesh,Spsr Nellore,"Calendar Year (Jan - Dec), 2017",8,204.0,4816.0,56.32,38.63,44.85,52.99,27.66,51.69,49.58
+1198,India,Andhra Pradesh,Prakasam,"Calendar Year (Jan - Dec), 2017",8,204.0,5064.0,62.41,56.85,55.24,51.34,48.4,64.71,50.48
+1199,India,Andhra Pradesh,Prakasam,"Calendar Year (Jan - Dec), 2021",8,292.0,7800.0,49.07,46.97,36.0,32.51,40.03,42.5,29.02
+1200,India,Andhra Pradesh,Srikakulam,"Calendar Year (Jan - Dec), 2017",8,204.0,5184.0,63.18,54.39,54.5,49.92,41.49,64.97,51.82
+1201,India,Andhra Pradesh,Srikakulam,"Calendar Year (Jan - Dec), 2021",8,184.0,4576.0,50.63,44.28,37.8,31.79,37.5,46.27,30.39
+1202,India,Andhra Pradesh,Visakhapatanam,"Calendar Year (Jan - Dec), 2017",8,200.0,4680.0,54.88,36.27,43.27,52.31,35.88,54.73,42.36
+1203,India,Andhra Pradesh,Visakhapatanam,"Calendar Year (Jan - Dec), 2021",8,304.0,8428.0,54.14,47.0,41.34,39.99,36.09,47.9,38.93
+1204,India,Andhra Pradesh,Vizianagaram,"Calendar Year (Jan - Dec), 2017",8,204.0,4944.0,54.69,45.85,45.6,59.22,40.26,56.12,53.62
+1205,India,Andhra Pradesh,Vizianagaram,"Calendar Year (Jan - Dec), 2021",8,204.0,5440.0,49.88,48.04,37.73,40.74,38.25,42.14,29.06
+1206,India,Andhra Pradesh,West Godavari,"Calendar Year (Jan - Dec), 2017",8,204.0,5008.0,52.88,36.63,40.04,52.16,24.92,50.53,49.69
+1207,India,Andhra Pradesh,West Godavari,"Calendar Year (Jan - Dec), 2021",8,240.0,6060.0,47.26,39.93,34.93,32.94,35.45,44.27,32.44
+1208,India,Karnataka,Bagalkote,"Calendar Year (Jan - Dec), 2017",8,204.0,5804.0,73.84,72.78,63.38,75.33,41.86,69.15,72.5
+1209,India,Karnataka,Bagalkote,"Calendar Year (Jan - Dec), 2021",8,284.0,8020.0,50.9,47.91,40.89,39.36,33.57,49.54,43.06
+1210,India,Karnataka,Bengaluru Urban,"Calendar Year (Jan - Dec), 2017",8,400.0,10836.0,54.73,39.585,46.07,56.69,25.7,44.13,49.91
+1211,India,Karnataka,Bengaluru Urban,"Calendar Year (Jan - Dec), 2021",8,608.0,16640.0,58.45,47.04,45.245,37.715,35.015,53.335,40.425
+1212,India,Karnataka,Bengaluru Rural,"Calendar Year (Jan - Dec), 2017",8,200.0,5552.0,64.35,52.79,58.41,68.08,37.59,58.36,63.57
+1213,India,Karnataka,Bengaluru Rural,"Calendar Year (Jan - Dec), 2021",8,276.0,6904.0,50.84,36.06,40.12,30.34,31.88,47.03,33.6
+1214,India,Karnataka,Chitradurga,"Calendar Year (Jan - Dec), 2021",8,280.0,7336.0,51.41,50.02,42.42,34.39,36.65,52.15,37.86
+1215,India,Karnataka,Dakshina Kannada,"Calendar Year (Jan - Dec), 2017",8,204.0,5396.0,61.37,39.73,46.02,53.0,30.58,44.49,69.28
+1216,India,Karnataka,Dakshina Kannada,"Calendar Year (Jan - Dec), 2021",8,300.0,7380.0,57.85,41.85,43.17,34.92,32.25,52.45,37.34
+1217,India,Karnataka,Belagavi,"Calendar Year (Jan - Dec), 2017",8,408.0,11624.0,70.85,73.27,67.855,67.37,44.21,69.81,75.295
+1218,India,Karnataka,Belagavi,"Calendar Year (Jan - Dec), 2021",8,584.0,17024.0,53.12,48.93,43.11,42.605,34.29,48.825,44.425
+1219,India,Karnataka,Ballari,"Calendar Year (Jan - Dec), 2017",8,204.0,5880.0,65.36,61.9,65.4,67.96,28.71,66.56,65.17
+1220,India,Karnataka,Ballari,"Calendar Year (Jan - Dec), 2021",8,292.0,8472.0,48.51,49.59,42.0,42.3,34.99,46.56,40.74
+1221,India,Karnataka,Bidar,"Calendar Year (Jan - Dec), 2017",8,204.0,5136.0,65.9,54.42,47.24,60.36,33.08,60.23,57.23
+1222,India,Karnataka,Bidar,"Calendar Year (Jan - Dec), 2021",8,288.0,7636.0,45.1,50.16,38.62,41.98,34.08,42.57,41.56
+1223,India,Karnataka,Vijayapura,"Calendar Year (Jan - Dec), 2017",8,200.0,5380.0,66.42,60.45,59.9,67.51,38.68,66.24,75.29
+1224,India,Karnataka,Vijayapura,"Calendar Year (Jan - Dec), 2021",8,280.0,7912.0,50.11,46.5,38.25,38.74,34.4,46.62,37.32
+1225,India,Karnataka,Chamarajanagara,"Calendar Year (Jan - Dec), 2017",8,204.0,5564.0,58.67,49.93,50.96,64.85,25.51,54.74,65.22
+1226,India,Karnataka,Chamarajanagara,"Calendar Year (Jan - Dec), 2021",8,288.0,8080.0,45.31,38.37,36.73,35.11,29.63,39.7,32.43
+1227,India,Karnataka,Chikkamagaluru,"Calendar Year (Jan - Dec), 2017",8,204.0,5304.0,53.72,38.24,43.32,48.04,25.19,50.68,56.37
+1228,India,Karnataka,Chikkamagaluru,"Calendar Year (Jan - Dec), 2021",8,288.0,7744.0,50.78,43.26,41.67,36.43,34.49,48.35,33.36
+1229,India,Karnataka,Chitradurga,"Calendar Year (Jan - Dec), 2017",8,196.0,5440.0,64.97,63.89,58.39,66.69,31.88,61.42,65.21
+1230,India,Karnataka,Davangere,"Calendar Year (Jan - Dec), 2017",8,204.0,5740.0,64.14,56.4,59.11,68.78,37.01,68.22,63.56
+1231,India,Karnataka,Davangere,"Calendar Year (Jan - Dec), 2021",8,280.0,7416.0,48.84,46.77,37.82,37.53,34.4,45.61,39.39
+1232,India,Karnataka,Dharwad,"Calendar Year (Jan - Dec), 2017",8,204.0,5596.0,62.62,63.32,63.14,61.54,30.96,64.19,70.04
+1233,India,Karnataka,Dharwad,"Calendar Year (Jan - Dec), 2021",8,296.0,8480.0,53.27,46.05,43.98,36.91,34.13,50.31,39.11
+1234,India,Karnataka,Gadag,"Calendar Year (Jan - Dec), 2017",8,200.0,5408.0,61.82,64.64,53.14,74.56,48.6,65.05,54.64
+1235,India,Karnataka,Gadag,"Calendar Year (Jan - Dec), 2021",8,284.0,8032.0,50.06,48.74,40.24,38.51,35.45,50.45,38.0
+1236,India,Karnataka,Kalaburagi,"Calendar Year (Jan - Dec), 2017",8,204.0,5252.0,56.99,56.9,46.92,56.05,33.13,52.43,59.91
+1237,India,Karnataka,Kalaburagi,"Calendar Year (Jan - Dec), 2021",8,296.0,7356.0,44.97,39.56,37.33,32.57,28.9,42.7,35.89
+1238,India,Karnataka,Hassan,"Calendar Year (Jan - Dec), 2017",8,204.0,5364.0,64.23,54.95,58.91,59.13,44.44,65.08,66.67
+1239,India,Karnataka,Hassan,"Calendar Year (Jan - Dec), 2021",8,292.0,7192.0,57.16,51.18,45.57,41.45,43.01,54.6,48.41
+1240,India,Karnataka,Haveri,"Calendar Year (Jan - Dec), 2017",8,204.0,5664.0,62.54,48.79,53.57,70.55,32.87,60.54,64.06
+1241,India,Karnataka,Haveri,"Calendar Year (Jan - Dec), 2021",8,280.0,7588.0,44.95,39.06,37.6,31.93,28.39,46.9,34.44
+1242,India,Karnataka,Kodagu,"Calendar Year (Jan - Dec), 2017",8,204.0,5316.0,58.25,38.45,49.62,52.22,23.7,52.78,64.83
+1243,India,Karnataka,Kodagu,"Calendar Year (Jan - Dec), 2021",8,264.0,6480.0,55.47,41.84,44.74,34.32,33.65,49.77,36.5
+1244,India,Karnataka,Kolar,"Calendar Year (Jan - Dec), 2017",8,204.0,5396.0,53.86,54.53,46.93,55.45,35.95,52.36,62.57
+1245,India,Karnataka,Kolar,"Calendar Year (Jan - Dec), 2021",8,284.0,7800.0,45.26,38.8,36.84,29.45,29.96,41.04,31.87
+1246,India,Karnataka,Koppal,"Calendar Year (Jan - Dec), 2017",8,200.0,5800.0,64.33,60.94,59.07,63.86,38.46,60.85,60.16
+1247,India,Karnataka,Koppal,"Calendar Year (Jan - Dec), 2021",8,276.0,7864.0,54.41,59.88,41.53,42.81,41.84,53.32,53.11
+1248,India,Karnataka,Mandya,"Calendar Year (Jan - Dec), 2017",8,204.0,5640.0,54.06,43.4,49.17,64.61,30.07,57.23,49.36
+1249,India,Karnataka,Mandya,"Calendar Year (Jan - Dec), 2021",8,292.0,7620.0,47.99,44.05,40.72,30.17,33.74,47.47,40.54
+1250,India,Karnataka,Mysuru,"Calendar Year (Jan - Dec), 2017",8,204.0,5328.0,56.32,39.79,50.85,56.31,31.55,55.03,60.37
+1251,India,Karnataka,Mysuru,"Calendar Year (Jan - Dec), 2021",8,300.0,7636.0,48.91,38.92,38.44,34.64,33.35,42.92,37.37
+1252,India,Karnataka,Raichur,"Calendar Year (Jan - Dec), 2017",8,204.0,5728.0,65.64,66.29,61.48,60.06,32.91,63.35,59.97
+1253,India,Karnataka,Raichur,"Calendar Year (Jan - Dec), 2021",8,280.0,8004.0,54.04,57.53,41.25,40.14,36.49,50.91,44.43
+1254,India,Karnataka,Shivamogga,"Calendar Year (Jan - Dec), 2017",8,204.0,5304.0,58.36,48.12,54.14,56.79,24.96,56.06,59.3
+1255,India,Karnataka,Shivamogga,"Calendar Year (Jan - Dec), 2021",8,276.0,7548.0,48.91,40.62,40.73,34.68,34.46,47.13,32.02
+1256,India,Karnataka,Tumakuru,"Calendar Year (Jan - Dec), 2017",8,408.0,11556.0,64.515,59.435,58.58,61.475,40.84,63.975,62.37
+1257,India,Karnataka,Tumakuru,"Calendar Year (Jan - Dec), 2021",8,544.0,14724.0,49.74,48.935,42.385,35.48,36.49,48.29,42.71
+1258,India,Karnataka,Udupi,"Calendar Year (Jan - Dec), 2017",8,204.0,5320.0,61.6,39.97,50.98,51.2,29.69,50.0,55.92
+1259,India,Karnataka,Udupi,"Calendar Year (Jan - Dec), 2021",8,276.0,7372.0,60.04,46.85,44.96,35.29,35.95,53.82,37.61
+1260,India,Lakshadweep,Lakshadweep District,"Calendar Year (Jan - Dec), 2021",8,68.0,1656.0,54.68,38.02,37.2,40.35,33.55,47.39,39.66
+1261,India,Karnataka,Uttara Kannada,"Calendar Year (Jan - Dec), 2017",8,408.0,11444.0,65.855,48.02,55.655,64.675,35.165,62.285,68.505
+1262,India,Karnataka,Uttara Kannada,"Calendar Year (Jan - Dec), 2021",8,536.0,14872.0,57.365,50.005,46.285,44.435,35.675,52.93,46.285
+1263,India,Karnataka,Chikkaballapura,"Calendar Year (Jan - Dec), 2017",8,204.0,5680.0,51.81,47.84,45.49,53.24,29.1,50.77,48.22
+1264,India,Karnataka,Chikkaballapura,"Calendar Year (Jan - Dec), 2021",8,276.0,7420.0,45.31,43.51,37.02,28.72,33.21,41.85,35.93
+1265,India,Karnataka,Ramanagara,"Calendar Year (Jan - Dec), 2017",8,204.0,5584.0,64.23,59.05,54.97,61.96,42.71,63.77,62.0
+1266,India,Karnataka,Ramanagara,"Calendar Year (Jan - Dec), 2021",8,272.0,7012.0,44.0,35.31,34.98,28.88,28.46,40.52,33.17
+1267,India,Karnataka,Yadgir,"Calendar Year (Jan - Dec), 2017",8,204.0,5644.0,68.24,65.33,59.03,68.18,38.85,64.59,58.49
+1268,India,Karnataka,Yadgir,"Calendar Year (Jan - Dec), 2021",8,264.0,6704.0,47.98,50.48,38.92,42.47,35.05,43.54,43.28
+1269,India,Goa,North Goa,"Calendar Year (Jan - Dec), 2017",8,172.0,3580.0,50.5,25.67,34.55,45.47,26.85,43.83,14.32
+1270,India,Goa,North Goa,"Calendar Year (Jan - Dec), 2021",8,216.0,5036.0,61.28,38.62,43.96,28.64,30.96,49.79,30.61
+1271,India,Goa,South Goa,"Calendar Year (Jan - Dec), 2017",8,440.0,11720.0,62.03,26.55,38.11,49.35,22.73,48.23,24.91
+1272,India,Goa,South Goa,"Calendar Year (Jan - Dec), 2021",8,244.0,5916.0,60.67,41.03,46.13,33.37,32.77,52.46,34.38
+1273,India,Lakshadweep,Lakshadweep District,"Calendar Year (Jan - Dec), 2017",8,60.0,3480.0,48.74,21.54,34.78,38.51,20.28,41.61,18.41
+1274,India,Kerala,Alappuzha,"Calendar Year (Jan - Dec), 2017",8,204.0,5368.0,62.29,44.25,44.8,49.93,40.21,54.78,22.14
+1275,India,Kerala,Alappuzha,"Calendar Year (Jan - Dec), 2021",8,280.0,7276.0,57.98,44.17,43.81,33.6,26.43,50.86,48.25
+1276,India,Kerala,Ernakulam,"Calendar Year (Jan - Dec), 2017",8,204.0,5356.0,63.81,53.72,46.84,57.95,19.88,55.33,20.34
+1277,India,Kerala,Ernakulam,"Calendar Year (Jan - Dec), 2021",8,292.0,7844.0,64.33,47.4,46.18,35.63,37.53,58.63,49.34
+1278,India,Kerala,Idukki,"Calendar Year (Jan - Dec), 2017",8,204.0,4904.0,59.28,46.78,46.31,47.8,37.26,55.49,18.24
+1279,India,Kerala,Idukki,"Calendar Year (Jan - Dec), 2021",8,264.0,6344.0,50.92,35.5,36.69,30.97,26.97,47.33,39.72
+1280,India,Kerala,Kannur,"Calendar Year (Jan - Dec), 2017",8,204.0,5232.0,65.83,41.25,48.09,52.37,26.42,58.39,21.2
+1281,India,Kerala,Kannur,"Calendar Year (Jan - Dec), 2021",8,296.0,8564.0,59.92,40.97,41.51,37.36,27.0,48.21,42.16
+1282,India,Kerala,Kasaragod,"Calendar Year (Jan - Dec), 2017",8,204.0,5272.0,61.66,40.86,45.71,51.37,36.58,54.62,25.04
+1283,India,Kerala,Kasaragod,"Calendar Year (Jan - Dec), 2021",8,284.0,8112.0,52.39,39.07,36.23,28.97,25.76,38.55,44.39
+1284,India,Kerala,Kollam,"Calendar Year (Jan - Dec), 2017",8,204.0,5228.0,66.94,61.29,56.64,61.97,46.19,63.09,32.62
+1285,India,Kerala,Kollam,"Calendar Year (Jan - Dec), 2021",8,264.0,6756.0,58.09,46.65,42.89,36.05,30.46,50.44,47.32
+1286,India,Kerala,Kottayam,"Calendar Year (Jan - Dec), 2017",8,204.0,5108.0,62.89,36.6,45.91,54.5,22.99,54.86,20.47
+1287,India,Kerala,Kottayam,"Calendar Year (Jan - Dec), 2021",8,284.0,6952.0,59.74,45.1,43.6,32.32,32.19,52.57,45.46
+1288,India,Kerala,Kozhikode,"Calendar Year (Jan - Dec), 2017",8,204.0,5332.0,64.67,42.77,43.11,58.59,24.23,57.94,22.22
+1289,India,Kerala,Kozhikode,"Calendar Year (Jan - Dec), 2021",8,276.0,7328.0,52.72,43.2,39.23,32.93,27.56,43.74,40.04
+1290,India,Kerala,Malappuram,"Calendar Year (Jan - Dec), 2017",8,200.0,5192.0,62.56,43.15,40.61,53.7,37.25,55.49,26.4
+1291,India,Kerala,Malappuram,"Calendar Year (Jan - Dec), 2021",8,284.0,7928.0,54.98,43.45,39.39,30.86,27.28,45.15,39.81
+1292,India,Kerala,Palakkad,"Calendar Year (Jan - Dec), 2017",8,196.0,5008.0,62.01,49.77,37.65,46.41,18.76,51.42,15.5
+1293,India,Kerala,Palakkad,"Calendar Year (Jan - Dec), 2021",8,284.0,7876.0,53.52,41.15,39.39,34.37,27.46,45.72,42.69
+1294,India,Kerala,Pathanamthitta,"Calendar Year (Jan - Dec), 2017",8,204.0,5064.0,62.16,44.81,43.69,55.06,35.43,56.61,23.19
+1295,India,Kerala,Pathanamthitta,"Calendar Year (Jan - Dec), 2021",8,288.0,6416.0,56.93,38.74,37.81,31.81,29.42,50.15,42.78
+1296,India,Kerala,Thiruvananthapuram,"Calendar Year (Jan - Dec), 2017",8,204.0,5340.0,67.74,51.91,57.12,63.52,50.84,63.34,27.94
+1297,India,Kerala,Thiruvananthapuram,"Calendar Year (Jan - Dec), 2021",8,292.0,8040.0,62.38,49.91,46.46,36.89,33.9,56.76,51.06
+1298,India,Kerala,Thrissur,"Calendar Year (Jan - Dec), 2017",8,160.0,4356.0,62.55,58.02,33.03,55.65,29.59,49.07,14.04
+1299,India,Kerala,Thrissur,"Calendar Year (Jan - Dec), 2021",8,272.0,7316.0,60.67,50.29,44.07,35.3,31.16,52.13,51.28
+1300,India,Kerala,Wayanad,"Calendar Year (Jan - Dec), 2017",8,204.0,4716.0,60.54,54.85,45.98,54.54,23.06,53.18,17.21
+1301,India,Kerala,Wayanad,"Calendar Year (Jan - Dec), 2021",8,256.0,7048.0,48.31,36.51,37.96,27.03,23.78,40.14,37.69
+1302,India,Tamil Nadu,Chennai,"Calendar Year (Jan - Dec), 2017",8,306.1225464195642,6658.722523377626,52.39639025078395,30.594430050306304,36.59611976360349,34.50512891875361,25.532315823139086,36.05920308264383,31.16999406024518
+1303,India,Tamil Nadu,Coimbatore,"Calendar Year (Jan - Dec), 2017",8,132.39265089691656,2743.419694318473,62.78716955327337,25.05872208517203,39.85402051937876,35.046261426041475,23.61685829445493,38.57670083295832,39.02040642934384
+1304,India,Tamil Nadu,Kanchipuram,"Calendar Year (Jan - Dec), 2017",8,56.290832463723646,1278.270987197058,53.55,31.33,40.05,28.26,26.93,39.29,33.93
+1305,India,Tamil Nadu,Coimbatore,"Calendar Year (Jan - Dec), 2021",8,284.9879750362269,7342.438482110963,53.016108809774344,43.57587922366421,37.377727686191974,36.14801614053549,30.367604062901904,48.37726851397171,39.19637960364784
+1306,India,Tamil Nadu,Cuddalore,"Calendar Year (Jan - Dec), 2017",8,200.0,4308.0,57.0,33.33,39.55,31.66,28.02,33.94,44.14
+1307,India,Tamil Nadu,Dharmapuri,"Calendar Year (Jan - Dec), 2017",8,204.0,4468.0,56.92,35.29,39.93,30.8,28.24,42.21,45.14
+1308,India,Tamil Nadu,Dindigul,"Calendar Year (Jan - Dec), 2017",8,200.0,4552.0,58.41,29.12,41.05,33.3,29.95,42.45,43.67
+1309,India,Tamil Nadu,Dindigul,"Calendar Year (Jan - Dec), 2021",8,280.0125854180572,7104.326491280033,47.899922046883916,41.8597237634544,35.60989065636737,35.03988176238768,29.909811133725448,42.41006958231168,36.97979439211663
+1310,India,Tamil Nadu,Erode,"Calendar Year (Jan - Dec), 2017",8,205.2811929798893,4107.658669803108,60.40893800553522,30.09192506026248,37.33277023480046,40.26388906347648,23.76029470582984,41.723751182930094,47.68345647710026
+1311,India,Tamil Nadu,Erode,"Calendar Year (Jan - Dec), 2021",8,285.8260134787313,7260.767967054106,50.59041048120704,42.60182506919025,38.182316596732434,34.562828122489066,30.026875064726365,45.412276600303535,39.8910398892956
+1312,India,Tamil Nadu,Kanniyakumari,"Calendar Year (Jan - Dec), 2017",8,204.0,3872.0,61.62,26.82,40.44,41.63,21.77,44.35,30.8
+1313,India,Tamil Nadu,Karur,"Calendar Year (Jan - Dec), 2017",8,204.0,4340.0,55.26,27.26,34.57,29.4,24.41,34.48,48.1
+1314,India,Tamil Nadu,Karur,"Calendar Year (Jan - Dec), 2021",8,280.0,6660.0,43.32,35.15,31.94,31.76,28.97,38.38,33.13
+1315,India,Tamil Nadu,Krishnagiri,"Calendar Year (Jan - Dec), 2021",8,228.0,5848.0,44.39,43.01,32.82,37.25,30.07,41.24,35.85
+1316,India,Tamil Nadu,Madurai,"Calendar Year (Jan - Dec), 2017",8,200.0,4904.0,56.05,24.6,37.45,28.47,25.0,35.83,43.05
+1317,India,Tamil Nadu,Madurai,"Calendar Year (Jan - Dec), 2021",8,296.0,7776.0,45.44,38.98,35.43,33.25,25.76,42.46,34.47
+1318,India,Tamil Nadu,Nagapattinam,"Calendar Year (Jan - Dec), 2017",8,88.10119459308979,1838.0327656283832,55.48,26.25,35.33,27.73,26.39,35.79,37.86
+1319,India,Tamil Nadu,Nagapattinam,"Calendar Year (Jan - Dec), 2021",8,124.37815707259736,3278.746418385969,41.64,37.25,33.44,30.0,26.62,37.32,29.21
+1320,India,Tamil Nadu,Namakkal,"Calendar Year (Jan - Dec), 2017",8,200.0,4792.0,58.47,25.46,36.6,36.64,24.13,38.42,39.6
+1321,India,Tamil Nadu,Namakkal,"Calendar Year (Jan - Dec), 2021",8,268.0,6376.0,43.23,38.5,32.47,35.32,28.31,41.48,31.59
+1322,India,Tamil Nadu,Perambalur,"Calendar Year (Jan - Dec), 2017",8,204.0,4856.0,60.52,37.19,43.24,42.59,29.95,44.84,42.6
+1323,India,Tamil Nadu,Perambalur,"Calendar Year (Jan - Dec), 2021",8,268.0,6608.0,47.48,47.29,35.47,37.23,31.38,41.7,37.9
+1324,India,Tamil Nadu,Pudukkottai,"Calendar Year (Jan - Dec), 2017",8,200.0,4344.0,58.84,22.04,37.02,30.29,18.32,37.44,52.75
+1325,India,Tamil Nadu,Pudukkottai,"Calendar Year (Jan - Dec), 2021",8,276.0,7184.0,40.76,31.65,30.97,35.91,24.52,38.58,34.74
+1326,India,Tamil Nadu,Ramanathapuram,"Calendar Year (Jan - Dec), 2017",8,204.0,4636.0,61.89,31.01,41.03,33.99,25.13,36.76,45.98
+1327,India,Tamil Nadu,Ramanathapuram,"Calendar Year (Jan - Dec), 2021",8,288.0,7712.0,43.79,36.26,33.86,33.29,24.32,40.18,30.9
+1328,India,Tamil Nadu,Salem,"Calendar Year (Jan - Dec), 2017",8,204.0,4548.0,55.33,26.13,37.12,34.21,23.02,41.03,46.39
+1329,India,Tamil Nadu,The Nilgiris,"Calendar Year (Jan - Dec), 2021",8,3.236334981181564,83.38057486238611,53.02,43.58,37.38,36.15,30.37,48.38,39.2
+1330,India,Tamil Nadu,Sivaganga,"Calendar Year (Jan - Dec), 2017",8,197.60370943505092,4438.192770985342,61.23102618507509,32.08549045682103,40.77609942115144,34.092412781602,27.54020328144556,37.98652729974969,38.83250244446183
+1331,India,Tamil Nadu,Sivaganga,"Calendar Year (Jan - Dec), 2021",8,304.14673241035536,7240.596828276515,45.40842165988736,37.9026151830413,34.942581449468086,33.81440746245306,27.84935730209637,40.81071016505006,31.405771863266583
+1332,India,Tamil Nadu,Thanjavur,"Calendar Year (Jan - Dec), 2017",8,206.39629056494903,4637.807229014657,58.71612500750376,31.694066149027822,38.70155058984746,32.56585798120851,24.085883765170536,41.15706419287464,42.52167654541277
+1333,India,Tamil Nadu,Thanjavur,"Calendar Year (Jan - Dec), 2021",8,291.85326758964464,6999.403171723483,45.271423152159734,41.60157489168707,37.77062207327398,40.27290854104092,28.66156274076727,41.74034289605892,35.3787285873676
+1334,India,Tamil Nadu,The Nilgiris,"Calendar Year (Jan - Dec), 2017",8,191.60734910308344,3568.5803056815275,58.03345933176767,23.669893020457607,36.20018834912337,39.37120562756824,23.41179628489978,40.972197944579825,42.963189613063285
+1335,India,Tamil Nadu,Theni,"Calendar Year (Jan - Dec), 2017",8,202.71880702011063,4244.341330196892,55.21096454949966,28.74064922823805,37.796346615130005,35.89443509568947,23.809611342035108,35.65780492968177,41.568193587646654
+1336,India,Tamil Nadu,Theni,"Calendar Year (Jan - Dec), 2021",8,286.17398652126866,7119.232032945895,40.61858664050124,32.86672108226976,30.20288485871959,30.01583426436308,24.483685155253905,34.07931360033227,33.37138058295877
+1337,India,Tamil Nadu,Thiruvallur,"Calendar Year (Jan - Dec), 2017",8,124.00842991830592,2877.501730961507,55.09,34.39,39.5,38.08,31.23,41.66,31.58
+1338,India,Tamil Nadu,Thiruvarur,"Calendar Year (Jan - Dec), 2017",8,204.0,4568.0,54.51,24.17,35.41,31.79,21.87,34.51,40.04
+1339,India,Tamil Nadu,Thiruvarur,"Calendar Year (Jan - Dec), 2021",8,300.0,7608.0,41.32,38.16,31.98,29.11,25.95,38.13,33.03
+1340,India,Tamil Nadu,Tiruchirappalli,"Calendar Year (Jan - Dec), 2017",8,204.0,4800.0,55.42,25.77,34.32,30.25,22.15,33.64,46.09
+1341,India,Tamil Nadu,Tiruchirappalli,"Calendar Year (Jan - Dec), 2021",8,312.0,8076.0,45.77,42.3,33.6,34.56,28.31,39.96,34.41
+1342,India,Tamil Nadu,Tirunelveli,"Calendar Year (Jan - Dec), 2017",8,109.15082868278093,2685.966470527256,59.96,33.23,37.94,36.41,25.04,37.4,51.52
+1343,India,Tamil Nadu,Tirunelveli,"Calendar Year (Jan - Dec), 2021",8,156.23549987927467,4252.601893974229,47.13,41.52,37.43,36.69,27.43,44.41,36.77
+1344,India,Tamil Nadu,Tiruvannamalai,"Calendar Year (Jan - Dec), 2017",8,204.0,4760.0,53.23,30.6,39.55,32.61,24.63,40.51,39.34
+1345,India,Tamil Nadu,Tuticorin,"Calendar Year (Jan - Dec), 2017",8,201.45363666282705,4878.338064286106,61.34,30.13,35.64,38.14,23.51,35.97,49.6
+1346,India,Tamil Nadu,Tuticorin,"Calendar Year (Jan - Dec), 2021",8,288.3552054193407,7244.430777247546,45.71,35.38,31.44,33.22,24.5,39.28,36.32
+1347,India,Tamil Nadu,Vellore,"Calendar Year (Jan - Dec), 2017",8,81.33271820891079,1967.932828819528,49.15,32.21,34.93,29.42,23.28,37.91,34.75
+1348,India,Tamil Nadu,Villupuram,"Calendar Year (Jan - Dec), 2017",8,121.39248081676087,3177.6267037328575,54.49,36.67,43.71,32.36,35.26,36.61,37.48
+1349,India,Tamil Nadu,Virudhunagar,"Calendar Year (Jan - Dec), 2017",8,204.0,5060.0,58.0,23.08,35.61,34.23,22.6,34.19,51.38
+1350,India,Tamil Nadu,Virudhunagar,"Calendar Year (Jan - Dec), 2021",8,276.0,7336.0,44.2,42.61,34.05,34.22,27.17,41.92,31.69
+1351,India,Tamil Nadu,Ariyalur,"Calendar Year (Jan - Dec), 2021",8,280.0,6912.0,42.86,40.45,32.21,34.09,27.39,37.8,33.13
+1352,India,Tamil Nadu,Tiruppur,"Calendar Year (Jan - Dec), 2021",8,275.7631045645344,7153.854451746616,46.41,36.58,33.52,32.78,26.3,43.74,33.05
+1353,India,Tamil Nadu,Kallakurichi,"Calendar Year (Jan - Dec), 2017",8,82.60751918323913,2162.373296267142,54.49,36.67,43.71,32.36,35.26,36.61,37.48
+1354,India,Tamil Nadu,Chengalpattu,"Calendar Year (Jan - Dec), 2017",8,105.57819119840624,2397.5047584638082,53.55,31.33,40.05,28.26,26.93,39.29,33.93
+1355,India,Tamil Nadu,Ranipet,"Calendar Year (Jan - Dec), 2017",8,62.18906286082141,1504.7314425539923,49.15,32.21,34.93,29.42,23.28,37.91,34.75
+1356,India,Tamil Nadu,Tirupathur,"Calendar Year (Jan - Dec), 2017",8,60.47821893026781,1463.3357286264797,49.15,32.21,34.93,29.42,23.28,37.91,34.75
+1357,India,Tamil Nadu,Tenkasi,"Calendar Year (Jan - Dec), 2017",8,97.39553465439202,2395.6954651866376,59.98075420832771,33.183378227669635,37.90540965278714,36.43601795681663,25.016989899462757,37.37849382760245,51.49112457971797
+1358,India,Tamil Nadu,Tenkasi,"Calendar Year (Jan - Dec), 2021",8,139.40929470138465,3786.967328778225,47.10864422041641,41.42765881222308,37.339914704432616,36.637813693552786,27.385934905507103,44.33284848643394,36.7632323233714
+1359,India,Tamil Nadu,Mayiladuthurai,"Calendar Year (Jan - Dec), 2017",8,115.8988054069102,2417.967234371617,55.48,26.25,35.33,27.73,26.39,35.79,37.86
+1360,India,Tamil Nadu,Mayiladuthurai,"Calendar Year (Jan - Dec), 2021",8,163.62184292740264,4313.253581614032,41.64,37.25,33.44,30.0,26.62,37.32,29.21
+1361,India,Puducherry,Karaikal,"Calendar Year (Jan - Dec), 2017",8,88.0,1840.0,50.36,29.31,32.51,25.43,19.3,31.39,39.91
+1362,India,Puducherry,Karaikal,"Calendar Year (Jan - Dec), 2021",8,208.0,4872.0,50.02,38.28,36.24,31.74,29.31,45.05,35.72
+1363,India,Puducherry,Mahe,"Calendar Year (Jan - Dec), 2017",8,24.0,616.0,57.06,35.53,42.17,42.86,19.23,50.33,19.23
+1364,India,Puducherry,Mahe,"Calendar Year (Jan - Dec), 2021",8,64.0,1376.0,65.29,44.06,43.67,29.94,32.48,51.23,39.95
+1365,India,Puducherry,Pondicherry,"Calendar Year (Jan - Dec), 2017",8,204.0,5228.0,42.14,23.15,34.48,27.85,20.79,34.23,19.42
+1366,India,Puducherry,Pondicherry,"Calendar Year (Jan - Dec), 2021",8,280.0,7340.0,58.7,47.4,43.78,41.55,37.37,54.35,45.95
+1367,India,Puducherry,Yanam,"Calendar Year (Jan - Dec), 2017",8,32.0,884.0,50.83,26.61,39.7,44.34,38.39,44.65,22.32
+1368,India,Puducherry,Yanam,"Calendar Year (Jan - Dec), 2021",8,72.0,1600.0,44.26,44.35,38.06,55.14,33.15,44.05,48.9
+1369,India,Andaman And Nicobar Islands,South Andamans,"Calendar Year (Jan - Dec), 2017",8,204.0,3960.0,51.08,27.07,33.47,37.68,22.63,45.81,26.46
+1370,India,Andaman And Nicobar Islands,South Andamans,"Calendar Year (Jan - Dec), 2021",8,188.0,4588.0,57.06,53.56,45.33,38.9,33.63,52.88,41.77
+1371,India,Andaman And Nicobar Islands,Nicobars,"Calendar Year (Jan - Dec), 2017",8,80.0,1068.0,44.29,30.37,32.59,40.45,39.39,35.57,33.33
+1372,India,Andaman And Nicobar Islands,Nicobars,"Calendar Year (Jan - Dec), 2021",8,80.0,1412.0,37.58,39.72,24.69,34.37,28.21,26.42,40.81
+1373,India,Andaman And Nicobar Islands,North And Middle Andaman,"Calendar Year (Jan - Dec), 2017",8,220.0,3692.0,51.32,31.63,35.28,34.99,23.42,51.02,36.92
+1374,India,Andaman And Nicobar Islands,North And Middle Andaman,"Calendar Year (Jan - Dec), 2021",8,132.0,2428.0,50.02,47.57,37.51,32.96,25.6,50.77,53.26
+1375,India,Telangana,Adilabad,"Calendar Year (Jan - Dec), 2017",8,204.0,5204.0,43.62,29.89,30.9,49.12,25.92,30.11,37.42
+1376,India,Telangana,Adilabad,"Calendar Year (Jan - Dec), 2021",8,188.0,4884.0,38.95,33.2,31.76,29.83,28.49,34.48,25.8
+1377,India,Telangana,Hyderabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4688.0,56.87,37.33,38.74,62.71,31.03,36.09,35.17
+1378,India,Telangana,Hyderabad,"Calendar Year (Jan - Dec), 2021",8,312.0,7868.0,47.9,36.3,36.95,33.75,27.86,41.75,31.86
+1379,India,Telangana,Karimnagar,"Calendar Year (Jan - Dec), 2017",8,204.0,3848.0,55.22,34.37,39.03,58.94,26.93,34.16,37.37
+1380,India,Telangana,Karimnagar,"Calendar Year (Jan - Dec), 2021",8,204.0,5096.0,54.89,42.55,38.01,31.11,33.97,46.71,30.24
+1381,India,Telangana,Khammam,"Calendar Year (Jan - Dec), 2017",8,204.0,5068.0,54.05,37.77,38.28,63.93,34.18,33.78,49.76
+1382,India,Telangana,Khammam,"Calendar Year (Jan - Dec), 2021",8,216.0,5316.0,49.58,44.01,36.19,33.09,35.87,42.83,36.99
+1383,India,Telangana,Mahabubnagar,"Calendar Year (Jan - Dec), 2017",8,121.52484154657108,3269.256521605794,52.2,36.44,34.51,56.63,28.74,31.83,49.19
+1384,India,Telangana,Mahabubnagar,"Calendar Year (Jan - Dec), 2021",8,208.0,5584.0,47.44,46.99,34.82,31.64,34.21,44.73,35.9
+1385,India,Telangana,Medak,"Calendar Year (Jan - Dec), 2017",8,204.0,5176.0,47.3,34.86,36.21,55.02,30.16,29.13,48.13
+1386,India,Telangana,Medak,"Calendar Year (Jan - Dec), 2021",8,184.0,4192.0,42.12,41.22,34.01,30.52,28.62,40.68,29.12
+1387,India,Telangana,Nalgonda,"Calendar Year (Jan - Dec), 2017",8,204.0,5124.0,49.6,28.17,35.25,54.25,27.56,34.76,33.07
+1388,India,Telangana,Nalgonda,"Calendar Year (Jan - Dec), 2021",8,236.0,6040.0,44.36,39.1,35.02,26.88,31.95,38.82,30.2
+1389,India,Telangana,Nizamabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4644.0,54.56,41.72,45.31,62.79,36.66,38.33,45.61
+1390,India,Telangana,Nizamabad,"Calendar Year (Jan - Dec), 2021",8,232.0,6012.0,48.28,38.15,36.44,33.34,32.77,39.04,25.17
+1391,India,Telangana,Ranga Reddy,"Calendar Year (Jan - Dec), 2017",8,200.0,4828.0,54.08,36.6,38.11,57.91,31.6,32.97,49.24
+1392,India,Telangana,Ranga Reddy,"Calendar Year (Jan - Dec), 2021",8,220.0,6192.0,50.8,37.14,36.05,35.08,31.32,43.85,37.32
+1393,India,Telangana,Warangal,"Calendar Year (Jan - Dec), 2017",8,204.0,4292.0,51.45,35.83,35.74,52.56,23.33,33.74,45.74
+1394,India,Telangana,Warangal,"Calendar Year (Jan - Dec), 2021",8,200.0,4888.0,46.25,38.82,32.57,27.92,32.67,40.65,26.59
+1395,India,Telangana,Nirmal,"Calendar Year (Jan - Dec), 2017",8,204.0,5360.0,54.86,38.13,42.72,59.78,30.48,36.57,46.55
+1396,India,Telangana,Nirmal,"Calendar Year (Jan - Dec), 2021",8,192.0,4804.0,45.34,39.7,34.12,30.56,30.63,37.81,28.71
+1397,India,Telangana,Jagitial,"Calendar Year (Jan - Dec), 2017",8,204.0,4636.0,53.36,37.03,36.37,53.58,21.64,30.92,43.98
+1398,India,Telangana,Jagitial,"Calendar Year (Jan - Dec), 2021",8,188.0,5040.0,48.05,36.44,35.25,29.73,29.63,42.22,29.25
+1399,India,Telangana,Peddapalli,"Calendar Year (Jan - Dec), 2017",8,204.0,4188.0,54.84,32.96,37.11,54.63,32.75,38.4,37.79
+1400,India,Telangana,Peddapalli,"Calendar Year (Jan - Dec), 2021",8,196.0,4984.0,49.28,37.72,34.56,35.56,28.6,41.25,32.92
+1401,India,Telangana,Rajanna Sircilla,"Calendar Year (Jan - Dec), 2017",8,204.0,4308.0,52.49,37.78,39.42,55.71,26.44,32.1,38.73
+1402,India,Telangana,Rajanna Sircilla,"Calendar Year (Jan - Dec), 2021",8,188.0,4460.0,44.91,35.93,32.89,28.62,26.24,38.87,29.29
+1403,India,Telangana,Mancherial,"Calendar Year (Jan - Dec), 2017",8,200.0,4656.0,58.14,41.4,38.45,58.08,26.17,38.63,51.47
+1404,India,Telangana,Mancherial,"Calendar Year (Jan - Dec), 2021",8,204.0,5040.0,46.63,34.96,36.05,27.51,29.82,42.17,26.89
+1405,India,Telangana,Kamareddy,"Calendar Year (Jan - Dec), 2017",8,204.0,5400.0,52.19,45.94,42.0,59.93,36.55,34.62,54.53
+1406,India,Telangana,Kamareddy,"Calendar Year (Jan - Dec), 2021",8,200.0,5172.0,41.36,35.03,30.27,33.04,29.0,33.98,28.52
+1407,India,Telangana,Hanumakonda,"Calendar Year (Jan - Dec), 2017",8,204.0,4112.0,55.73,39.72,38.52,58.66,34.35,36.54,39.28
+1408,India,Telangana,Hanumakonda,"Calendar Year (Jan - Dec), 2021",8,220.0,5584.0,59.4,52.45,43.19,35.47,38.63,54.56,40.32
+1409,India,Telangana,Jayashankar Bhupalapally,"Calendar Year (Jan - Dec), 2017",8,119.50462305709311,2718.144367573099,52.58,32.54,32.97,48.62,25.96,29.45,41.4
+1410,India,Telangana,Jayashankar Bhupalapally,"Calendar Year (Jan - Dec), 2021",8,172.0,4116.0,43.15,44.31,34.94,32.0,35.23,38.22,33.06
+1411,India,Telangana,Mahabubabad,"Calendar Year (Jan - Dec), 2017",8,204.0,4924.0,47.59,34.54,32.29,45.49,26.0,28.89,39.33
+1412,India,Telangana,Mahabubabad,"Calendar Year (Jan - Dec), 2021",8,200.0,5028.0,39.5,43.26,31.53,23.34,27.81,35.62,30.96
+1413,India,Telangana,Jangoan,"Calendar Year (Jan - Dec), 2017",8,204.0,4528.0,53.29,33.63,36.4,56.89,26.2,31.36,40.64
+1414,India,Telangana,Jangoan,"Calendar Year (Jan - Dec), 2021",8,188.0,4896.0,45.0,46.34,34.98,40.78,38.57,44.66,35.72
+1415,India,Telangana,Bhadradri Kothagudem,"Calendar Year (Jan - Dec), 2017",8,204.0,4964.0,53.24,32.68,33.96,52.94,29.41,31.53,46.58
+1416,India,Telangana,Bhadradri Kothagudem,"Calendar Year (Jan - Dec), 2021",8,208.0,5716.0,44.35,37.38,37.51,30.17,30.36,41.7,30.85
+1417,India,Telangana,Sangareddy,"Calendar Year (Jan - Dec), 2017",8,204.0,5572.0,54.59,42.65,44.69,61.52,30.04,41.66,45.06
+1418,India,Telangana,Sangareddy,"Calendar Year (Jan - Dec), 2021",8,204.0,5188.0,49.84,43.7,40.7,33.84,32.93,46.16,36.57
+1419,India,Telangana,Siddipet,"Calendar Year (Jan - Dec), 2017",8,204.0,5048.0,56.55,44.64,47.19,65.85,40.97,39.22,52.12
+1420,India,Telangana,Siddipet,"Calendar Year (Jan - Dec), 2021",8,196.0,5192.0,45.18,40.04,35.81,27.85,36.1,39.52,32.64
+1421,India,Telangana,Wanaparthy,"Calendar Year (Jan - Dec), 2017",8,204.0,4980.0,54.48,32.36,36.51,56.79,30.3,31.75,47.37
+1422,India,Telangana,Wanaparthy,"Calendar Year (Jan - Dec), 2021",8,176.0,4572.0,43.59,45.34,36.2,30.76,29.86,36.73,28.52
+1423,India,Telangana,Nagarkurnool,"Calendar Year (Jan - Dec), 2017",8,204.0,5088.0,50.83,33.65,34.59,57.7,29.28,34.01,44.55
+1424,India,Telangana,Nagarkurnool,"Calendar Year (Jan - Dec), 2021",8,204.0,5272.0,43.44,42.0,35.91,33.91,36.13,40.29,32.51
+1425,India,Telangana,Jogulamba Gadwal,"Calendar Year (Jan - Dec), 2017",8,204.0,4988.0,50.59,38.77,38.37,57.9,30.1,31.86,41.88
+1426,India,Telangana,Jogulamba Gadwal,"Calendar Year (Jan - Dec), 2021",8,168.0,4728.0,40.34,38.32,33.17,29.98,27.78,37.12,30.24
+1427,India,Telangana,Suryapet,"Calendar Year (Jan - Dec), 2017",8,204.0,4636.0,50.41,31.72,33.61,51.08,26.25,27.81,40.07
+1428,India,Telangana,Suryapet,"Calendar Year (Jan - Dec), 2021",8,212.0,5396.0,49.64,47.82,36.47,32.28,42.39,42.92,31.13
+1429,India,Telangana,Yadadri Bhuvanagiri,"Calendar Year (Jan - Dec), 2017",8,204.0,4420.0,48.1,33.45,30.95,50.68,33.7,34.12,36.28
+1430,India,Telangana,Yadadri Bhuvanagiri,"Calendar Year (Jan - Dec), 2021",8,184.0,4620.0,44.81,39.26,32.92,30.29,27.47,40.54,26.2
+1431,India,Telangana,Vikarabad,"Calendar Year (Jan - Dec), 2017",8,204.0,5252.0,51.52,38.71,35.87,53.24,31.27,32.34,40.79
+1432,India,Telangana,Vikarabad,"Calendar Year (Jan - Dec), 2021",8,208.0,5196.0,47.07,51.42,41.18,35.71,41.46,41.95,38.5
+1433,India,Telangana,Kumuram Bheem Asifabad,"Calendar Year (Jan - Dec), 2017",8,204.0,5224.0,53.13,37.44,35.15,55.82,28.35,32.75,51.93
+1434,India,Telangana,Kumuram Bheem Asifabad,"Calendar Year (Jan - Dec), 2021",8,188.0,4752.0,39.19,34.22,30.81,26.2,23.95,38.31,32.07
+1435,India,Telangana,Medchal Malkajgiri,"Calendar Year (Jan - Dec), 2017",8,204.0,5352.0,53.54,35.85,37.03,58.37,27.45,32.41,45.55
+1436,India,Telangana,Medchal Malkajgiri,"Calendar Year (Jan - Dec), 2021",8,220.0,6168.0,55.87,40.29,39.67,31.93,32.98,48.22,37.08
+1437,India,Telangana,Mulugu,"Calendar Year (Jan - Dec), 2017",8,84.49537694290686,1921.855632426901,52.58,32.54,32.97,48.62,25.96,29.45,41.4
+1438,India,Telangana,Mulugu,"Calendar Year (Jan - Dec), 2021",8,164.0,3428.0,43.08,39.06,31.87,26.71,28.55,37.47,27.93
+1439,India,Telangana,Narayanpet,"Calendar Year (Jan - Dec), 2017",8,82.47515845342893,2218.7434783942053,52.2,36.44,34.51,56.63,28.74,31.83,49.19
+1440,India,Telangana,Narayanpet,"Calendar Year (Jan - Dec), 2021",8,184.0,4988.0,41.06,40.87,30.58,27.98,29.0,37.37,27.6
+1441,India,Ladakh,Kargil,"Calendar Year (Jan - Dec), 2017",8,164.0,1464.0,27.25,29.67,25.91,31.97,23.91,29.04,14.67
+1442,India,Ladakh,Kargil,"Calendar Year (Jan - Dec), 2021",8,276.0,3368.0,56.05,58.24,40.65,47.47,32.77,53.11,42.63
+1443,India,Ladakh,Leh Ladakh,"Calendar Year (Jan - Dec), 2017",8,104.0,824.0,46.41,20.79,34.85,45.63,31.43,39.46,20.0
+1444,India,Ladakh,Leh Ladakh,"Calendar Year (Jan - Dec), 2021",8,200.0,3056.0,64.92,52.36,43.44,38.32,33.07,48.75,45.45
+1445,India,The Dadra And Nagar Haveli And Daman And Diu,Daman,"Calendar Year (Jan - Dec), 2017",8,104.0,2348.0,53.8,21.58,33.22,43.61,21.69,46.2,31.53
+1446,India,The Dadra And Nagar Haveli And Daman And Diu,Daman,"Calendar Year (Jan - Dec), 2021",8,172.0,3984.0,54.92,45.17,37.67,35.03,30.03,48.16,30.63
+1447,India,The Dadra And Nagar Haveli And Daman And Diu,Diu,"Calendar Year (Jan - Dec), 2017",8,48.0,1144.0,50.51,21.92,36.81,42.66,25.0,53.81,40.0
+1448,India,The Dadra And Nagar Haveli And Daman And Diu,Diu,"Calendar Year (Jan - Dec), 2021",8,60.0,1472.0,49.1,43.31,40.1,50.27,35.27,47.53,37.87
+1449,India,The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,"Calendar Year (Jan - Dec), 2017",8,468.0,11032.0,59.7,42.17,53.03,61.39,33.72,58.25,61.25
+1450,India,The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,"Calendar Year (Jan - Dec), 2021",8,244.0,6536.0,57.4,41.17,37.69,38.19,31.74,49.55,30.08
