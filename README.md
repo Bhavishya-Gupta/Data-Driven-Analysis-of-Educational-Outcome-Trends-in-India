@@ -69,13 +69,13 @@ Data-Driven-Analysis-of-Educational-Outcome-Trends-in-India/
 ### **Subject Areas Analyzed**
 | Code | Subject | Focus Area |
 |------|---------|------------|
-| **AVG_L813** | Language (Grade 8) | Literacy & Communication |
-| **AVG_M601** | Mathematics (Grade 6) | Numeracy Foundation |
-| **AVG_SCI703** | Science (Grade 7) | Scientific Reasoning |
-| **AVG_SST605** | Social Studies (Grade 6) | Social Awareness |
-| **AVG_M801** | Mathematics (Grade 8) | Advanced Numeracy |
-| **AVG_SCI801** | Science (Grade 8) | Advanced Scientific Concepts |
-| **AVG_SST704** | Social Studies (Grade 7) | Civic Knowledge |
+| **AVG_L813** | Language (Level 8) | Literacy & Communication |
+| **AVG_M601** | Mathematics (Level 6) | Numeracy Foundation |
+| **AVG_SCI703** | Science (Level 7) | Scientific Reasoning |
+| **AVG_SST605** | Social Studies (Level 6) | Social Awareness |
+| **AVG_M801** | Mathematics (Level 8) | Advanced Numeracy |
+| **AVG_SCI801** | Science (Level 8) | Advanced Scientific Concepts |
+| **AVG_SST704** | Social Studies (Level 7) | Civic Knowledge |
 
 ---
 
